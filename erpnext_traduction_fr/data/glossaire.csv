@@ -1,0 +1,304 @@
+source,traduction
+Save,Enregistrer
+Cancel,Annuler
+Submit,Soumettre
+Edit,Modifier
+Delete,Supprimer
+Update,Mettre à jour
+Refresh,Actualiser
+Print,Imprimer
+Email,E-mail
+Send,Envoyer
+Search,Rechercher
+Filter,Filtrer
+Sort,Trier
+Reset,Réinitialiser
+Apply,Appliquer
+Close,Fermer
+Open,Ouvrir
+Add,Ajouter
+Remove,Retirer
+New,Nouveau
+Create,Créer
+Duplicate,Dupliquer
+Copy,Copier
+Paste,Coller
+Cut,Couper
+Yes,Oui
+No,Non
+OK,OK
+Confirm,Confirmer
+Continue,Continuer
+Back,Retour
+Next,Suivant
+Previous,Précédent
+Skip,Passer
+Done,Terminé
+Loading,Chargement
+Please wait,Veuillez patienter
+Success,Succès
+Error,Erreur
+Warning,Avertissement
+Info,Information
+Help,Aide
+About,À propos
+Settings,Paramètres
+Preferences,Préférences
+Profile,Profil
+Logout,Déconnexion
+Login,Connexion
+Sign in,Se connecter
+Sign out,Se déconnecter
+Sign up,S'inscrire
+Username,Nom d'utilisateur
+Password,Mot de passe
+Forgot password,Mot de passe oublié
+Remember me,Se souvenir de moi
+Name,Nom
+First Name,Prénom
+Last Name,Nom de famille
+Full Name,Nom complet
+Address,Adresse
+City,Ville
+Country,Pays
+State,Région
+Postal Code,Code postal
+Phone,Téléphone
+Mobile,Mobile
+Date,Date
+Time,Heure
+From,De
+To,Vers
+Subject,Objet
+Message,Message
+Description,Description
+Notes,Notes
+Comment,Commentaire
+Attachment,Pièce jointe
+File,Fichier
+Image,Image
+Document,Document
+Folder,Dossier
+Upload,Téléverser
+Download,Télécharger
+Import,Importer
+Export,Exporter
+Customer,Client
+Supplier,Fournisseur
+Vendor,Fournisseur
+Item,Article
+Items,Articles
+Product,Produit
+Service,Service
+Quantity,Quantité
+Price,Prix
+Rate,Taux
+Amount,Montant
+Total,Total
+Subtotal,Sous-total
+Tax,Taxe
+Taxes,Taxes
+Discount,Remise
+Currency,Devise
+Payment,Paiement
+Payments,Paiements
+Invoice,Facture
+Invoices,Factures
+Quotation,Devis
+Quotations,Devis
+Order,Commande
+Orders,Commandes
+Sales Order,Commande Client
+Purchase Order,Commande Fournisseur
+Sales Invoice,Facture de Vente
+Purchase Invoice,Facture d'Achat
+Delivery Note,Bon de Livraison
+Receipt,Reçu
+Account,Compte
+Accounts,Comptes
+Accounting,Comptabilité
+Journal Entry,Écriture Comptable
+Ledger,Grand Livre
+Balance Sheet,Bilan
+Profit and Loss,Compte de Résultat
+General Ledger,Grand Livre Général
+Trial Balance,Balance Générale
+Fiscal Year,Exercice Fiscal
+Company,Société
+Branch,Succursale
+Department,Département
+Employee,Salarié
+Employees,Salariés
+Staff,Personnel
+Team,Équipe
+Manager,Responsable
+Supervisor,Superviseur
+Role,Rôle
+Roles,Rôles
+Permission,Permission
+Permissions,Permissions
+User,Utilisateur
+Users,Utilisateurs
+Group,Groupe
+Groups,Groupes
+Report,Rapport
+Reports,Rapports
+Dashboard,Tableau de bord
+Chart,Graphique
+Charts,Graphiques
+Calendar,Calendrier
+Schedule,Planifier
+Scheduler,Planificateur
+Task,Tâche
+Tasks,Tâches
+Project,Projet
+Projects,Projets
+Activity,Activité
+Activities,Activités
+Event,Événement
+Events,Événements
+Meeting,Réunion
+Call,Appel
+Contact,Contact
+Contacts,Contacts
+Lead,Prospect
+Leads,Prospects
+Opportunity,Opportunité
+Opportunities,Opportunités
+Campaign,Campagne
+Marketing,Marketing
+Sales,Ventes
+Purchase,Achat
+Purchases,Achats
+Stock,Stock
+Inventory,Inventaire
+Warehouse,Entrepôt
+Warehouses,Entrepôts
+Material,Matériel
+Materials,Matériels
+Production,Production
+Manufacturing,Fabrication
+Quality,Qualité
+Asset,Immobilisation
+Assets,Immobilisations
+Depreciation,Amortissement
+Maintenance,Maintenance
+Repair,Réparation
+HR,RH
+Human Resources,Ressources Humaines
+Leave,Congé
+Leaves,Congés
+Attendance,Présence
+Holiday,Jour férié
+Holidays,Jours fériés
+Salary,Salaire
+Payroll,Paie
+Expense,Dépense
+Expenses,Dépenses
+Claim,Note de frais
+Reimbursement,Remboursement
+Allowance,Indemnité
+Bonus,Prime
+Deduction,Déduction
+Loan,Prêt
+Loans,Prêts
+Interest,Intérêt
+Tax Rate,Taux de taxe
+Status,Statut
+Priority,Priorité
+Type,Type
+Category,Catégorie
+Group By,Grouper par
+Active,Actif
+Inactive,Inactif
+Enabled,Activé
+Disabled,Désactivé
+Draft,Brouillon
+Submitted,Soumis
+Cancelled,Annulé
+Approved,Approuvé
+Rejected,Rejeté
+Pending,En attente
+Completed,Terminé
+In Progress,En cours
+Open,Ouvert
+Closed,Fermé
+Paid,Payé
+Unpaid,Impayé
+Overdue,En retard
+Created,Créé
+Modified,Modifié
+Created By,Créé par
+Modified By,Modifié par
+Owner,Propriétaire
+Assigned To,Assigné à
+Comments,Commentaires
+History,Historique
+Activity Log,Journal d'activité
+Show,Afficher
+Hide,Masquer
+Show More,Afficher plus
+Show Less,Afficher moins
+View,Voir
+Preview,Aperçu
+Detail,Détail
+Details,Détails
+Summary,Résumé
+Overview,Aperçu général
+General,Général
+Advanced,Avancé
+Options,Options
+Configuration,Configuration
+Setup,Configuration
+Module,Module
+Modules,Modules
+App,Application
+Application,Application
+Feature,Fonctionnalité
+Features,Fonctionnalités
+Plugin,Extension
+Add Row,Ajouter une ligne
+Remove Row,Supprimer la ligne
+Insert,Insérer
+Move Up,Monter
+Move Down,Descendre
+Sort Ascending,Trier par ordre croissant
+Sort Descending,Trier par ordre décroissant
+Required,Obligatoire
+Optional,Facultatif
+Read Only,Lecture seule
+Hidden,Caché
+Visible,Visible
+Today,Aujourd'hui
+Yesterday,Hier
+Tomorrow,Demain
+This Week,Cette semaine
+Last Week,La semaine dernière
+This Month,Ce mois-ci
+Last Month,Le mois dernier
+This Year,Cette année
+Last Year,L'année dernière
+Day,Jour
+Week,Semaine
+Month,Mois
+Year,Année
+Days,Jours
+Weeks,Semaines
+Months,Mois
+Years,Années
+Hour,Heure
+Minute,Minute
+Second,Seconde
+Hours,Heures
+Minutes,Minutes
+Seconds,Secondes
+Welcome,Bienvenue
+Hello,Bonjour
+Thank you,Merci
+Please,S'il vous plaît
+Notification,Notification
+Notifications,Notifications
+Alert,Alerte
+Alerts,Alertes
+Reminder,Rappel
+Reminders,Rappels

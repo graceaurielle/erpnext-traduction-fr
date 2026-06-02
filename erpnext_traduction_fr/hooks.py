@@ -86,7 +86,7 @@ app_license = "mit"
 # ------------
 
 # before_install = "erpnext_traduction_fr.install.before_install"
-# after_install = "erpnext_traduction_fr.install.after_install"
+after_install = "erpnext_traduction_fr.install.after_install"
 
 # Uninstallation
 # ------------
