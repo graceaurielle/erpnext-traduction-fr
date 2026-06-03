@@ -1,0 +1,137 @@
+source,traduction
+This invoice has already been paid.,Cette facture a déjà été payée.
+This is a virtual doctype and data is cleared periodically.,Il s'agit d'un doctype virtuel et les données sont effacées périodiquement.
+This is considered dangerous from accounting point of view.,Cela est considéré comme dangereux du point de vue comptable.
+This method is only meant for developer mode,Cette méthode est uniquement destinée au mode développeur
+This option can be checked to edit the 'Posting Date' and 'Posting Time' fields.,Cette option peut être cochée pour modifier les champs 'Date de comptabilisation' et 'Heure de comptabilisation'.
+This site is in read only mode, full functionality will be restored soon.,Ce site est en mode lecture seule, la fonctionnalité complète sera restaurée prochainement.
+This site is running in developer mode. Any change made here will be updated in code.,Ce site est en mode développeur. Toute modification effectuée ici sera mise à jour dans le code.
+This table is used to set details about the 'Item', 'Qty', 'Basic Rate', etc.,Ce tableau est utilisé pour définir les détails sur l'article, la qté, le taux de base, etc.
+This value is fetched from {0}'s {1} field,Cette valeur est récupérée depuis le champ {1} de {0}
+This will reset this tour and show it to all users. Are you sure?,Cela réinitialisera cette visite guidée et la montrera à tous les utilisateurs. Êtes-vous sûr ?
+This will terminate the job immediately and might be dangerous, are you sure?,Cela terminera immédiatement le travail et peut être dangereux, êtes-vous sûr ?
+Timesheet {0} cannot be invoiced in its current state,La feuille de temps {0} ne peut pas être facturée dans son état actuel
+Timesheets help keep track of time, cost and billing for activities done by your team,Les feuilles de temps aident à suivre le temps, le coût et la facturation pour les activités de votre équipe
+To Delete list generated with {0} DocTypes,Liste À supprimer générée avec {0} DocTypes
+To Time cannot be before from date,L'heure de fin ne peut pas être avant la date de début
+To add Operations tick the 'With Operations' checkbox.,Pour ajouter des opérations, cochez la case 'Avec opérations'.
+To allow more reports update limit in System Settings.,Pour autoriser plus de rapports, mettez à jour la limite dans les paramètres système.
+To date cannot be before from date,La date de fin ne peut pas être avant la date de début
+To enable server scripts, read the {0}.,Pour activer les scripts serveur, lisez le {0}.
+To print output use <code>print(text)</code>,Pour imprimer la sortie, utilisez <code>print(texte)</code>
+To submit the invoice without purchase order please set {0} as {1} in {2},Pour soumettre la facture sans bon de commande, veuillez définir {0} comme {1} dans {2}
+To submit the invoice without purchase receipt please set {0} as {1} in {2},Pour soumettre la facture sans bon de réception, veuillez définir {0} comme {1} dans {2}
+Too many changes to database in single action.,Trop de modifications de la base de données en une seule action.
+Too many columns. Export the report and print it using a spreadsheet application.,Trop de colonnes. Exportez le rapport et imprimez-le avec une application tableur.
+Too many queued background jobs ({0}). Please retry after some time.,Trop de travaux en arrière-plan en file d'attente ({0}). Veuillez réessayer après quelque temps.
+Too many requests. Please try again later.,Trop de requêtes. Veuillez réessayer plus tard.
+Total Advance Amount (Company Currency),Montant total des avances (devise de la société)
+Total Claimed Amount (Company Currency),Montant total réclamé (devise de la société)
+Total Expense Claim (via Expense Claim),Total des notes de frais (via note de frais)
+Total Expense Claim (via Expense Claims),Total des notes de frais (via notes de frais)
+Total Landed Cost (Company Currency),Coût rendu total (devise de la société)
+Total Number of Booked Depreciations ,Nombre total d'amortissements comptabilisés
+Total Outgoing Value (Consumption),Valeur sortante totale (consommation)
+Total Sanctioned Amount (Company Currency),Montant total approuvé (devise de la société)
+Total Value Difference (Incoming - Outgoing),Différence de valeur totale (entrante - sortante)
+Total Workstation Time (In Hours),Temps total au poste de travail (en heures)
+Total distributed amount {0} must be equal to Budget Amount {1},Le montant total distribué {0} doit être égal au montant budgétaire {1}
+Total distribution percent must equal 100 (currently {0}),Le pourcentage de distribution total doit être égal à 100 (actuellement {0})
+Total leaves allocated cannot exceed annual allocation of {0}.,Le total des congés alloués ne peut pas dépasser l'allocation annuelle de {0}.
+Total of all employee benefits cannot be greater that Max Benefits Amount {0},Le total de tous les avantages employés ne peut pas être supérieur au montant maximum d'avantages {0}
+Total percentage against cost centers should be 100,Le pourcentage total contre les centres de coûts doit être 100
+Total quantity in delivery schedule cannot be greater than the item quantity,La quantité totale dans le calendrier de livraison ne peut pas être supérieure à la quantité de l'article
+Track milestones for any document,Suivre les jalons pour tout document
+Track separate Income and Expense for product verticals or divisions.,Suivre les revenus et dépenses séparément pour les verticales produits ou divisions.
+Transaction Deletion Document {0} has been triggered for company {1},Le document de suppression de transaction {0} a été déclenché pour la société {1}
+Transaction currency: {0} cannot be different from Bank Account({1}) currency: {2},La devise de la transaction : {0} ne peut pas être différente de la devise du compte bancaire ({1}) : {2}
+Transaction date can't be earlier than previous movement date,La date de transaction ne peut pas être antérieure à la date du mouvement précédent
+Transactions using Sales Invoice in POS are disabled.,Les transactions utilisant une facture de vente dans le PDV sont désactivées.
+Transfer Extra Raw Materials to WIP (%),Transférer les matières premières supplémentaires vers WIP (%)
+Type of financial statement this template generates,Type d'état financier que ce modèle génère
+UOM conversion factor required for UOM: {0} in Item: {1},Facteur de conversion UDM requis pour l'UDM : {0} dans l'article : {1}
+URL must start with http:// or https://,L'URL doit commencer par http:// ou https://
+Unable to fetch DocType details. Please contact system administrator.,Impossible de récupérer les détails du DocType. Veuillez contacter l'administrateur système.
+Unable to retrieve your location,Impossible de récupérer votre localisation
+Unaccrued Interest Waiver cannot be greater than overdue amount,La renonciation aux intérêts non accruals ne peut pas être supérieure au montant en retard
+Unexpected Naming Series Pattern,Modèle de série de nommage inattendu
+Unrealized Profit / Loss account for intra-company transfers,Compte de profit/perte non réalisé(e) pour les transferts intra-sociétés
+Unsupported function or operator: {0},Fonction ou opérateur non pris en charge : {0}
+Update Billed Amount in Delivery Note,Mettre à jour le montant facturé dans le bon de livraison
+Update Billed Amount in Purchase Order,Mettre à jour le montant facturé dans le bon de commande
+Update Billed Amount in Purchase Receipt,Mettre à jour le montant facturé dans le bon de réception
+Update stock must be enabled for the purchase invoice {0},La mise à jour du stock doit être activée pour la facture d'achat {0}
+Update the modified timestamp on new communications received in Lead & Opportunity.,Mettre à jour l'horodatage de modification lors de nouvelles communications reçues dans les prospects et opportunités.
+Updating Costing and Billing fields against this Project...,Mise à jour des champs de coût et de facturation pour ce projet...
+Updating Email Queue Statuses. The emails will be picked up in the next scheduled run.,Mise à jour des statuts de la file d'attente e-mail. Les e-mails seront traités lors de la prochaine exécution planifiée.
+Updating counter may lead to document name conflicts if not done properly,La mise à jour du compteur peut entraîner des conflits de noms de documents si elle n'est pas effectuée correctement
+Use % for any non empty value.,Utilisez % pour toute valeur non vide.
+Use <strong>Python</strong> filters to get Accounts,Utilisez des filtres <strong>Python</strong> pour obtenir les comptes
+Use Prices from Default Price List as Fallback,Utiliser les prix de la liste de prix par défaut comme solution de repli
+Use Transaction Date Exchange Rate,Utiliser le taux de change de la date de transaction
+Use a few uncommon words together.,Utilisez quelques mots inhabituels ensemble.
+Use this, for example, if all sent emails should also be send to an archive.,Utilisez ceci, par exemple, si tous les e-mails envoyés doivent également être envoyés à une archive.
+User Id Field is mandatory in the user type {0},Le champ ID utilisateur est obligatoire dans le type d'utilisateur {0}
+User Permissions are used to limit users to specific records.,Les permissions utilisateur sont utilisées pour limiter les utilisateurs à des enregistrements spécifiques.
+User Permissions created successfully,Permissions utilisateur créées avec succès
+User does not have permission to create the new {0},L'utilisateur n'a pas la permission de créer le nouveau {0}
+User with email address {0} does not exist,L'utilisateur avec l'adresse e-mail {0} n'existe pas
+User {0} does not have the permission to create a Workspace.,L'utilisateur {0} n'a pas la permission de créer un espace de travail.
+User {0} is disabled. Please contact your System Manager.,L'utilisateur {0} est désactivé. Veuillez contacter votre gestionnaire système.
+User {0} is not permitted to access this document.,L'utilisateur {0} n'est pas autorisé à accéder à ce document.
+VAT on Expenses and All Other Inputs,TVA sur les dépenses et toutes les autres entrées
+VAT on Sales and All Other Outputs,TVA sur les ventes et toutes les autres sorties
+Valuation rate for customer provided items has been set to zero.,Le taux de valorisation pour les articles fournis par le client a été défini à zéro.
+Verification code email not sent. Please contact Administrator.,L'e-mail de code de vérification n'a pas été envoyé. Veuillez contacter l'administrateur.
+Verification failed please check the link,Vérification échouée, veuillez vérifier le lien
+View Exchange Gain/Loss Journals,Voir les journaux de gain/perte de change
+Visible to website/portal users.,Visible par les utilisateurs du site web/portail.
+Voucher {0} is over-allocated by {1},La pièce {0} est sur-allouée de {1}
+Waived amount {0} cannot be greater than outstanding amount {1},Le montant renoncé {0} ne peut pas être supérieur au montant en souffrance {1}
+Waiver account not set for charge {0} in Loan Product {1},Compte de renonciation non défini pour les frais {0} dans le produit de prêt {1}
+Warehouse {0} does not belong to Company {1}.,L'entrepôt {0} n'appartient pas à la société {1}.
+Warehouse {0} is not allowed for Sales Order {1}, it should be {2},L'entrepôt {0} n'est pas autorisé pour la commande client {1}, il devrait être {2}
+Warning: This action cannot be undone!,Avertissement : Cette action ne peut pas être annulée !
+When checked, only cumulative threshold will be applied,Si coché, seul le seuil cumulatif sera appliqué
+When checked, only transaction threshold will be applied for transaction individually,Si coché, seul le seuil de transaction sera appliqué individuellement pour chaque transaction
+When set to 'Inactive', employees with conflicting active shifts will not be excluded.,Lorsque défini sur 'Inactif', les employés ayant des équipes actives conflictuelles ne seront pas exclus.
+With Period Closing Entry For Opening Balances,Avec écriture de clôture de période pour les soldes d'ouverture
+Work Experience Calculation Method,Méthode de calcul de l'expérience professionnelle
+Workspace <b>{0}</b> does not exist,L'espace de travail <b>{0}</b> n'existe pas
+Would you like to publish this comment? This means it will become visible to website/portal users.,Souhaitez-vous publier ce commentaire ? Cela le rendra visible aux utilisateurs du site web/portail.
+Write Off Recovery Account is mandatory,Le compte de récupération de passation en perte est obligatoire
+Write Off amount cannot be greater than pending loan amount,Le montant de passation en perte ne peut pas être supérieur au montant du prêt en attente
+You are about to open an external link. To confirm, click the link again.,Vous êtes sur le point d'ouvrir un lien externe. Pour confirmer, cliquez à nouveau sur le lien.
+You are about to permanently delete data for {0} entries for company {1}.,Vous êtes sur le point de supprimer définitivement les données de {0} écritures pour la société {1}.
+You are not allowed to access this resource,Vous n'êtes pas autorisé à accéder à cette ressource
+You are not allowed to edit the report.,Vous n'êtes pas autorisé à modifier le rapport.
+You are not allowed to update the status of this event.,Vous n'êtes pas autorisé à mettre à jour le statut de cet événement.
+You are not permitted to access this page without login.,Vous n'êtes pas autorisé à accéder à cette page sans connexion.
+You are not permitted to access this resource. Login to access,Vous n'êtes pas autorisé à accéder à cette ressource. Connectez-vous pour y accéder
+You are only allowed to update order, do not remove or add apps.,Vous êtes uniquement autorisé à mettre à jour l'ordre, ne supprimez pas et n'ajoutez pas d'applications.
+You can add the original invoice {} manually to proceed.,Vous pouvez ajouter manuellement la facture originale {} pour continuer.
+You can also copy-paste following link in your browser,Vous pouvez également copier-coller le lien suivant dans votre navigateur
+You can ask your team to resend the invitation if you'd still like to join.,Vous pouvez demander à votre équipe de renvoyer l'invitation si vous souhaitez toujours rejoindre.
+You can continue with the onboarding after exploring this page,Vous pouvez continuer l'intégration après avoir exploré cette page
+You can disable this {0} instead of deleting it.,Vous pouvez désactiver ce {0} au lieu de le supprimer.
+You can increase the limit from System Settings.,Vous pouvez augmenter la limite depuis les paramètres système.
+You can only insert images in Markdown fields,Vous pouvez uniquement insérer des images dans les champs Markdown
+You can only print upto {0} documents at a time,Vous ne pouvez imprimer que {0} documents à la fois
+You can only set the 3 custom doctypes in the Document Types table.,Vous pouvez uniquement définir les 3 doctypes personnalisés dans la table des types de documents.
+You can only upload JPG, PNG, PDF, TXT or Microsoft documents.,Vous ne pouvez téléverser que des documents JPG, PNG, PDF, TXT ou Microsoft.
+You can set a high value here if multiple users will be logging in from the same network.,Vous pouvez définir une valeur élevée ici si plusieurs utilisateurs se connectent depuis le même réseau.
+You can use Customize Form to set levels on fields.,Vous pouvez utiliser Personnaliser le formulaire pour définir des niveaux sur les champs.
+You can't make any changes to Job Card since Work Order is closed.,Vous ne pouvez pas modifier la carte de travail car l'ordre de travail est fermé.
+You can't redeem Loyalty Points having more value than the Total Amount.,Vous ne pouvez pas échanger des points de fidélité d'une valeur supérieure au montant total.
+You cannot change the rate if BOM is mentioned against any Item.,Vous ne pouvez pas modifier le taux si une nomenclature est mentionnée contre un article.
+You cannot create a {0} within the closed Accounting Period {1},Vous ne pouvez pas créer un(e) {0} dans la période comptable clôturée {1}
+You cannot create/amend any accounting entries till this date.,Vous ne pouvez pas créer/modifier d'écritures comptables jusqu'à cette date.
+You cannot enable both the settings '{0}' and '{1}'.,Vous ne pouvez pas activer à la fois les paramètres '{0}' et '{1}'.
+You cannot repost item valuation before {},Vous ne pouvez pas retransmettre la valorisation des articles avant {}
+You cannot share `{0}` on {1} `{2}` as you do not have `{0}` permission on `{1}`,Vous ne pouvez pas partager `{0}` sur {1} `{2}` car vous n'avez pas la permission `{0}` sur `{1}`
+You changed the value of {0} {1},Vous avez modifié la valeur de {0} {1}
+You do not have import permission for {0},Vous n'avez pas la permission d'importer pour {0}
+You do not have permission to access child table field: {0},Vous n'avez pas la permission d'accéder au champ de table enfant : {0}
+You do not have permission to access field: {0},Vous n'avez pas la permission d'accéder au champ : {0}
+You do not have permission to access this resource,Vous n'avez pas la permission d'accéder à cette ressource
+You do not have permission to access {0}: {1}.,Vous n'avez pas la permission d'accéder à {0} : {1}.

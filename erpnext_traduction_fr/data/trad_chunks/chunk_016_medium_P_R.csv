@@ -1,0 +1,132 @@
+source,traduction
+Please set Customer Address to determine if the transaction is an export.,Veuillez définir l'adresse du client pour déterminer si la transaction est une exportation.
+Please set Email/Phone for the contact,Veuillez définir l'e-mail/téléphone pour le contact
+Please set Fixed Asset Account in Asset Category {0},Veuillez définir le compte d'actif immobilisé dans la catégorie d'actif {0}
+Please set Interest Accrued Account in Loan Product {0},Veuillez définir le compte d'intérêts accruals dans le produit de prêt {0}
+Please set Interest Income Account in Loan Product {0},Veuillez définir le compte de produits d'intérêts dans le produit de prêt {0}
+Please set Parent Row No for item {0},Veuillez définir le n° de ligne parent pour l'article {0}
+Please set Payroll Payable Account in Loan Repayment,Veuillez définir le compte de paie à payer dans le remboursement de prêt
+Please set a date range less than 90 days.,Veuillez définir une plage de dates inférieure à 90 jours.
+Please set a default Holiday List for Company {0},Veuillez définir une liste de jours fériés par défaut pour la société {0}
+Please set an Address on the Company '%s',Veuillez définir une adresse sur la société '%s'
+Please set an Expense Account in the Items table,Veuillez définir un compte de dépenses dans le tableau des articles
+Please set both the Tax ID and Fiscal Code on Company {0},Veuillez définir à la fois l'identifiant fiscal et le code fiscal sur la société {0}
+Please set default Exchange Gain/Loss Account in Company {},Veuillez définir le compte de gain/perte de change par défaut dans la société {}
+Please set default Expense Account in Company {0},Veuillez définir le compte de dépenses par défaut dans la société {0}
+Please set the Target Warehouse in the Job Card,Veuillez définir l'entrepôt cible dans la carte de travail
+Please set the WIP Warehouse in the Job Card,Veuillez définir l'entrepôt WIP dans la carte de travail
+Please set {0} in Company {1} to account for Exchange Gain / Loss,Veuillez définir {0} dans la société {1} pour les gains/pertes de change
+Please set {0} to {1}, the same account that was used in the original invoice {2}.,Veuillez définir {0} sur {1}, le même compte utilisé dans la facture originale {2}.
+Please setup default outgoing Email Account from Settings > Email Account,Veuillez configurer le compte e-mail sortant par défaut depuis Paramètres > Compte e-mail
+Please share this email with your support team so that they can find and fix the issue.,Veuillez partager cet e-mail avec votre équipe de support pour qu'elle puisse trouver et résoudre le problème.
+Please specify a valid parent DocType for {0},Veuillez spécifier un DocType parent valide pour {0}
+Please specify at least 10 minutes due to the trigger cadence of the scheduler,Veuillez spécifier au moins 10 minutes en raison de la cadence de déclenchement du planificateur
+Please specify which datetime field must be checked,Veuillez spécifier quel champ datetime doit être vérifié
+Please update {} before continuing.,Veuillez mettre à jour {} avant de continuer.
+Post it here, our mentors will help you out.,Postez-le ici, nos mentors vous aideront.
+Posting Date Inheritance for Exchange Gain / Loss,Héritage de la date de comptabilisation pour le gain/perte de change
+Prepend the template to the email message,Ajouter le modèle au début du message e-mail
+Prevent self approval for expense claims even if user has permissions,Empêcher l'auto-approbation des notes de frais même si l'utilisateur a les permissions
+Prevent self approval for leaves even if user has permissions,Empêcher l'auto-approbation des congés même si l'utilisateur a les permissions
+Previous Year is not closed, please close it first,L'année précédente n'est pas clôturée, veuillez d'abord la clôturer
+Pricing Rule is first selected based on 'Apply On' field, which can be Item, Item Group or Brand.,La règle de tarification est d'abord sélectionnée selon le champ 'Appliquer sur', qui peut être Article, Groupe d'articles ou Marque.
+Pricing Rules are further filtered based on quantity.,Les règles de tarification sont ensuite filtrées selon la quantité.
+Primary key of doctype {0} can not be changed as there are existing values.,La clé primaire du doctype {0} ne peut pas être modifiée car des valeurs existent déjà.
+Print Format Type should be Jinja.,Le type de format d'impression doit être Jinja.
+Process Loss Percentage cannot be greater than 100,Le pourcentage de pertes de processus ne peut pas être supérieur à 100
+Process Payment Reconciliation Log,Journal de réconciliation des paiements de processus
+Process leave encashment via a separate Payment Entry instead of Salary Slip,Traiter l'encaissement des congés via une écriture de paiement séparée plutôt que le bulletin de paie
+Processing of Shift Requests has been queued. It may take a few minutes.,Le traitement des demandes d'équipe est en file d'attente. Cela peut prendre quelques minutes.
+Production Plan Already Submitted,Plan de production déjà soumis
+Progress % for a task cannot be more than 100.,Le % de progression d'une tâche ne peut pas être supérieur à 100.
+Purchase Orders {0} are un-linked,Les bons de commande {0} sont délinkés
+Purchase Tax Withholding Category,Catégorie de retenue fiscale sur achat
+Putaway Rule already exists for Item {0} in Warehouse {1}.,Une règle de rangement existe déjà pour l'article {0} dans l'entrepôt {1}.
+Qty is mandatory for loan security!,La qté est obligatoire pour la garantie de prêt !
+Qty of Finished Goods Item should be greater than 0.,La qté de l'article de produit fini doit être supérieure à 0.
+Quality Inspection is required for the item {0} before completing the job card {1},L'inspection qualité est requise pour l'article {0} avant de compléter la carte de travail {1}
+Quality Inspection {0} is not submitted for the item: {1},L'inspection qualité {0} n'est pas soumise pour l'article : {1}
+Quality Inspection {0} is rejected for the item: {1},L'inspection qualité {0} est rejetée pour l'article : {1}
+Quantity cannot be greater than {0} for Item {1},La quantité ne peut pas être supérieure à {0} pour l'article {1}
+Quantity is mandatory for the selected items.,La quantité est obligatoire pour les articles sélectionnés.
+Quantity must be greater than zero, and less or equal to {0},La quantité doit être supérieure à zéro et inférieure ou égale à {0}
+Quantity to Produce should be greater than zero.,La quantité à produire doit être supérieure à zéro.
+Query must be of SELECT or read-only WITH type.,La requête doit être de type SELECT ou WITH en lecture seule.
+Queue Size should be between 5 and 100,La taille de la file d'attente doit être comprise entre 5 et 100
+Queued for Submission. You can track the progress over {0}.,Mis en file d'attente pour la soumission. Vous pouvez suivre la progression sur {0}.
+Rate limit for email link login,Limite de débit pour la connexion par lien e-mail
+Raw materials consumed qty will be validated based on FG BOM required qty,La qté de matières premières consommées sera validée selon la qté requise par la nomenclature du produit fini
+Read the documentation to know more,Lisez la documentation pour en savoir plus
+Recalculate Incoming/Outgoing Rate,Recalculer le taux entrant/sortant
+Receivable/Payable Account: {0} doesn't belong to company {1},Le compte débiteur/créditeur : {0} n'appartient pas à la société {1}
+Received Amount After Tax (Company Currency),Montant reçu après taxe (devise de la société)
+Received Amount cannot be greater than Paid Amount,Le montant reçu ne peut pas être supérieur au montant payé
+Recommended for a single biometric device / checkins via mobile app,Recommandé pour un seul appareil biométrique / pointages via application mobile
+Reconcile the Bank Transaction,Réconcilier la transaction bancaire
+Reconciliation Takes Effect On,La réconciliation prend effet le
+Records for following doctypes will be filtered,Les enregistrements pour les doctypes suivants seront filtrés
+Recurse Over Qty cannot be less than 0,La qté de récursion ne peut pas être inférieure à 0
+Redirect to the selected app after login,Rediriger vers l'application sélectionnée après la connexion
+Reduction is more than {0}'s available leave balance {1} for leave type {2},La réduction est supérieure au solde de congés disponible {1} de {0} pour le type de congé {2}
+Reference Date for Early Payment Discount,Date de référence pour l'escompte de paiement anticipé
+References to Sales Invoices are Incomplete,Les références aux factures de vente sont incomplètes
+References to Sales Orders are Incomplete,Les références aux commandes client sont incomplètes
+Refund amount cannot be greater than net paid amount,Le montant du remboursement ne peut pas être supérieur au montant net payé
+Refund amount cannot be more than available amount,Le montant du remboursement ne peut pas être supérieur au montant disponible
+Rejected Warehouse and Accepted Warehouse cannot be same.,L'entrepôt rejeté et l'entrepôt accepté ne peuvent pas être les mêmes.
+Remove Parent Row No in Items Table,Supprimer le n° de ligne parent dans le tableau des articles
+Remove all fields in the column,Supprimer tous les champs dans la colonne
+Remove item if charges is not applicable to that item,Supprimer l'article si les frais ne s'appliquent pas à cet article
+Render labels to the left and values to the right in this section,Afficher les étiquettes à gauche et les valeurs à droite dans cette section
+Repayment Amount must be greater than ,Le montant du remboursement doit être supérieur à
+Repayment Start Date cannot be before Disbursement Date,La date de début de remboursement ne peut pas être avant la date de décaissement
+Repayment cannot be made for closed loan,Le remboursement ne peut pas être effectué pour un prêt clôturé
+Repayment periods is mandatory for term loans,Les périodes de remboursement sont obligatoires pour les prêts à terme
+Repayment type can only be Write Off Recovery or Write Off Settlement,Le type de remboursement ne peut être que Récupération de passation en perte ou Règlement de passation en perte
+Report Name, Report Field and Fucntion are required to create a number card,Le nom du rapport, le champ du rapport et la fonction sont requis pour créer une carte numérique
+Reporting Currency Exchange Not Found,Taux de change de la devise de reporting introuvable
+Reporting Currency Exchange Rate,Taux de change de la devise de reporting
+Repost Item Valuation restarted for selected failed records.,La retransmission de l'évaluation des articles a été relancée pour les enregistrements échoués sélectionnés.
+Reposting entries created: {0},Écritures de retransmission créées : {0}
+Reposting has been started in the background.,La retransmission a démarré en arrière-plan.
+Represents a User in the system.,Représente un utilisateur dans le système.
+Requested Qty: Quantity requested for purchase, but not ordered.,Qté demandée : quantité demandée à l'achat, mais non commandée.
+Reserved Qty should be greater than Delivered Qty.,La qté réservée doit être supérieure à la qté livrée.
+Reset Dashboard Customizations,Réinitialiser les personnalisations du tableau de bord
+Reset Password Link Expiry Duration,Durée d'expiration du lien de réinitialisation du mot de passe
+Restructure Date cannot be before last due date {0},La date de restructuration ne peut pas être avant la dernière date d'échéance {0}
+Return Against Subcontracting Receipt,Retour contre le bon de réception de sous-traitance
+Return Raw Material to Customer,Retourner les matières premières au client
+Role has been set as per the user type {0},Le rôle a été défini selon le type d'utilisateur {0}
+Role to Notify on Depreciation Failure,Rôle à notifier en cas d'échec de l'amortissement
+Roles Allowed to Set and Edit Frozen Account Entries,Rôles autorisés à définir et modifier les écritures de compte gelé
+Root Type for {0} must be one of the Asset, Liability, Income, Expense and Equity,Le type racine pour {0} doit être l'un de : Actif, Passif, Produit, Charge, Capitaux propres
+Round Off Account is mandatory,Le compte d'arrondi est obligatoire
+Rounding Loss Allowance should be between 0 and 1,La tolérance de perte d'arrondi doit être comprise entre 0 et 1
+Rounding gain/loss Entry for Stock Transfer,Écriture de gain/perte d'arrondi pour le transfert de stock
+Row # {0}: Non administrator user can not set the role {1} to the custom doctype,Ligne # {0} : un utilisateur non administrateur ne peut pas définir le rôle {1} sur le doctype personnalisé
+Row #1: Sequence ID must be 1 for Operation {0}.,Ligne #1 : l'ID de séquence doit être 1 pour l'opération {0}.
+Row #{0}: A reorder entry already exists for warehouse {1} with reorder type {2}.,Ligne #{0} : une écriture de réapprovisionnement existe déjà pour l'entrepôt {1} avec le type {2}.
+Row #{0}: Acceptance Criteria Formula is incorrect.,Ligne #{0} : la formule des critères d'acceptation est incorrecte.
+Row #{0}: Acceptance Criteria Formula is required.,Ligne #{0} : la formule des critères d'acceptation est requise.
+Row #{0}: Accepted Warehouse and Rejected Warehouse cannot be same,Ligne #{0} : l'entrepôt accepté et l'entrepôt rejeté ne peuvent pas être les mêmes
+Row #{0}: Accepted Warehouse is mandatory for the accepted Item {1},Ligne #{0} : l'entrepôt accepté est obligatoire pour l'article accepté {1}
+Row #{0}: Allocated Amount cannot be greater than Outstanding Amount of Payment Request {1},Ligne #{0} : le montant alloué ne peut pas être supérieur au montant impayé de la demande de paiement {1}
+Row #{0}: Amount must be a positive number,Ligne #{0} : le montant doit être un nombre positif
+Row #{0}: Asset {1} is already sold,Ligne #{0} : l'actif {1} est déjà vendu
+Row #{0}: Cannot allocate more than {1} against payment term {2},Ligne #{0} : impossible d'allouer plus de {1} contre la condition de paiement {2}
+Row #{0}: Cannot delete item {1} which is already ordered against this Sales Order.,Ligne #{0} : impossible de supprimer l'article {1} qui est déjà commandé contre cette commande client.
+Row #{0}: Cannot transfer more than Required Qty {1} for Item {2} against Job Card {3},Ligne #{0} : impossible de transférer plus que la qté requise {1} pour l'article {2} contre la carte de travail {3}
+Row #{0}: Consumed Asset {1} cannot be Draft,Ligne #{0} : l'actif consommé {1} ne peut pas être en brouillon
+Row #{0}: Consumed Asset {1} cannot be cancelled,Ligne #{0} : l'actif consommé {1} ne peut pas être annulé
+Row #{0}: Consumed Asset {1} cannot be the same as the Target Asset,Ligne #{0} : l'actif consommé {1} ne peut pas être le même que l'actif cible
+Row #{0}: Consumed Asset {1} does not belong to company {2},Ligne #{0} : l'actif consommé {1} n'appartient pas à la société {2}
+Row #{0}: Cumulative threshold cannot be less than Single Transaction threshold,Ligne #{0} : le seuil cumulatif ne peut pas être inférieur au seuil de transaction unique
+Row #{0}: Customer Provided Item {1} cannot be added multiple times.,Ligne #{0} : l'article fourni par le client {1} ne peut pas être ajouté plusieurs fois.
+Row #{0}: Dates overlapping with other row in group {1},Ligne #{0} : les dates se chevauchent avec une autre ligne du groupe {1}
+Row #{0}: Default BOM not found for FG Item {1},Ligne #{0} : nomenclature par défaut introuvable pour l'article PF {1}
+Row #{0}: Expense Account not set for the Item {1}. {2},Ligne #{0} : compte de dépenses non défini pour l'article {1}. {2}
+Row #{0}: Finished Good Item Qty can not be zero,Ligne #{0} : la qté de l'article de produit fini ne peut pas être zéro
+Row #{0}: Finished Good reference is mandatory for Scrap Item {1}.,Ligne #{0} : la référence du produit fini est obligatoire pour l'article de rebut {1}.
+Row #{0}: From Date cannot be before To Date,Ligne #{0} : la date de début ne peut pas être avant la date de fin
+Row #{0}: From Time and To Time fields are required,Ligne #{0} : les champs Heure de début et Heure de fin sont requis

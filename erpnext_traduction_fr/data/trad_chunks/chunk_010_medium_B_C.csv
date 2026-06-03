@@ -1,0 +1,94 @@
+source,traduction
+Allows sharing document access with other users.,Autorise le partage de l'accès au document avec d'autres utilisateurs.
+Allows skipping authorization if a user has active tokens.,Autorise l'omission de l'autorisation si un utilisateur a des jetons actifs.
+Allows the user to access reports related to the document.,Autorise l'utilisateur à accéder aux rapports liés au document.
+Allows the user to create new documents.,Autorise l'utilisateur à créer de nouveaux documents.
+Allows the user to delete documents.,Autorise l'utilisateur à supprimer des documents.
+Allows the user to edit existing records they have access to.,Autorise l'utilisateur à modifier les enregistrements existants auxquels il a accès.
+Allows the user to email from the document.,Autorise l'utilisateur à envoyer des e-mails depuis le document.
+Allows the user to export data from the Report view.,Autorise l'utilisateur à exporter des données depuis la vue Rapport.
+Allows the user to search and see records.,Autorise l'utilisateur à rechercher et voir les enregistrements.
+Allows the user to use Data Import tool to create / update records.,Autorise l'utilisateur à utiliser l'outil d'import de données pour créer / mettre à jour des enregistrements.
+Allows the user to view the document.,Autorise l'utilisateur à consulter le document.
+Allows to keep aside a specific quantity of inventory for a particular order.,Permet de mettre de côté une quantité spécifique d'inventaire pour une commande particulière.
+Alternatively, you can download the template and fill your data in.,Vous pouvez aussi télécharger le modèle et y saisir vos données.
+Amount Difference with Purchase Invoice,Différence de montant avec la facture d'achat
+Amount for advance payment must be between one to two EMI amount,Le montant de l'avance doit être compris entre une et deux échéances
+Amount in party's bank account currency,Montant dans la devise du compte bancaire du tiers
+Amount on which interest is calculated,Montant sur lequel les intérêts sont calculés
+Amount paid cannot be greater than available security deposit,Le montant payé ne peut pas être supérieur au dépôt de garantie disponible
+Amount paid cannot be greater than payable amount,Le montant payé ne peut pas être supérieur au montant à payer
+Amount paid cannot be less than payable amount for loan closure,Le montant payé ne peut pas être inférieur au montant dû pour la clôture du prêt
+Amount scheduled for deduction via salary,Montant prévu pour déduction via la paie
+Amount that has been paid against this advance,Montant payé sur cette avance
+An attendance record is linked to this checkin. Please cancel the attendance before modifying time.,Un enregistrement de présence est lié à ce pointage. Veuillez annuler la présence avant de modifier l'heure.
+Any one of following filters required: warehouse, Item Code, Item Group,L'un des filtres suivants est requis : entrepôt, code article, groupe d'articles
+Are you sure you want to cancel the invitation?,Êtes-vous sûr de vouloir annuler l'invitation ?
+Are you sure you want to clear all demo data?,Êtes-vous sûr de vouloir effacer toutes les données de démo ?
+Are you sure you want to clear the assignments?,Êtes-vous sûr de vouloir effacer les affectations ?
+Are you sure you want to delete all {0} rows?,Êtes-vous sûr de vouloir supprimer toutes les {0} lignes ?
+Are you sure you want to delete this Item?,Êtes-vous sûr de vouloir supprimer cet article ?
+Are you sure you want to delete this record?,Êtes-vous sûr de vouloir supprimer cet enregistrement ?
+Are you sure you want to discard the changes?,Êtes-vous sûr de vouloir annuler les modifications ?
+Are you sure you want to generate a new report?,Êtes-vous sûr de vouloir générer un nouveau rapport ?
+Are you sure you want to proceed?,Êtes-vous sûr de vouloir continuer ?
+Are you sure you want to re-enable scheduler?,Êtes-vous sûr de vouloir réactiver le planificateur ?
+Are you sure you want to remove all failed jobs?,Êtes-vous sûr de vouloir supprimer tous les travaux échoués ?
+Are you sure you want to remove the {0} filter?,Êtes-vous sûr de vouloir supprimer le filtre {0} ?
+As document sharing is disabled, please give them the required permissions before assigning.,Le partage de documents étant désactivé, veuillez donner les permissions requises avant d'affecter.
+At least one account with exchange gain or loss is required,Au moins un compte avec gain ou perte de change est requis
+At least one asset has to be selected.,Au moins un actif doit être sélectionné.
+At least one field is required in Web Form Fields Table,Au moins un champ est requis dans la table des champs du formulaire web
+At least one field of Parent Document Type is mandatory,Au moins un champ du type de document parent est obligatoire
+At least one interview has to be selected.,Au moins un entretien doit être sélectionné.
+At least one invoice has to be selected.,Au moins une facture doit être sélectionnée.
+At least one item should be entered with negative quantity in return document,Au moins un article doit avoir une quantité négative dans le document de retour
+At least one of the Selling or Buying must be selected,Au moins l'un des deux (Vente ou Achat) doit être sélectionné
+At least one row is required for a financial report template,Au moins une ligne est requise pour un modèle de rapport financier
+At row {0}: Batch No is mandatory for Item {1},À la ligne {0} : le n° de lot est obligatoire pour l'article {1}
+At row {0}: Parent Row No cannot be set for item {1},À la ligne {0} : le n° de ligne parent ne peut pas être défini pour l'article {1}
+At row {0}: Qty is mandatory for the batch {1},À la ligne {0} : la qté est obligatoire pour le lot {1}
+At row {0}: Serial No is mandatory for Item {1},À la ligne {0} : le n° de série est obligatoire pour l'article {1}
+At row {0}: set Parent Row No for item {1},À la ligne {0} : définir le n° de ligne parent pour l'article {1}
+Attach a comma separated .csv file with two columns, one for the old name and one for the new name.,Joindre un fichier .csv avec deux colonnes : l'ancien nom et le nouveau nom.
+Attendance for employee {0} is already marked for the following dates: {1},La présence de l'employé {0} est déjà marquée pour les dates suivantes : {1}
+Attendance has been marked for all the employees between the selected payroll dates.,La présence a été marquée pour tous les employés entre les dates de paie sélectionnées.
+Attribute value: {0} must appear only once,La valeur d'attribut : {0} ne doit apparaître qu'une seule fois
+Auto Create Exchange Rate Revaluation,Créer automatiquement une réévaluation du taux de change
+Auto Created Serial and Batch Bundle,Lot de série et lot créé automatiquement
+Auto Reserve Stock for Sales Order on Purchase,Réserver automatiquement le stock pour les commandes client à l'achat
+Auto follow documents that are assigned to you,Suivre automatiquement les documents qui vous sont affectés
+Auto follow documents that are shared with you,Suivre automatiquement les documents partagés avec vous
+Auto match and set the Party in Bank Transactions,Correspondre et définir automatiquement le tiers dans les transactions bancaires
+Automatically Add Filtered Item To Cart,Ajouter automatiquement l'article filtré au panier
+Automatically Add Taxes from Taxes and Charges Template,Ajouter automatiquement les taxes depuis le modèle de taxes et frais
+Automatically arrange cards vertically to fill empty spaces,Organiser automatiquement les cartes verticalement pour remplir les espaces vides
+Automatically post balancing accounting entry,Comptabiliser automatiquement l'écriture d'équilibrage
+Automatically update Last Sync of Checkin,Mettre à jour automatiquement la dernière synchronisation du pointage
+Average of Goal Score, Feedback Score, and Self Appraisal Score,Moyenne du score d'objectif, du score de retour et du score d'auto-évaluation
+Average rating of demonstrated skills,Note moyenne des compétences démontrées
+BOM Update Tool Log with job status maintained,Journal de l'outil de mise à jour de nomenclature avec statut du travail
+BOM and Finished Good Quantity is mandatory for Disassembly,La nomenclature et la quantité de produit fini sont obligatoires pour le désassemblage
+BOM recursion: {1} cannot be parent or child of {0},Récursion de nomenclature : {1} ne peut pas être parent ou enfant de {0}
+BOMs creation has been enqueued, kindly check the status after some time,La création des nomenclatures est en file d'attente, veuillez vérifier le statut ultérieurement
+Backflush Materials From WIP Warehouse,Contre-flux des matériaux depuis l'entrepôt WIP
+Based on your HR Policy, select your leave allocation period's start date,Selon votre politique RH, sélectionnez la date de début de votre période d'allocation de congés
+Batch No {0} is linked with Item {1} which has serial no. Please scan serial no instead.,Le n° de lot {0} est lié à l'article {1} qui a un n° de série. Veuillez scanner le n° de série à la place.
+Batch Qty updated successfully,Qté du lot mise à jour avec succès
+Batch {0} is not available in warehouse {1},Le lot {0} n'est pas disponible dans l'entrepôt {1}
+Benefit amount of component {0} exceeds {1},Le montant de l'avantage du composant {0} dépasse {1}
+Benefit amount of component {0} should be greater than 0,Le montant de l'avantage du composant {0} doit être supérieur à 0
+Billing Address does not belong to the {0},L'adresse de facturation n'appartient pas à {0}
+Block Holidays on important days.,Bloquer les jours fériés lors des jours importants.
+Book Advance Payments in Separate Party Account,Comptabiliser les avances dans un compte tiers séparé
+Books have been closed till the period ending on {0},Les livres ont été clôturés jusqu'à la période se terminant le {0}
+Both Fixed Deposit and Corporate Guarantee,Dépôt à terme et garantie corporative
+Both login and password required,Identifiant et mot de passe requis
+Broken Period Interest Recovery Account,Compte de récupération d'intérêts de période rompue
+Bulk approval only support up to 500 documents.,L'approbation en masse ne prend en charge que jusqu'à 500 documents.
+Bulk operation is enqueued in background.,L'opération en masse est mise en file d'attente en arrière-plan.
+Bulk operations only support up to 500 documents.,Les opérations en masse ne prennent en charge que jusqu'à 500 documents.
+Cache Query Results For (Minutes),Mettre en cache les résultats de requête pendant (minutes)
+Calculate Final Score based on Formula,Calculer le score final selon la formule
+Calculate but don't show on final report,Calculer mais ne pas afficher dans le rapport final
+Calculate daily depreciation using total days in depreciation period,Calculer l'amortissement quotidien en utilisant le nombre total de jours de la période

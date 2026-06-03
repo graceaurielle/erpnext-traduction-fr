@@ -1,0 +1,124 @@
+source,traduction
+Row #{0}: Item {1} does not exist,Ligne #{0} : l'article {1} n'existe pas
+Row #{0}: Item {1} has no stock in warehouse {2}.,Ligne #{0} : l'article {1} n'a pas de stock dans l'entrepôt {2}.
+Row #{0}: Item {1} has zero rate but 'Allow Zero Valuation Rate' is not enabled.,Ligne #{0} : l'article {1} a un taux zéro mais 'Autoriser un taux de valorisation nul' n'est pas activé.
+Row #{0}: Item {1} is not a Customer Provided Item.,Ligne #{0} : l'article {1} n'est pas un article fourni par le client.
+Row #{0}: Item {1} is not a part of Subcontracting Inward Order {2},Ligne #{0} : l'article {1} ne fait pas partie de l'ordre d'entrée de sous-traitance {2}
+Row #{0}: Item {1} is not a service item,Ligne #{0} : l'article {1} n'est pas un article de service
+Row #{0}: Item {1} is not a stock item,Ligne #{0} : l'article {1} n'est pas un article en stock
+Row #{0}: Only {1} available to reserve for the Item {2},Ligne #{0} : seulement {1} disponible à réserver pour l'article {2}
+Row #{0}: Opening Accumulated Depreciation must be less than or equal to {1},Ligne #{0} : l'amortissement cumulé d'ouverture doit être inférieur ou égal à {1}
+Row #{0}: Please select Item Code in Assembly Items,Ligne #{0} : veuillez sélectionner le code article dans les articles d'assemblage
+Row #{0}: Please select the BOM No in Assembly Items,Ligne #{0} : veuillez sélectionner le n° de nomenclature dans les articles d'assemblage
+Row #{0}: Please select the Sub Assembly Warehouse,Ligne #{0} : veuillez sélectionner l'entrepôt de sous-assemblage
+Row #{0}: Qty must be a positive number,Ligne #{0} : la qté doit être un nombre positif
+Row #{0}: Quality Inspection is required for Item {1},Ligne #{0} : l'inspection qualité est requise pour l'article {1}
+Row #{0}: Quality Inspection {1} is not submitted for the item: {2},Ligne #{0} : l'inspection qualité {1} n'est pas soumise pour l'article : {2}
+Row #{0}: Quality Inspection {1} was rejected for item {2},Ligne #{0} : l'inspection qualité {1} a été rejetée pour l'article {2}
+Row #{0}: Quantity to reserve for the Item {1} should be greater than 0.,Ligne #{0} : la qté à réserver pour l'article {1} doit être supérieure à 0.
+Row #{0}: Rejected Warehouse is mandatory for the rejected Item {1},Ligne #{0} : l'entrepôt rejeté est obligatoire pour l'article rejeté {1}
+Row #{0}: Return Against is required for returning asset,Ligne #{0} : le retour contre est requis pour retourner l'actif
+Row #{0}: Returned quantity cannot be greater than available quantity for Item {1},Ligne #{0} : la qté retournée ne peut pas être supérieure à la qté disponible pour l'article {1}
+Row #{0}: Scrap Item Qty cannot be zero,Ligne #{0} : la qté d'article de rebut ne peut pas être zéro
+Row #{0}: Serial No {1} is already selected.,Ligne #{0} : le n° de série {1} est déjà sélectionné.
+Row #{0}: Source and Target Warehouse cannot be the same for Material Transfer,Ligne #{0} : les entrepôts source et cible ne peuvent pas être les mêmes pour le transfert de matériau
+Row #{0}: Start Time and End Time are required,Ligne #{0} : l'heure de début et l'heure de fin sont requises
+Row #{0}: Start Time must be before End Time,Ligne #{0} : l'heure de début doit être avant l'heure de fin
+Row #{0}: Stock cannot be reserved for Item {1} against a disabled Batch {2}.,Ligne #{0} : le stock ne peut pas être réservé pour l'article {1} contre un lot désactivé {2}.
+Row #{0}: Stock cannot be reserved for a non-stock Item {1},Ligne #{0} : le stock ne peut pas être réservé pour un article hors stock {1}
+Row #{0}: Stock cannot be reserved in group warehouse {1}.,Ligne #{0} : le stock ne peut pas être réservé dans l'entrepôt de groupe {1}.
+Row #{0}: Stock is already reserved for the Item {1}.,Ligne #{0} : le stock est déjà réservé pour l'article {1}.
+Row #{0}: Stock is reserved for item {1} in warehouse {2}.,Ligne #{0} : le stock est réservé pour l'article {1} dans l'entrepôt {2}.
+Row #{0}: Stock not available to reserve for Item {1} against Batch {2} in Warehouse {3}.,Ligne #{0} : stock non disponible pour réserver l'article {1} contre le lot {2} dans l'entrepôt {3}.
+Row #{0}: Total Number of Depreciations must be greater than zero,Ligne #{0} : le nombre total d'amortissements doit être supérieur à zéro
+Row #{0}: Work Order exists against full or partial quantity of Item {1},Ligne #{0} : un ordre de travail existe contre la quantité complète ou partielle de l'article {1}
+Row #{0}: You must select an Asset for Item {1}.,Ligne #{0} : vous devez sélectionner un actif pour l'article {1}.
+Row {0}: Account {1} and Party Type {2} have different account types,Ligne {0} : le compte {1} et le type de tiers {2} ont des types de compte différents
+Row {0}: Both Debit and Credit values cannot be zero,Ligne {0} : les valeurs de débit et de crédit ne peuvent pas être toutes les deux à zéro
+Row {0}: Cost Center {1} does not belong to Company {2},Ligne {0} : le centre de coûts {1} n'appartient pas à la société {2}
+Row {0}: Expected Value After Useful Life cannot be negative,Ligne {0} : la valeur prévue après la durée d'utilité ne peut pas être négative
+Row {0}: Expected Value After Useful Life must be less than Net Purchase Amount,Ligne {0} : la valeur prévue après la durée d'utilité doit être inférieure au montant net d'achat
+Row {0}: From Warehouse is mandatory for internal transfers,Ligne {0} : l'entrepôt source est obligatoire pour les transferts internes
+Row {0}: Item {1} must be a stock item.,Ligne {0} : l'article {1} doit être un article en stock.
+Row {0}: Item {1} must be a subcontracted item.,Ligne {0} : l'article {1} doit être un article sous-traité.
+Row {0}: Item {1} must be linked to a {2}.,Ligne {0} : l'article {1} doit être lié à un(e) {2}.
+Row {0}: Packed Qty must be equal to {1} Qty.,Ligne {0} : la qté emballée doit être égale à la qté {1}.
+Row {0}: Payment Term is mandatory,Ligne {0} : la condition de paiement est obligatoire
+Row {0}: Project must be same as the one set in the Timesheet: {1}.,Ligne {0} : le projet doit être identique à celui défini dans la feuille de temps : {1}.
+Row {0}: Qty must be greater than 0.,Ligne {0} : la qté doit être supérieure à 0.
+Row {0}: Target Warehouse is mandatory for internal transfers,Ligne {0} : l'entrepôt cible est obligatoire pour les transferts internes
+Row {0}: Task {1} does not belong to Project {2},Ligne {0} : la tâche {1} n'appartient pas au projet {2}
+Row {0}: Workstation or Workstation Type is mandatory for an operation {1},Ligne {0} : le poste de travail ou le type de poste de travail est obligatoire pour une opération {1}
+Rows Threshold for Grid Search,Seuil de lignes pour la recherche dans la grille
+Run parallel job cards in a workstation,Exécuter des cartes de travail en parallèle dans un poste de travail
+SMS was not sent. Please contact Administrator.,Le SMS n'a pas été envoyé. Veuillez contacter l'administrateur.
+Salary Component {0} cannot be selected more than once in Employee Benefits,La composante de salaire {0} ne peut pas être sélectionnée plus d'une fois dans les avantages employés
+Salary Component {0} is currently not used in any Salary Structure.,La composante de salaire {0} n'est actuellement utilisée dans aucune structure salariale.
+Salary Slip already exists for {0} for the given dates,Un bulletin de paie existe déjà pour {0} pour les dates données
+Salary Structure not assigned for employee {0} for date {1},Structure salariale non affectée pour l'employé {0} à la date {1}
+Salary Structures updated successfully,Structures salariales mises à jour avec succès
+Salary Withholding {0} already exists for employee {1} for the selected period,La retenue de salaire {0} existe déjà pour l'employé {1} pour la période sélectionnée
+Sales Invoice does not have Payments,La facture de vente n'a pas de paiements
+Sales Invoice is already consolidated,La facture de vente est déjà consolidée
+Sales Invoice is not created using POS,La facture de vente n'est pas créée via le PDV
+Sales Invoice {0} must be deleted before cancelling this Sales Order,La facture de vente {0} doit être supprimée avant d'annuler cette commande client
+Sales Person <b>{0}</b> is disabled.,Le commercial <b>{0}</b> est désactivé.
+Same item and warehouse combination already entered.,La même combinaison article et entrepôt est déjà saisie.
+Save Changes and Load New Invoice,Enregistrer les modifications et charger une nouvelle facture
+Scan mode enabled, existing quantity will not be fetched.,Mode scanner activé, la quantité existante ne sera pas récupérée.
+Scheduler can not be re-enabled when maintenance mode is active.,Le planificateur ne peut pas être réactivé lorsque le mode maintenance est actif.
+Scheduler is Inactive. Can't trigger job now.,Le planificateur est inactif. Impossible de déclencher le travail maintenant.
+Scheduler is inactive. Cannot enqueue job.,Le planificateur est inactif. Impossible de mettre le travail en file d'attente.
+Scheduler is inactive. Cannot import data.,Le planificateur est inactif. Impossible d'importer les données.
+Scheduler is inactive. Cannot merge accounts.,Le planificateur est inactif. Impossible de fusionner les comptes.
+Scrap date cannot be before purchase date,La date de mise au rebut ne peut pas être avant la date d'achat
+Script to attach to all web pages.,Script à joindre à toutes les pages web.
+Section must have at least one column,Une section doit avoir au moins une colonne
+Select Alternative Items for Sales Order,Sélectionner des articles alternatifs pour la commande client
+Select Date of Birth. This will validate Employees age and prevent hiring of under-age staff.,Sélectionner la date de naissance. Cela validera l'âge des employés et préviendra l'embauche de personnel mineur.
+Select Items for Quality Inspection,Sélectionner les articles pour l'inspection qualité
+Select Items up to Delivery Date,Sélectionner les articles jusqu'à la date de livraison
+Select Warehouses to get Stock for Materials Planning,Sélectionner les entrepôts pour obtenir le stock pour la planification des matériaux
+Select a Company this Employee belongs to.,Sélectionner une société à laquelle cet employé appartient.
+Select a field to edit its properties.,Sélectionner un champ pour modifier ses propriétés.
+Select an existing format to edit or start a new format.,Sélectionner un format existant à modifier ou commencer un nouveau format.
+Select an invoice to load summary data,Sélectionner une facture pour charger les données de résumé
+Select at least one value from each of the attributes.,Sélectionner au moins une valeur de chacun des attributs.
+Select records for removing assignment,Sélectionner les enregistrements pour supprimer l'affectation
+Select the Item to be manufactured.,Sélectionner l'article à fabriquer.
+Select the date and your timezone,Sélectionner la date et votre fuseau horaire
+Select the raw materials (Items) required to manufacture the Item,Sélectionner les matières premières (articles) nécessaires à la fabrication de l'article
+Select two versions to view the diff.,Sélectionner deux versions pour voir les différences.
+Self-approval for Expense Claims is not allowed,L'auto-approbation des notes de frais n'est pas autorisée
+Self-approval for leaves is not allowed,L'auto-approbation des congés n'est pas autorisée
+Send alert if datetime matches this field's value,Envoyer une alerte si la date/heure correspond à la valeur de ce champ
+Send email when document transitions to the state.,Envoyer un e-mail lorsque le document passe à l'état.
+Send regular summary reports via Email.,Envoyer des rapports de synthèse réguliers par e-mail.
+Serial No {0} is already Delivered. You cannot use them again in Manufacture / Repack entry.,Le n° de série {0} est déjà livré. Vous ne pouvez pas l'utiliser à nouveau dans une écriture de fabrication/réemballage.
+Serial No {0} is already assigned to customer {1}. Can only be returned against the customer {1},Le n° de série {0} est déjà assigné au client {1}. Il ne peut être retourné qu'auprès du client {1}
+Serial Nos are created successfully,Les numéros de série ont été créés avec succès
+Serial Nos are reserved in Stock Reservation Entries, you need to unreserve them before proceeding.,Les numéros de série sont réservés dans les écritures de réservation de stock, vous devez les désréserver avant de continuer.
+Serial and Batch Bundle created,Lot de série et lot créé
+Serial and Batch Bundle updated,Lot de série et lot mis à jour
+Serial and Batch Bundle {0} is not submitted,Le lot de série et lot {0} n'est pas soumis
+Serial numbers unavailable for Item {0} under warehouse {1}. Please try changing warehouse.,Numéros de série non disponibles pour l'article {0} dans l'entrepôt {1}. Veuillez essayer de changer d'entrepôt.
+Series counter for {} updated to {} successfully,Le compteur de série pour {} mis à jour à {} avec succès
+Server Scripts are disabled. Please enable server scripts from bench configuration.,Les scripts serveur sont désactivés. Veuillez activer les scripts serveur depuis la configuration du bench.
+Server error during upload. The file might be corrupted.,Erreur serveur pendant le téléversement. Le fichier est peut-être corrompu.
+Set Grand Total to Default Payment Method,Définir le total général comme mode de paiement par défaut
+Set Incoming Rate as Zero for Expired Batch,Définir le taux entrant à zéro pour le lot expiré
+Set Landed Cost Based on Purchase Invoice Rate,Définir le coût rendu selon le taux de la facture d'achat
+Set Operating Cost / Scrap Items From Sub-assemblies,Définir le coût d'exploitation / articles de rebut depuis les sous-assemblages
+Set Parent Row No in Items Table,Définir le n° de ligne parent dans le tableau des articles
+Set Serial and Batch Bundle Naming Based on Naming Series,Définir le nommage du lot de série et lot selon la série de nommage
+Set Valuation Rate Based on Source Warehouse,Définir le taux de valorisation selon l'entrepôt source
+Set Valuation Rate for Rejected Materials,Définir le taux de valorisation pour les matériaux rejetés
+Set dynamic filter values in JavaScript for the required fields here.,Définir les valeurs de filtre dynamique en JavaScript pour les champs requis ici.
+Set non-standard precision for a Float, Currency or Percent field,Définir une précision non standard pour un champ Décimal, Devise ou Pourcentage
+Set quantity of process loss item:,Définir la quantité de l'article de perte de processus :
+Setting the account as a Company Account is necessary for Bank Reconciliation,Définir le compte comme compte de société est nécessaire pour le rapprochement bancaire
+Shared document with the user {0} with 'Submit' permission,Document partagé avec l'utilisateur {0} avec la permission 'Soumettre'
+Shift Assignments created for the schedule between {0} and {1} via background job,Affectations d'équipe créées pour le planning entre {0} et {1} en arrière-plan
+Shipping Address does not belong to the {0},L'adresse de livraison n'appartient pas à {0}
+Show Aggregate Value from Subsidiary Companies,Afficher la valeur agrégée des sociétés filiales
+Show Credit / Debit in Company Currency,Afficher le crédit / débit dans la devise de la société

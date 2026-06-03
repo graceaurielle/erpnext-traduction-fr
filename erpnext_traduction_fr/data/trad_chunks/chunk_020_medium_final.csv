@@ -1,0 +1,75 @@
+source,traduction
+You do not have permission to complete this action,Vous n'avez pas la permission d'effectuer cette action
+You do not have permission to modify this workbook,Vous n'avez pas la permission de modifier ce classeur
+You do not have permission to share this workbook,Vous n'avez pas la permission de partager ce classeur
+You don't have permission to access the {0} DocType.,Vous n'avez pas la permission d'accéder au DocType {0}.
+You have been invited to collaborate on the project {0}.,Vous avez été invité à collaborer sur le projet {0}.
+You have entered a duplicate Delivery Note on Row,Vous avez saisi un bon de livraison en double sur la ligne
+You have not entered a value. The field will be set to empty.,Vous n'avez pas saisi de valeur. Le champ sera vidé.
+You have to enable Two Factor Auth from System Settings.,Vous devez activer l'authentification à deux facteurs depuis les paramètres système.
+You have unsaved changes. Do you want to save the invoice?,Vous avez des modifications non enregistrées. Voulez-vous enregistrer la facture ?
+You haven't added any Dashboard Charts or Number Cards yet.,Vous n'avez pas encore ajouté de graphiques de tableau de bord ou de cartes numériques.
+You must be logged in to use this form.,Vous devez être connecté pour utiliser ce formulaire.
+You must be within {0} meters of your shift location to check in.,Vous devez être à moins de {0} mètres de votre lieu d'équipe pour pointer.
+You need the '{0}' permission on {1} {2} to perform this action.,Vous avez besoin de la permission '{0}' sur {1} {2} pour effectuer cette action.
+You need to be Workspace Manager to delete a public workspace.,Vous devez être Gestionnaire d'espace de travail pour supprimer un espace de travail public.
+You need to be Workspace Manager to edit this document,Vous devez être Gestionnaire d'espace de travail pour modifier ce document
+You need to be a system user to access this page.,Vous devez être un utilisateur système pour accéder à cette page.
+You need to cancel POS Closing Entry {} to be able to cancel this document.,Vous devez annuler l'écriture de clôture PDV {} pour pouvoir annuler ce document.
+You need to create these first:,Vous devez d'abord créer ceux-ci :
+You need to select indexes you want to add first.,Vous devez d'abord sélectionner les index que vous souhaitez ajouter.
+You need write permission on {0} {1} to merge,Vous avez besoin de la permission d'écriture sur {0} {1} pour fusionner
+You need write permission on {0} {1} to rename,Vous avez besoin de la permission d'écriture sur {0} {1} pour renommer
+You need {0} permission to fetch values from {1} {2},Vous avez besoin de la permission {0} pour récupérer les valeurs depuis {1} {2}
+You selected the account group {1} as {2} Account in row {0}. Please select a single account.,Vous avez sélectionné le groupe de comptes {1} comme compte {2} à la ligne {0}. Veuillez sélectionner un compte unique.
+You've been invited to join {0}.,Vous avez été invité à rejoindre {0}.
+You've logged in as another user from another tab. Refresh this page to continue using system.,Vous vous êtes connecté en tant qu'un autre utilisateur depuis un autre onglet. Actualisez cette page pour continuer à utiliser le système.
+Your browser does not support the audio element.,Votre navigateur ne prend pas en charge l'élément audio.
+Your browser does not support the video element.,Votre navigateur ne prend pas en charge l'élément vidéo.
+Your email has been verified and your appointment has been scheduled,Votre e-mail a été vérifié et votre rendez-vous a été planifié
+Your form has been successfully updated,Votre formulaire a été mis à jour avec succès
+Your invitation to join {0} has been cancelled by the site administrator.,Votre invitation à rejoindre {0} a été annulée par l'administrateur du site.
+Your invitation to join {0} has expired.,Votre invitation à rejoindre {0} a expiré.
+Your new password has been set successfully.,Votre nouveau mot de passe a été défini avec succès.
+Your old password is incorrect.,Votre ancien mot de passe est incorrect.
+as a percentage of finished item quantity,en pourcentage de la quantité d'article fini
+or for the Employee's Department: {0},ou pour le département de l'employé : {0}
+subscription is already cancelled.,l'abonnement est déjà annulé.
+wants to access the following details from your account,souhaite accéder aux détails suivants de votre compte
+{0} Account not found against Customer {1}.,Compte {0} introuvable pour le client {1}.
+{0} Not allowed to change {1} after submission from {2} to {3},{0} Modification de {1} non autorisée après soumission de {2} à {3}
+{0} Operating Cost for operation {1},Coût d'exploitation {0} pour l'opération {1}
+{0} account is not of company {1},Le compte {0} n'appartient pas à la société {1}
+{0} account is not of type {1},Le compte {0} n'est pas de type {1}
+{0} account not found while submitting purchase receipt,Compte {0} introuvable lors de la soumission du bon de réception
+{0} cancelled this document {1},{0} a annulé ce document {1}
+{0} cannot be changed with opened Opening Entries.,{0} ne peut pas être modifié avec des écritures d'ouverture ouvertes.
+{0} cannot be hidden and mandatory without any default value,{0} ne peut pas être masqué et obligatoire sans valeur par défaut
+{0} changed the value of {1} {2},{0} a modifié la valeur de {1} {2}
+{0} changed the values for {1},{0} a modifié les valeurs de {1}
+{0} changed the values for {1} {2},{0} a modifié les valeurs de {1} {2}
+{0} currency must be same as company's default currency. Please select another account.,La devise de {0} doit être identique à la devise par défaut de la société. Veuillez sélectionner un autre compte.
+{0} does not belong to the Company {1}.,{0} n'appartient pas à la société {1}.
+{0} entered twice {1} in Item Taxes,{0} saisi deux fois {1} dans les taxes de l'article
+{0} from {1} to {2} in row #{3},{0} de {1} à {2} à la ligne #{3}
+{0} has been modified after you pulled it. Please pull it again.,{0} a été modifié après que vous l'ayez récupéré. Veuillez le récupérer à nouveau.
+{0} is a child table and will be deleted automatically with its parent,{0} est une table enfant et sera supprimé automatiquement avec son parent
+{0} is added multiple times on rows: {1},{0} est ajouté plusieurs fois aux lignes : {1}
+{0} is already running for {1},{0} est déjà en cours d'exécution pour {1}
+{0} is an Accrual Component and this will be recorded as a payout in Employee Benefits Ledger,{0} est un composant d'accrual et sera enregistré comme versement dans le grand livre des avantages employés
+{0} is an invalid Attendance Status.,{0} est un statut de présence invalide.
+{0} is greater than or equal to {1},{0} est supérieur ou égal à {1}
+{0} is in Draft. Submit it before creating the Asset.,{0} est en brouillon. Soumettez-le avant de créer l'actif.
+{0} is less than or equal to {1},{0} est inférieur ou égal à {1}
+{0} is mandatory for account {1},{0} est obligatoire pour le compte {1}
+{0} is mandatory. Please set it in Loan Product or Company,{0} est obligatoire. Veuillez le définir dans le produit de prêt ou la société
+{0} is not a descendant of {1},{0} n'est pas un descendant de {1}
+{0} is not a field of doctype {1},{0} n'est pas un champ du doctype {1}
+{0} is not a valid Calendar. Redirecting to default Calendar.,{0} n'est pas un calendrier valide. Redirection vers le calendrier par défaut.
+{0} is not a valid parent DocType for {1},{0} n'est pas un DocType parent valide pour {1}
+{0} is not a valid parentfield for {1},{0} n'est pas un champ parent valide pour {1}
+{0} is not an allowed role for {1},{0} n'est pas un rôle autorisé pour {1}
+{0} items lost during process.,{0} articles perdus lors du processus.
+{0} just impersonated as you. They gave this reason: {1},{0} vient de se faire passer pour vous. La raison donnée : {1}
+{0} leaves allocated successfully,{0} congés alloués avec succès
+{0} leaves were manually allocated by {1} on {2},{0} congés ont été manuellement alloués par {1} le {2}

@@ -1,0 +1,658 @@
+source,traduction
+SLA Fulfilled On,SLA rempli le
+SLA Fulfilled On Status,Statut SLA rempli le
+SLA Paused On,SLA mis en pause le
+SMS sent successfully,SMS envoyé avec succès
+SMTP Server is required,Le serveur SMTP est requis
+SO Total Qty,Qté totale commande client
+SQL Explain,Explication SQL
+SQL Output,Sortie SQL
+SQL Queries,Requêtes SQL
+Salary Component Based,Basé sur la composante de salaire
+Salary Slip Reference,Référence de bulletin de paie
+Salary Slip not found.,Bulletin de paie introuvable.
+Salary Withholding,Retenue de salaire
+Salary Withholding Cycle,Cycle de retenue de salaire
+Sales Forecast,Prévisions de ventes
+Sales Forecast Item,Article de prévision de ventes
+Sales Incoming Rate,Taux entrant de vente
+Sales Invoice Reference,Référence de facture de vente
+Sales Invoice Transactions,Transactions de facture de vente
+Sales Invoice is not submitted,La facture de vente n'est pas soumise
+Sales Opportunities by Medium,Opportunités de vente par canal
+Sales Opportunities by Source,Opportunités de vente par source
+Sales Order Schedule,Calendrier de commande client
+Sales Order Status,Statut de commande client
+Sales Pipeline Analytics,Analyse du pipeline de vente
+Sales Pipeline by Stage,Pipeline de vente par étape
+Sales Tax Withholding Category,Catégorie de retenue de taxe de vente
+Salvage Value,Valeur résiduelle
+Salvage Value Percentage,Pourcentage de valeur résiduelle
+Save Customizations,Enregistrer les personnalisations
+Save on Completion,Enregistrer à la fin
+Save the document.,Enregistrer le document.
+Saving Changes...,Enregistrement des modifications...
+Saving Customization...,Enregistrement de la personnalisation...
+Savings,Épargne
+Scan Batch No,Scanner le n° de lot
+Scan Job Card Qrcode,Scanner le QR code de la carte de travail
+Scan Mode,Mode scanner
+Scan QRCode,Scanner le QR code
+Scan Serial No,Scanner le n° de série
+Scan barcode for item {0},Scanner le code-barres pour l'article {0}
+Scanned Quantity,Quantité scannée
+Schedule (Cron),Planification (Cron)
+Schedule Send At,Planifier l'envoi à
+Scheduled Against,Planifié contre
+Scheduled Time Logs,Feuilles de temps planifiées
+Scheduler Inactive,Planificateur inactif
+Scheduler Status,Statut du planificateur
+Scheduler: Active,Planificateur : Actif
+Scheduler: Inactive,Planificateur : Inactif
+Scheduling,Planification
+Scheduling...,Planification en cours...
+Schema,Schéma
+Scope,Périmètre
+Scopes,Périmètres
+Scopes Supported,Périmètres supportés
+Scrap & Process Loss,Rebut et pertes de processus
+Scrap Asset,Mettre l'actif au rebut
+Scrap Cost Per Qty,Coût de rebut par qté
+Scrap Item Code,Code article de rebut
+Scrap Item Name,Nom de l'article de rebut
+Scrap Items Generated,Articles de rebut générés
+Script Log,Journal de script
+Scripting,Scripting
+Scripting / Style,Script / Style
+Search Bar,Barre de recherche
+Search fields,Champs de recherche
+Search fieldtypes...,Chercher les types de champ...
+Search for countries...,Rechercher des pays...
+Search for icons...,Rechercher des icônes...
+Search or type a command,Rechercher ou saisir une commande
+Search properties...,Rechercher des propriétés...
+Secondary Party,Tiers secondaire
+Secondary Role,Rôle secondaire
+Secrets,Secrets
+Section ID,ID de section
+Section Title,Titre de section
+Secured,Sécurisé
+Security Deposit Account,Compte de dépôt de garantie
+Security Deposit Adjustment,Ajustement du dépôt de garantie
+Security Type,Type de garantie
+See all Activity,Voir toute l'activité
+See previous responses,Voir les réponses précédentes
+Select Accounting Dimension.,Sélectionner la dimension comptable.
+Select Columns and Filters,Sélectionner les colonnes et filtres
+Select Company Address,Sélectionner l'adresse de la société
+Select Corrective Operation,Sélectionner l'opération corrective
+Select Dimension,Sélectionner la dimension
+Select Dispatch Address ,Sélectionner l'adresse d'expédition
+Select Field...,Sélectionner un champ...
+Select Fields (Up to {0}),Sélectionner les champs (jusqu'à {0})
+Select Finished Good,Sélectionner le produit fini
+Select Group By...,Sélectionner le Group By...
+Select Items to Receive,Sélectionner les articles à recevoir
+Select Job Worker Address,Sélectionner l'adresse du sous-traitant
+Select Kanban,Sélectionner le Kanban
+Select List View,Sélectionner la vue liste
+Select Month for LWP Reversal,Sélectionner le mois pour l'inversion LWP
+Select Network Printer,Sélectionner l'imprimante réseau
+Select Page,Sélectionner la page
+Select Shift Requests,Sélectionner les demandes d'équipe
+Select Time Zone,Sélectionner le fuseau horaire
+Select View,Sélectionner la vue
+Select Vouchers to Match,Sélectionner les pièces à réconcilier
+Select a Customer,Sélectionner un client
+Select a Payment Method.,Sélectionner un mode de paiement.
+Select a group {0} first.,Sélectionner d'abord un groupe {0}.
+Select an Image,Sélectionner une image
+Select an Item Group.,Sélectionner un groupe d'articles.
+Select list item,Sélectionner un élément de liste
+Select multiple list items,Sélectionner plusieurs éléments de liste
+Select the Warehouse,Sélectionner l'entrepôt
+Select the date,Sélectionner la date
+Select your weekly off day,Sélectionner votre jour de repos hebdomadaire
+Selected Vouchers,Pièces sélectionnées
+Selected date is,La date sélectionnée est
+Self Appraisal Score,Score d'auto-évaluation
+Self delivery,Livraison propre
+Sell Asset,Vendre l'actif
+Semi-Secured,Semi-sécurisé
+Send Alert,Envoyer une alerte
+Send As Raw HTML,Envoyer en HTML brut
+Send Document Print,Envoyer l'impression du document
+Send Email On State,Envoyer un e-mail selon l'état
+Send Email To Creator,Envoyer un e-mail au créateur
+Send Emails,Envoyer des e-mails
+Send login link,Envoyer le lien de connexion
+Sender Copy,Copie de l'expéditeur
+Sender Email Field,Champ e-mail de l'expéditeur
+Sender Name Field,Champ nom de l'expéditeur
+Sending Alert...,Envoi de l'alerte...
+Sent Folder Name,Nom du dossier Envoyés
+Sent On,Envoyé le
+Sent Successfully: {0},Envoyé avec succès : {0}
+Sequence Id,ID de séquence
+Sequential,Séquentiel
+Serial & Batch Item,Article avec numéro de série et lot
+Serial & Batch Item Settings,Paramètres des articles série et lot
+Serial / Batch Bundle,Lot série / lot
+Serial / Batch Bundle Missing,Lot série / lot manquant
+Serial / Batch Nos,N° de série / lot
+Serial No (In/Out),N° de série (entrée/sortie)
+Serial No Already Assigned,N° de série déjà attribué
+Serial No Ledger,Grand livre des n° de série
+Serial No Reserved,N° de série réservé
+Serial No Series Overlap,Chevauchement de série de n° de série
+Serial No is mandatory,Le n° de série est obligatoire
+Serial No {0} already exists,Le n° de série {0} existe déjà
+Serial No {0} already scanned,Le n° de série {0} déjà scanné
+Serial No {0} does not exists,Le n° de série {0} n'existe pas
+Serial No {0} is already added,Le n° de série {0} est déjà ajouté
+Serial Nos / Batch Nos,N° de série / N° de lot
+Serial and Batch,Série et lot
+Serial and Batch Details,Détails de série et lot
+Serial and Batch Entry,Écriture de série et lot
+Serial and Batch No,N° de série et lot
+Serial and Batch Nos,N° de série et lot
+Serial and Batch Reservation,Réservation de série et lot
+Serial and Batch Summary,Résumé de série et lot
+Series Updated for {},Série mise à jour pour {}
+Service Cost Per Qty,Coût de service par qté
+Service Expense Account,Compte de dépense de service
+Service Expense Total Amount,Montant total des dépenses de service
+Service Expenses,Dépenses de service
+Service Item,Article de service
+Service Item Qty,Qté d'article de service
+Service Item UOM,UDM d'article de service
+Service Item {0} is disabled.,L'article de service {0} est désactivé.
+Service Items,Articles de service
+Service Level Name,Nom du niveau de service
+Servicer Fee,Frais du prestataire
+Services,Services
+Session Created,Session créée
+Session Expiry (idle timeout),Expiration de session (délai d'inactivité)
+Set Assignment Details,Définir les détails d'affectation
+Set Chart,Définir le graphique
+Set Default Supplier,Définir le fournisseur par défaut
+Set Delivery Warehouse,Définir l'entrepôt de livraison
+Set Finished Good Quantity,Définir la quantité de produit fini
+Set From Warehouse,Définir l'entrepôt source
+Set Level,Définir le niveau
+Set Limit,Définir la limite
+Set Loyalty Program,Définir le programme de fidélité
+Set Process Loss Item Quantity,Définir la quantité d'article de perte de processus
+Set Project Status,Définir le statut du projet
+Set Quantity,Définir la quantité
+Set Supplier,Définir le fournisseur
+Set all private,Tout mettre en privé
+Set all public,Tout mettre en public
+Set by Item Tax Template,Défini par le modèle fiscal de l'article
+Set by user,Défini par l'utilisateur
+Set only once,Définir une seule fois
+Set size in MB,Définir la taille en Mo
+Set the status manually.,Définir le statut manuellement.
+Set {0} for selected employees,Définir {0} pour les employés sélectionnés
+Setting {0} is required,Le paramètre {0} est requis
+Settings for Contact Us Page,Paramètres de la page Nous contacter
+Settings for Selling Module,Paramètres du module de vente
+Settings for the About Us Page,Paramètres de la page À propos
+Setup > Customize Form,Configuration > Personnaliser le formulaire
+Setup > User,Configuration > Utilisateur
+Setup > User Permissions,Configuration > Permissions utilisateur
+Setup failed,Échec de la configuration
+Setup your organization,Configurez votre organisation
+Share Link,Partager le lien
+Share this document with,Partager ce document avec
+Shareable Type,Type partageable
+Shareables,Éléments partageables
+Sharing Parameter,Paramètre de partage
+Shelf Life in Days,Durée de vie en jours
+Shift Assignment Details,Détails d'affectation d'équipe
+Shift Details,Détails de l'équipe
+Shift Factor,Facteur d'équipe
+Shift Location,Lieu de l'équipe
+Shift Name,Nom de l'équipe
+Shift Request Approver,Approbateur de demande d'équipe
+Shift Request Filters,Filtres de demande d'équipe
+Shift Status,Statut de l'équipe
+Shift Time (In Hours),Temps d'équipe (en heures)
+Shift Timings,Horaires de l'équipe
+Shift Tools,Outils d'équipe
+Shift and Attendance,Équipe et présence
+Shipment,Expédition
+Shipment Amount,Montant de l'expédition
+Shipment Delivery Note,Bon de livraison d'expédition
+Shipment ID,ID d'expédition
+Shipment Information,Informations sur l'expédition
+Shipment Type,Type d'expédition
+Shipment details,Détails de l'expédition
+Shipping Address Template,Modèle d'adresse de livraison
+Short-term Investments,Investissements à court terme
+Short-term Provisions,Provisions à court terme
+Shortfall Percentage,Pourcentage de déficit
+Show Absolute Values,Afficher les valeurs absolues
+Show Arrow,Afficher la flèche
+Show Auth Server Metadata,Afficher les métadonnées du serveur d'authentification
+Show Dimension Wise Stock,Afficher le stock par dimension
+Show Disabled Items,Afficher les articles désactivés
+Show Disabled Warehouses,Afficher les entrepôts désactivés
+Show Document,Afficher le document
+Show Error,Afficher l'erreur
+Show External Link Warning,Afficher l'avertissement de lien externe
+Show First Document Tour,Afficher la visite guidée du premier document
+Show Full Number,Afficher le numéro complet
+Show GL Balance,Afficher le solde GL
+Show Group Accounts,Afficher les comptes de groupe
+Show Item Name,Afficher le nom de l'article
+Show Labels,Afficher les étiquettes
+Show Language Picker,Afficher le sélecteur de langue
+Show Ledger View,Afficher la vue du grand livre
+Show Links,Afficher les liens
+Show Only Failed Logs,Afficher uniquement les journaux échoués
+Show Preview,Afficher l'aperçu
+Show Processlist,Afficher la liste des processus
+Show Related Errors,Afficher les erreurs liées
+Show Remarks,Afficher les remarques
+Show Taxes as Table in Print,Afficher les taxes en tableau à l'impression
+Show Title in Link Fields,Afficher le titre dans les champs de lien
+Show Tour,Afficher la visite guidée
+Show Traceback,Afficher la trace
+Show Values over Chart,Afficher les valeurs sur le graphique
+Show all activity,Afficher toute l'activité
+Show attachments,Afficher les pièces jointes
+Show footer on login,Afficher le pied de page à la connexion
+Show in Bucket View,Afficher dans la vue Bucket
+Show in Resource Metadata,Afficher dans les métadonnées de ressource
+Show link to document,Afficher le lien vers le document
+Show list,Afficher la liste
+Show on Timeline,Afficher dans la chronologie
+Show pending entries,Afficher les écritures en attente
+Show {0} List,Afficher la liste {0}
+Sidebar Item Group,Groupe d'articles de la barre latérale
+Sidebar Item Group Link,Lien de groupe d'articles de la barre latérale
+Sign Out,Se déconnecter
+Sign Up and Confirmation,Inscription et confirmation
+Sign ups,Inscriptions
+Simultaneous,Simultané
+Single Assignment,Affectation unique
+Site Database,Base de données du site
+Size (MB),Taille (Mo)
+Skip Material Transfer,Ignorer le transfert de matériau
+Skip Material Transfer to WIP,Ignorer le transfert de matériau vers WIP
+Skipped,Ignoré
+Skipped {0} DocType(s):<br>{1},DocType(s) ignorés : {0}<br>{1}
+Skipping {0} of {1}{2},Ignorer {0} sur {1}{2}
+Slug,Identifiant URL
+SocketIO Ping Check,Vérification ping SocketIO
+SocketIO Transport Mode,Mode de transport SocketIO
+Soft-Bounced,Rebondi (soft)
+Software,Logiciel
+Software ID,ID du logiciel
+Software Version,Version du logiciel
+Sold by,Vendu par
+Solid,Plein
+Solvency Ratios,Ratios de solvabilité
+Something went wrong.,Une erreur s'est produite.
+Sort Options,Options de tri
+Source Code,Code source
+Source Document,Document source
+Source Document No,N° de document source
+Source Fieldname,Nom du champ source
+South Africa VAT Account,Compte TVA Afrique du Sud
+South Africa VAT Settings,Paramètres TVA Afrique du Sud
+Spacer,Espaceur
+Spam,Courrier indésirable
+Split Asset,Diviser l'actif
+Split From,Diviser depuis
+Split Qty,Qté à diviser
+Stack Trace,Trace de la pile
+Standard Description,Description standard
+Standard Multiplier,Multiplicateur standard
+Standard Permissions,Permissions standard
+Standard Rated Expenses,Dépenses à taux standard
+Standard rated supplies in {0},Fournitures à taux standard dans {0}
+Start / Resume,Démarrer / Reprendre
+Start Import,Démarrer l'import
+Start Job,Démarrer le travail
+Start Merge,Démarrer la fusion
+Start Recording,Démarrer l'enregistrement
+Start Reposting,Démarrer la retransmission
+Start Timer,Démarrer le minuteur
+Start a new discussion,Démarrer une nouvelle discussion
+Start of the next month,Début du mois prochain
+StartTLS,StartTLS
+Starting...,Démarrage...
+State (JSON),État (JSON)
+State Properties,Propriétés d'état
+Status Details,Détails du statut
+Status Illustration,Illustration du statut
+Status for Other Half,Statut pour l'autre moitié
+Sticky,Épinglé
+Stock Asset Account,Compte d'actif de stock
+Stock Capacity,Capacité de stock
+Stock Closing,Clôture de stock
+Stock Closing Balance,Solde de clôture de stock
+Stock Closing Entry,Écriture de clôture de stock
+Stock Closing Log,Journal de clôture de stock
+Stock Entry Item,Article d'écriture de stock
+Stock Entry {0} has created,L'écriture de stock {0} a été créée
+Stock Frozen Up To,Stock gelé jusqu'au
+Stock Ledger Invariant Check,Vérification d'invariant du grand livre de stock
+Stock Movement,Mouvement de stock
+Stock Partially Reserved,Stock partiellement réservé
+Stock Planning,Planification du stock
+Stock Qty vs Batch Qty,Qté stock vs Qté lot
+Stock Reposting Settings,Paramètres de retransmission du stock
+Stock Reserved,Stock réservé
+Stock Reserved Qty,Qté de stock réservé
+Stock Unreservation,Annulation de réservation de stock
+Stock Validations,Validations du stock
+Stock and Manufacturing,Stock et fabrication
+Storage Usage (MB),Utilisation du stockage (Mo)
+Storage Usage By Table,Utilisation du stockage par table
+Store Attached PDF Document,Stocker le document PDF joint
+Stored,Stocké
+String,Chaîne
+Strong,Fort
+Sub Assemblies & Raw Materials,Sous-assemblages et matières premières
+Sub Assembly Item Reference,Référence d'article de sous-assemblage
+Sub Assembly Item is mandatory,L'article de sous-assemblage est obligatoire
+Sub Assembly Warehouse,Entrepôt de sous-assemblage
+Subcontract BOM,Nomenclature de sous-traitance
+Subcontract Order,Ordre de sous-traitance
+Subcontract Order Summary,Résumé des ordres de sous-traitance
+Subcontract Return,Retour de sous-traitance
+Subcontracted Purchase Order,Bon de commande sous-traité
+Subcontracting Delivery,Livraison de sous-traitance
+Subcontracting Inward,Entrée de sous-traitance
+Subcontracting Inward Order,Ordre d'entrée de sous-traitance
+Subcontracting Inward Settings,Paramètres d'entrée de sous-traitance
+Subcontracting Purchase Order,Bon de commande de sous-traitance
+Subcontracting Return,Retour de sous-traitance
+Subcontracting Sales Order,Commande client de sous-traitance
+Subdivision,Subdivision
+Submission Queue,File d'attente de soumission
+Submit Action Failed,Échec de l'action de soumission
+Submit ERR Journals?,Soumettre les journaux ERR ?
+Submit Generated Invoices,Soumettre les factures générées
+Submit Overtime Slips,Soumettre les bulletins d'heures supplémentaires
+Submit an Issue,Soumettre un ticket
+Submit another response,Soumettre une autre réponse
+Submit button label,Étiquette du bouton Soumettre
+Submit on Creation,Soumettre à la création
+Submit your Quotation,Soumettre votre devis
+Submit {0} documents?,Soumettre {0} documents ?
+Submitted via Payroll Entry,Soumis via l'écriture de paie
+Submitting,Soumission en cours
+Subsidy Adjustment Account,Compte d'ajustement de subvention
+Subsidy Adjustments,Ajustements de subvention
+Subtle,Subtil
+Succeeded,Réussi
+Succeeded Entries,Écritures réussies
+Success URI,URI de succès
+Success message,Message de succès
+Success title,Titre de succès
+Successful Job Count,Nombre de travaux réussis
+Successfully imported {0},Importé avec succès : {0}
+Successfully signed out,Déconnecté avec succès
+Successfully updated {0},Mis à jour avec succès : {0}
+Suggest Optimizations,Suggérer des optimisations
+Suggested Indexes,Index suggérés
+Supplied Item,Article fourni
+Supplier > Supplier Type,Fournisseur > Type de fournisseur
+Supplier Info,Infos fournisseur
+Supplier Invoice,Facture fournisseur
+Supplier Item,Article fournisseur
+Supplier Number,Numéro fournisseur
+Supplier Number At Customer,Numéro fournisseur chez le client
+Supplier Numbers,Numéros fournisseurs
+Supplier Portal Users,Utilisateurs du portail fournisseur
+Supplier Required,Fournisseur requis
+Supplier of Goods or Services.,Fournisseur de biens ou services.
+Supply,Approvisionnement
+Suspected Discount Amount,Montant de remise suspecte
+Suspense Account,Compte d'attente
+Suspense Collection Account,Compte de collecte d'attente
+Suspense Interest Income,Produits d'intérêts d'attente
+Switch Camera,Changer de caméra
+Switch Theme,Changer de thème
+Switching Camera,Changement de caméra
+Sync Started,Synchronisation démarrée
+Sync {0},Synchroniser {0}
+Sync {0} Fields,Synchroniser les champs {0}
+Synced Fields,Champs synchronisés
+Syntax Error,Erreur de syntaxe
+System Health,Santé du système
+System Health Report Errors,Erreurs du rapport de santé système
+System Health Report Queue,File d'attente du rapport de santé système
+System Health Report Tables,Tables du rapport de santé système
+System Health Report Workers,Workers du rapport de santé système
+System In Use,Système en cours d'utilisation
+TDS Deducted,TDS déduit
+TDS Payable,TDS à payer
+Tab Label,Étiquette de l'onglet
+Table Fieldname,Nom de champ de table
+Table Fieldname Missing,Nom de champ de table manquant
+Table Label,Étiquette de table
+Table Restrictions,Restrictions de table
+Table Trimmed,Table tronquée
+Tables,Tables
+Target Asset,Actif cible
+Target Asset {0} cannot be {1},L'actif cible {0} ne peut pas être {1}
+Target Batch No,N° de lot cible
+Target Fixed Asset Account,Compte d'actif immobilisé cible
+Target Has Batch No,La cible a un n° de lot
+Target Has Serial No,La cible a un n° de série
+Target Incoming Rate,Taux entrant cible
+Target Is Fixed Asset,La cible est un actif immobilisé
+Target Serial No,N° de série cible
+Target Warehouse Address Link,Lien d'adresse d'entrepôt cible
+Task Assignee Email,E-mail du responsable de tâche
+Tax Expense,Charge fiscale
+Tax Id: {0},ID fiscal : {0}
+Tax Rate %,Taux de taxe %
+Tax Row,Ligne de taxe
+Tax Settings,Paramètres fiscaux
+Tax Withholding Details,Détails de retenue fiscale
+Tax Withholding Entries,Écritures de retenue fiscale
+Tax Withholding Entry,Écriture de retenue fiscale
+Tax Withholding Group,Groupe de retenue fiscale
+Taxable Date,Date taxable
+Taxable Document Name,Nom du document taxable
+Taxable Document Type,Type de document taxable
+Team Members Subtitle,Sous-titre des membres de l'équipe
+Team Permissions,Permissions de l'équipe
+Telegram API Token,Jeton API Telegram
+Telegram Chat ID,ID de chat Telegram
+Telemetry,Télémétrie
+Telephony,Téléphonie
+Telephony Call Type,Type d'appel téléphonique
+Template File,Fichier modèle
+Template Item Selected,Article modèle sélectionné
+Template Task,Tâche modèle
+Tenure,Durée
+Tenure Post Restructure,Durée après restructuration
+Terms & Conditions,Conditions générales
+Terms Template,Modèle de conditions
+Territory Item,Article de territoire
+Test Data,Données de test
+Test Job ID,ID du travail de test
+Thank you for your message,Merci pour votre message
+Thanks,Merci
+The Condition '{0}' is invalid,La condition '{0}' est invalide
+The field {0} is mandatory,Le champ {0} est obligatoire
+There is no task called "{}",Il n'y a pas de tâche appelée "{}"
+Threshold Exemption,Exemption de seuil
+Time In Mins,Temps en minutes
+Time Interval,Intervalle de temps
+Time Taken,Temps pris
+Time Taken (Seconds),Temps pris (secondes)
+Time Taken to Deliver,Temps de livraison
+Time Window (Seconds),Fenêtre de temps (secondes)
+Time in Queries,Temps dans les requêtes
+Time in mins,Temps en minutes
+Time in mins.,Temps en minutes.
+Time slot is not available,Le créneau horaire n'est pas disponible
+Timed Out,Délai dépassé
+Timeout,Délai d'attente
+Timeout (In Seconds),Délai d'attente (en secondes)
+Timesheet Billing Summary,Résumé de facturation des feuilles de temps
+To Date is mandatory,La date de fin est obligatoire
+To Delivery Date,Date de livraison de fin
+To Doctype,Vers le Doctype
+To Due Date,Date d'échéance de fin
+To Pay,À payer
+To Payment Date,Date de paiement de fin
+To Produce,À produire
+To be Delivered to Customer,À livrer au client
+To generate password click {0},Pour générer un mot de passe cliquez {0}
+To know more click {0},Pour en savoir plus cliquez {0}
+Token Cache,Cache de jeton
+Token Endpoint Auth Method,Méthode d'authentification du point d'accès de jeton
+Token Type,Type de jeton
+Token URI,URI de jeton
+Too Many Documents,Trop de documents
+Top 10,Top 10
+Top Center,Haut centre
+Top Errors,Erreurs principales
+Top Left,Haut gauche
+Top Right,Haut droite
+Total Accrued,Total des accruals
+Total Allocations,Total des allocations
+Total Amount Due,Montant total dû
+Total Amount cannot be zero,Le montant total ne peut pas être zéro
+Total Asset Recovery Cost,Coût total de récupération des actifs
+Total Background Workers,Total des workers en arrière-plan
+Total Billing Hours,Total des heures facturées
+Total Charges Paid,Total des frais payés
+Total Charges Payable,Total des frais à payer
+Total Days Without Pay,Total des jours sans salaire
+Total Equity,Total des capitaux propres
+Total Errors (last 1 day),Total des erreurs (dernier jour)
+Total Exchange Gain/Loss,Total du gain/perte de change
+Total Expenses booked through,Total des dépenses comptabilisées via
+Total Images,Total des images
+Total Incoming Value (Receipt),Valeur entrante totale (réception)
+Total Installments Overdue ,Total des échéances en retard
+Total Installments Paid,Total des échéances payées
+Total Installments Raised,Total des échéances émises
+Total Interest,Total des intérêts
+Total Interest Paid,Total des intérêts payés
+Total Issues,Total des tickets
+Total Landed Cost,Coût rendu total
+Total Leaves ({0}),Total des congés ({0})
+Total Liability,Total du passif
+Total Loan Repayment,Total des remboursements de prêt
+Total Only,Total uniquement
+Total Operation Time,Temps d'opération total
+Total Other Charges,Total des autres frais
+Total Outgoing Emails,Total des e-mails sortants
+Total Overdue Amount,Montant total en retard
+Total Overtime Duration,Durée totale des heures supplémentaires
+Total Partner Interest Share,Part d'intérêt totale du partenaire
+Total Partner Principal Share,Part de principal totale du partenaire
+Total Payout,Versement total
+Total Penalty Paid,Total des pénalités payées
+Total Principal Amount,Montant total du principal
+Total Repair Cost,Coût total de réparation
+Total Reposting Count,Nombre total de retransmissions
+Total Supplied Qty,Qté totale fournie
+Total Time (in Mins),Temps total (en minutes)
+Total Users,Total des utilisateurs
+Total Views,Total des vues
+Total Weight (kg),Poids total (kg)
+Total Working Time,Temps de travail total
+Total hours: {0},Total des heures : {0}
+Total {0} ({1}),Total {0} ({1})
+Total:,Total :
+Totals,Totaux
+Trace ID,ID de trace
+Track Semi Finished Goods,Suivre les produits semi-finis
+Track Steps,Suivre les étapes
+Tracking Status,Statut de suivi
+Tracking Status Info,Infos du statut de suivi
+Transaction Deletion Record,Enregistrement de suppression de transaction
+Transaction Exchange Rate,Taux de change de transaction
+Transaction Information,Informations sur la transaction
+Transaction Name,Nom de la transaction
+Transaction Qty,Qté de transaction
+Transaction Threshold,Seuil de transaction
+Transfer From Warehouses,Transférer depuis les entrepôts
+Transfer Materials,Transférer les matériaux
+Transfer and Issue,Transfert et émission
+Transferred Raw Materials,Matières premières transférées
+Transform,Transformer
+Transforms,Transformations
+Translate Data,Traduire les données
+Translate Link Fields,Traduire les champs de lien
+Translate values,Traduire les valeurs
+Translator,Traducteur
+Transpose,Transposer
+Treatment Of Interest,Traitement des intérêts
+Treatment of Interest,Traitement des intérêts
+Trialing,En essai
+Trigger caching,Déclencher la mise en cache
+Trim Table,Tronquer la table
+Try the new Print Designer,Essayer le nouveau Concepteur d'impression
+Turnover Ratios,Ratios de rotation
+Type Of Call,Type d'appel
+Type a reply / comment,Saisir une réponse / un commentaire
+Type of FLDG Applicable,Type de FLDG applicable
+Type of Material,Type de matériau
+Type of Transaction,Type de transaction
+Type title,Saisir le titre
+Type your reply here...,Saisissez votre réponse ici...
+UAE VAT 201,TVA EAU 201
+UAE VAT Account,Compte TVA EAU
+UAE VAT Accounts,Comptes TVA EAU
+UAE VAT Settings,Paramètres TVA EAU
+UI Tour,Visite guidée de l'interface
+Un-following document {0},Désuivi du document {0}
+UnReconcile,Annuler la réconciliation
+UnReconcile Allocations,Annuler les allocations de réconciliation
+Unable to find variable:,Impossible de trouver la variable :
+Unaccrued Interest,Intérêts non accruals
+Unaccrued Interest Treatment,Traitement des intérêts non accruals
+Unaccrued Interest Waiver,Renonciation aux intérêts non accruals
+Unassign Condition,Désaffecter la condition
+Unbilled Orders,Commandes non facturées
+Unbooked Interest Paid,Intérêts non comptabilisés payés
+Unbooked Penalty Paid,Pénalités non comptabilisées payées
+Uncaught Exception,Exception non interceptée
+Under Withheld,Sous-retenu
+Under Withheld Reason,Raison de sous-retenue
+Unfreeze Date,Date de dégel
+Unhandled Emails,E-mails non traités
+Unique Customer,Client unique
+Unknown Rounding Method: {},Méthode d'arrondi inconnue : {}
+Unlock Reference Document,Déverrouiller le document de référence
+Unmark NPA,Démarquer NPA
+Unmarked Check-in Logs Found,Journaux de pointage non marqués trouvés
+Unmarked Employees HTML,HTML des employés non marqués
+Unpaid Accrual,Accrual non payé
+Unpivot,Dépivot
+Unpublish,Dépublier
+Unqualified,Non qualifié
+Unreconcile Payment,Annuler la réconciliation du paiement
+Unreconcile Payment Entries,Annuler les écritures de réconciliation du paiement
+Unreconcile Transaction,Annuler la réconciliation de la transaction
+Unreconciled Entries,Écritures non réconciliées
+Unreserve for Raw Materials,Annuler la réservation pour les matières premières
+Unreserve for Sub-assembly,Annuler la réservation pour le sous-assemblage
+Unsafe SQL query,Requête SQL non sécurisée
+Unsecured,Non sécurisé
+Unset Matched Payment Request,Désaffecter la demande de paiement correspondante
+Unsettled Transactions,Transactions non réglées
+Unsubscribe Params,Paramètres de désinscription
+Unsupported {0}: {1},Non pris en charge {0} : {1}
+Upcoming Shifts,Équipes à venir
+Update Additional Information,Mettre à jour les informations supplémentaires
+Update Batch Qty,Mettre à jour la qté du lot
+Update Costing and Billing,Mettre à jour le coût et la facturation
+Update Hooks Resolution Order,Mettre à jour l'ordre de résolution des hooks
+Update Order,Mettre à jour la commande
+Update Outstanding for Self,Mettre à jour l'en-cours pour soi-même
+Update Price List Based On,Mettre à jour la liste de prix selon
+Update Salary Structures,Mettre à jour les structures de salaire

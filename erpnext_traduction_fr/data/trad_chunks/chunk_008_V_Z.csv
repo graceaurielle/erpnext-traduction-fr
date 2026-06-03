@@ -1,0 +1,170 @@
+source,traduction
+VAT Accounts,Comptes TVA
+VAT Amount (AED),Montant TVA (AED)
+VAT Audit Report,Rapport d'audit TVA
+Valid Login id required.,ID de connexion valide requis.
+Valid Upto,Valide jusqu'au
+Valid email and name required,E-mail et nom valides requis
+Validate Frappe Mail Settings,Valider les paramètres Frappe Mail
+Validate Negative Stock,Valider le stock négatif
+Validate Normal Repayment,Valider le remboursement normal
+Validate Pricing Rule,Valider la règle de tarification
+Validate SSL Certificate,Valider le certificat SSL
+Validate Stock on Save,Valider le stock à l'enregistrement
+Valuation (I - K),Valorisation (I - K)
+Valuation Field Type,Type de champ de valorisation
+Valuation Rate (In / Out),Taux de valorisation (entrée / sortie)
+Value ({0}),Valeur ({0})
+Value Based Inspection,Inspection basée sur la valeur
+Value Date,Date de valeur
+Value Details,Détails de la valeur
+Value Too Long,Valeur trop longue
+Value as on,Valeur au
+Value of Goods,Valeur des marchandises
+Value of New Capitalized Asset,Valeur du nouvel actif capitalisé
+Value of New Purchase,Valeur du nouvel achat
+Value of Scrapped Asset,Valeur de l'actif mis au rebut
+Value of Sold Asset,Valeur de l'actif vendu
+Value of goods cannot be 0,La valeur des marchandises ne peut pas être 0
+Values Changed,Valeurs modifiées
+Variables,Variables
+Vendor Invoice,Facture fournisseur
+Vendor Invoices,Factures fournisseurs
+Verifying...,Vérification...
+Vertical Compact Layout,Disposition verticale compacte
+Via Landed Cost Voucher,Via le bon de coût rendu
+View Account Coverage,Voir la couverture du compte
+View Audit Trail,Voir la piste d'audit
+View BOM Update Log,Voir le journal de mise à jour de nomenclature
+View Data Based on,Voir les données selon
+View Doctype Permissions,Voir les permissions du Doctype
+View File,Voir le fichier
+View Full Log,Voir le journal complet
+View General Ledger,Voir le grand livre général
+View Ledgers,Voir les grands livres
+View MRP,Voir le MRP
+View Sidebar,Voir la barre latérale
+View Stock Balance,Voir le solde de stock
+View Stock Ledger,Voir le grand livre de stock
+View Switcher,Sélecteur de vue
+View all {0} users,Voir tous les {0} utilisateurs
+View call log,Voir le journal d'appels
+View your response,Voir votre réponse
+Violet,Violet
+Virtual,Virtuel
+Virtual DocType,DocType virtuel
+Visit Desktop,Visiter le bureau
+Visitor ID,ID visiteur
+Visual Plant Floor,Atelier visuel
+Voice Call Settings,Paramètres d'appel vocal
+Voucher Detail Reference,Référence de détail de pièce
+Voucher No is mandatory,Le n° de pièce est obligatoire
+Voucher Qty,Qté de la pièce
+Voucher-wise Balance,Solde par pièce
+WIP WH,Entrepôt WIP
+Waiting for payment...,En attente de paiement...
+Waive Off Restructure Charges,Renoncer aux frais de restructuration
+Waived Amount,Montant renoncé
+Waiver Account,Compte de renonciation
+Waiving of Charges applicable,Renonciation aux frais applicable
+Want to discuss?,Vous souhaitez discuter ?
+Warehouse Capacity Summary,Résumé de la capacité de l'entrepôt
+Warehouse Details,Détails de l'entrepôt
+Warehouse Disabled?,Entrepôt désactivé ?
+Warehouse Settings,Paramètres de l'entrepôt
+Warehouse {0} does not exist,L'entrepôt {0} n'existe pas
+Warning on Negative Stock,Avertissement sur le stock négatif
+Warning: Naming is not set,Avertissement : le nommage n'est pas défini
+Warnings,Avertissements
+Warranty Expiry (Serial),Expiration de garantie (série)
+Watch Period End Date,Date de fin de la période de surveillance
+Watch Tutorial,Regarder le tutoriel
+Watch Video,Regarder la vidéo
+We've received your query!,Nous avons reçu votre message !
+Weak,Faible
+Web Page URL,URL de page web
+Web Template is not specified,Le modèle web n'est pas spécifié
+Webhook Secret,Secret webhook
+Website Search Field,Champ de recherche du site web
+Website Theme image link,Lien d'image du thème du site web
+Week Starts On,La semaine commence le
+Week {0} {1},Semaine {0} {1}
+Weekend Multiplier,Multiplicateur de week-end
+Weekly Time to send,Heure hebdomadaire d'envoi
+Welcome URL,URL de bienvenue
+Welcome to {0},Bienvenue sur {0}
+What will be deleted:,Ce qui sera supprimé :
+Widths can be set in px or %.,Les largeurs peuvent être définies en px ou %.
+Withdrawal,Retrait
+Withheld,Retenu
+Withhold Security Deposit,Retenir le dépôt de garantie
+Withholding Date,Date de retenue
+Withholding Document,Document de retenue
+Withholding Document Name,Nom du document de retenue
+Withholding Document Type,Type de document de retenue
+Work Order / Subcontract PO,Ordre de travail / Bon de commande sous-traitance
+Work Order Consumed Materials,Matériaux consommés de l'ordre de travail
+Work Order {0} created,Ordre de travail {0} créé
+Workbook,Classeur
+Worker Information,Informations sur le worker
+Worker Name,Nom du worker
+Workflow Builder ID,ID du constructeur de flux de travail
+Workflow Data,Données du flux de travail
+Workflow Details,Détails du flux de travail
+Workflow Evaluation Error,Erreur d'évaluation du flux de travail
+Workflow States Don't Exist,Les états du flux de travail n'existent pas
+Workflow Task,Tâche du flux de travail
+Workflow Transition Task,Tâche de transition du flux de travail
+Workflow Transition Tasks,Tâches de transition du flux de travail
+Workflow updated successfully,Flux de travail mis à jour avec succès
+Workspace Sidebar,Barre latérale de l'espace de travail
+Workspace Sidebar Item,Élément de la barre latérale de l'espace de travail
+Workspace {0} created,Espace de travail {0} créé
+Workstation Cost,Coût du poste de travail
+Workstation Dashboard,Tableau de bord du poste de travail
+Workstation Status,Statut du poste de travail
+Workstations,Postes de travail
+Wrapping up,Finalisation
+Write Off Accounts,Comptes de passation en perte
+Write Off Details,Détails de la passation en perte
+Write Off Limit,Limite de passation en perte
+Write Off Recovery,Récupération de la passation en perte
+Write Off Recovery Account,Compte de récupération de la passation en perte
+Write Off Settlement,Règlement de la passation en perte
+Written Off,Passé en perte
+Written Off Amount,Montant passé en perte
+Wrong Company,Mauvaise société
+Wrong Template,Mauvais modèle
+Yahoo Mail,Yahoo Mail
+Yearly Amount,Montant annuel
+Yearly Benefit,Avantage annuel
+Yellow,Jaune
+You Liked,Vous avez aimé
+You added 1 row to {0},Vous avez ajouté 1 ligne à {0}
+You added {0} rows to {1},Vous avez ajouté {0} lignes à {1}
+You attached {0},Vous avez joint {0}
+You can also copy-paste this,Vous pouvez aussi copier-coller ceci
+You can use wildcard %,Vous pouvez utiliser le caractère générique %
+You cancelled this document,Vous avez annulé ce document
+You changed the value of {0},Vous avez modifié la valeur de {0}
+You changed the values for {0},Vous avez modifié les valeurs de {0}
+You changed {0} to {1},Vous avez changé {0} en {1}
+You created this document {0},Vous avez créé ce document {0}
+You have a new message from:,Vous avez un nouveau message de :
+You have no upcoming shifts,Vous n'avez pas d'équipes à venir
+You haven't created a {0} yet,Vous n'avez pas encore créé de {0}
+You must add atleast one link.,Vous devez ajouter au moins un lien.
+You removed 1 row from {0},Vous avez supprimé 1 ligne de {0}
+You removed attachment {0},Vous avez supprimé la pièce jointe {0}
+You removed {0} rows from {1},Vous avez supprimé {0} lignes de {1}
+You submitted this document,Vous avez soumis ce document
+You viewed this,Vous avez consulté ceci
+You will be redirected to:,Vous serez redirigé vers :
+Your Name (required),Votre nom (obligatoire)
+Your PDF is ready for download,Votre PDF est prêt à télécharger
+Your account has been deleted,Votre compte a été supprimé
+Your exported report: {0},Votre rapport exporté : {0}
+Your verification code is {0},Votre code de vérification est {0}
+Zero Balance,Solde zéro
+Zero Rated,Taux zéro
+Zero quantity,Quantité zéro

@@ -1,0 +1,50 @@
+source,traduction
+ Salary slips starting on or after this date will be considered for arrear calculations, Les bulletins de paie à partir de cette date seront pris en compte dans les calculs d'arriérés
+ Unlink Payment on Cancellation of Employee Advance, Délier le paiement à l'annulation de l'avance employé
+ You are impersonating as another user., Vous vous faites passer pour un autre utilisateur.
+(Daily Yield * No of Units Produced) / 100,(Rendement journalier × Nombre d'unités produites) / 100
+(Good Units Produced / Total Units Produced) × 100,(Bonnes unités produites / Total des unités produites) × 100
+(Total Workstation Time / Manufacturing Time) * 60,(Temps total au poste / Temps de fabrication) × 60
+<h5>Employees on Half Day</h5>,<h5>Employés en demi-journée</h5>
+'*' is only allowed in {0} SQL function(s),'*' est autorisé uniquement dans la/les fonction(s) SQL {0}
+A Reverse Journal Entry {0} already exists for this Journal Entry.,Une écriture de journal inverse {0} existe déjà pour cette écriture de journal.
+A field with the name {0} already exists in {1},Un champ nommé {0} existe déjà dans {1}
+A file with same name {} already exists,Un fichier avec le même nom {} existe déjà
+A template already exists for field {0} of {1},Un modèle existe déjà pour le champ {0} de {1}
+ALL records will be deleted (entire DocType cleared),TOUS les enregistrements seront supprimés (DocType entièrement vidé)
+API Endpoint Args should be valid JSON,Les arguments du point d'accès API doivent être du JSON valide
+Account {0} cannot be converted to Group as it is already set as {1} for {2}.,Le compte {0} ne peut pas être converti en groupe car il est déjà défini comme {1} pour {2}.
+Account {0} cannot be disabled as it is already set as {1} for {2}.,Le compte {0} ne peut pas être désactivé car il est déjà défini comme {1} pour {2}.
+Account {0} does not belongs to company {1},Le compte {0} n'appartient pas à la société {1}
+Account {0} should be of type Expense,Le compte {0} doit être de type Dépense
+Accounts not set for Salary Component {0},Comptes non définis pour la composante de salaire {0}
+Accrual Component can only be set for Earning Salary Components.,Le composant d'accrual ne peut être défini que pour les composantes de salaire de gains.
+Accrue per cycle, pay only on claim,Accumuler par cycle, payer uniquement sur réclamation
+Added default log doctypes: {},Doctypes de journaux par défaut ajoutés : {}
+Additional {0} {1} of item {2} required as per BOM to complete this transaction,{0} {1} supplémentaires de l'article {2} requis selon la nomenclature pour finaliser cette transaction
+Advance paid against {0} {1} cannot be greater than Grand Total {2},L'avance payée pour {0} {1} ne peut pas être supérieure au total général {2}
+Ageing Report based on {0} up to {1},Rapport d'antériorité basé sur {0} jusqu'au {1}
+All Exchange Gain/Loss amount of {0} has been booked through {1},Tout le montant de gain/perte de change de {0} a été comptabilisé via {1}
+All allocations have been successfully reconciled,Toutes les allocations ont été réconciliées avec succès
+All entries on and after this date will be reposted,Toutes les écritures à partir de cette date seront retransmises
+All items have already been received,Tous les articles ont déjà été reçus
+All items in this document already have a linked Quality Inspection.,Tous les articles de ce document ont déjà une inspection qualité liée.
+All the items have been already returned.,Tous les articles ont déjà été retournés.
+Allocation is greater than the maximum allowed {0} for leave type {1},L'allocation est supérieure au maximum autorisé {0} pour le type de congé {1}
+Allow Employee Checkin from Mobile App,Autoriser le pointage des employés depuis l'application mobile
+Allow Implicit Pegged Currency Conversion,Autoriser la conversion implicite des devises arrimées
+Allow Internal Transfers at Arm's Length Price,Autoriser les transferts internes au prix de pleine concurrence
+Allow Item to Be Added Multiple Times in a Transaction,Autoriser l'ajout multiple d'un article dans une transaction
+Allow Leave Application After (Working Days),Autoriser les demandes de congé après (jours ouvrables)
+Allow Sending Usage Data for Improving Applications,Autoriser l'envoi de données d'utilisation pour améliorer les applications
+Allow UOM with Conversion Rate Defined in Item,Autoriser l'UDM avec un taux de conversion défini dans l'article
+Allow Variant UOM to be different from Template UOM,Autoriser l'UDM de la variante à être différente de l'UDM du modèle
+Allow existing Serial No to be Manufactured/Received again,Autoriser la refabrication/réception d'un numéro de série existant
+Allow recording my first session to improve user experience,Autoriser l'enregistrement de ma première session pour améliorer l'expérience
+Allow sending usage data for improving applications,Autoriser l'envoi de données d'utilisation pour améliorer les applications
+Allow to Edit Stock UOM Qty for Purchase Documents,Autoriser la modification de la qté UDM stock dans les documents d'achat
+Allow to Edit Stock UOM Qty for Sales Documents,Autoriser la modification de la qté UDM stock dans les documents de vente
+Allow to Make Quality Inspection after Purchase / Delivery,Autoriser la création d'inspection qualité après achat / livraison
+Allow users to log in without a password using a login link sent to their email,Autoriser les utilisateurs à se connecter sans mot de passe via un lien envoyé par e-mail
+Allowed primary roles are 'Customer' and 'Supplier'. Please select one of these roles only.,Les rôles principaux autorisés sont 'Client' et 'Fournisseur'. Veuillez sélectionner l'un de ces rôles uniquement.
+Allows printing or PDF download of documents.,Autorise l'impression ou le téléchargement PDF des documents.

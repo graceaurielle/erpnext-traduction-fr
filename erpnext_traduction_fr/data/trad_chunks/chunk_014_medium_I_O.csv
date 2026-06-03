@@ -1,0 +1,140 @@
+source,traduction
+Invalid simple filter format: {0},Format de filtre simple invalide : {0}
+Invalid token state! Check if the token has been created by the OAuth user.,État du jeton invalide ! Vérifiez si le jeton a été créé par l'utilisateur OAuth.
+Invalid value specified for UUID: {},Valeur invalide spécifiée pour l'UUID : {}
+Invalid value {0} for {1} against account {2},Valeur invalide {0} pour {1} contre le compte {2}
+Invitation to join {0} cancelled,Invitation à rejoindre {0} annulée
+Is Period Closing Voucher Entry,Est une écriture de bon de clôture de période
+It can take upto few hours for accurate stock values to be visible after merging items.,Il peut s'écouler quelques heures avant que les valeurs de stock exactes soient visibles après la fusion des articles.
+Item Tax Row {0}: Account must belong to Company - {1},Ligne de taxe d'article {0} : le compte doit appartenir à la société - {1}
+Item Warehouse based reposting has been enabled.,La retransmission basée sur l'article et l'entrepôt a été activée.
+Item is mandatory in Raw Materials table.,L'article est obligatoire dans le tableau des matières premières.
+Item is removed since no serial / batch no selected.,L'article est retiré car aucun numéro de série / lot n'est sélectionné.
+Item qty can not be updated as raw materials are already processed.,La qté de l'article ne peut pas être mise à jour car les matières premières sont déjà traitées.
+Item rate has been updated to zero as Allow Zero Valuation Rate is checked for item {0},Le taux de l'article a été mis à zéro car 'Autoriser un taux de valorisation nul' est coché pour l'article {0}
+Item valuation rate is recalculated considering landed cost voucher amount,Le taux de valorisation de l'article est recalculé en tenant compte du montant du bon de coût rendu
+Item valuation reposting in progress. Report might show incorrect item valuation.,La retransmission de la valorisation des articles est en cours. Le rapport peut afficher une valorisation incorrecte.
+Item {0} cannot be ordered more than {1} against Blanket Order {2}.,L'article {0} ne peut pas être commandé plus de {1} contre la commande globale {2}.
+Item {0} entered multiple times.,L'article {0} saisi plusieurs fois.
+Item {0} has no Serial No. Only serialized items can have delivery based on Serial No,L'article {0} n'a pas de numéro de série. Seuls les articles sérialisés peuvent avoir une livraison basée sur le numéro de série
+Item {0} is not a subcontracted item,L'article {0} n'est pas un article sous-traité
+Item {0} not found in 'Raw Materials Supplied' table in {1} {2},L'article {0} introuvable dans la table 'Matières premières fournies' dans {1} {2}
+Items cannot be updated as Subcontracting Order is created against the Purchase Order {0}.,Les articles ne peuvent pas être mis à jour car un ordre de sous-traitance est créé contre le bon de commande {0}.
+Job Card {0} has been completed,La carte de travail {0} a été complétée
+Journal Entry type should be set as Depreciation Entry for asset depreciation,Le type d'écriture de journal doit être défini comme Écriture d'amortissement pour l'amortissement des actifs
+LDAP settings incorrect. validation response was: {0},Paramètres LDAP incorrects. La réponse de validation était : {0}
+Last Reset Password Key Generated On,Dernière clé de réinitialisation du mot de passe générée le
+Latitude and longitude values are required for checking in.,Les valeurs de latitude et longitude sont requises pour le pointage.
+Lead {0} has been added to prospect {1}.,Le prospect {0} a été ajouté au suspect {1}.
+Leave Adjustment for this allocation already exists: {0}. Please amend existing adjustment.,Un ajustement de congé pour cette allocation existe déjà : {0}. Veuillez modifier l'ajustement existant.
+Leave allocation is skipped for {0}, because number of leaves to be allocated is 0.,L'allocation de congé est ignorée pour {0}, car le nombre de congés à allouer est 0.
+Length of passed data array is greater than value of maximum allowed label points!,La longueur du tableau de données passé est supérieure à la valeur maximale des points d'étiquette autorisés !
+Letter Head cannot be both disabled and default,L'en-tête de lettre ne peut pas être à la fois désactivé et par défaut
+Limit must be a non-negative integer,La limite doit être un entier non négatif
+Link for About Us Page is "/about".,Le lien pour la page À propos est "/about".
+Linked with submitted documents,Lié à des documents soumis
+Linking to Customer Failed. Please try again.,Échec de la liaison au client. Veuillez réessayer.
+Linking to Supplier Failed. Please try again.,Échec de la liaison au fournisseur. Veuillez réessayer.
+List of email addresses, separated by comma or new line.,Liste d'adresses e-mail, séparées par des virgules ou des sauts de ligne.
+Loading Invoices! Please Wait...,Chargement des factures ! Veuillez patienter...
+Loan Accrual Frequency not set for company {0},Fréquence d'accrual du prêt non définie pour la société {0}
+Loan Securities worth {0} needed more to book the loan,Des garanties de prêt d'une valeur de {0} sont encore nécessaires pour comptabiliser le prêt
+Loan Security Assignment can only be created for secured loans,L'affectation de garantie de prêt ne peut être créée que pour les prêts sécurisés
+Loan To Security Value ratio must always be {0},Le ratio prêt/valeur de garantie doit toujours être {0}
+Loans will be marked as NPA when the days past due count exceed this threshold,Les prêts seront marqués comme NPA lorsque le nombre de jours en retard dépasse ce seuil
+Main Cost Center {0} cannot be entered in the child table,Le centre de coûts principal {0} ne peut pas être saisi dans la table enfant
+Maintain Same Rate Throughout Internal Transaction,Maintenir le même taux tout au long de la transaction interne
+Make Attachment Public (by default),Rendre la pièce jointe publique (par défaut)
+Make Attachments Public by Default,Rendre les pièces jointes publiques par défaut
+Make sure to configure a Social Login Key before disabling to prevent lockout,Assurez-vous de configurer une clé de connexion sociale avant de désactiver pour éviter le verrouillage
+Mandatory fields required for this action:,Champs obligatoires requis pour cette action :
+Map columns from {0} to fields in {1},Mapper les colonnes de {0} aux champs dans {1}
+Mark attendance for existing check-in/out logs before changing shift settings,Marquer la présence pour les journaux de pointage existants avant de modifier les paramètres d'équipe
+Master Production Schedule Item,Article du plan directeur de production
+Material Requirements Planning Report,Rapport de planification des besoins en matériaux
+Materials are already received against the {0} {1},Les matériaux ont déjà été reçus contre le {0} {1}
+Max discount allowed for item: {0} is {1}%,La remise maximale autorisée pour l'article : {0} est {1}%
+Maximum Attachment Limit of {0} has been reached for {1} {2}.,La limite maximale de pièces jointes de {0} a été atteinte pour {1} {2}.
+Maximum Leave Allocation Allowed per Leave Period,Allocation maximale de congés autorisée par période de congés
+Maximum Overtime Hours Allowed Per Day,Nombre maximum d'heures supplémentaires autorisées par jour
+Maximum attachment limit of {0} has been reached.,La limite maximale de pièces jointes de {0} a été atteinte.
+Maximum discount for Item {0} is {1}%,La remise maximale pour l'article {0} est {1}%
+Maximum quantity scanned for item {0}.,Quantité maximale scannée pour l'article {0}.
+Merge taxes from multiple documents,Fusionner les taxes de plusieurs documents
+Message to be displayed on successful completion,Message à afficher en cas de réussite
+Method is required to create a number card,La méthode est requise pour créer une carte numérique
+Min Qty should be greater than Recurse Over Qty,La qté min doit être supérieure à la qté de récursion
+Min Value: {0}, Max Value: {1}, in Increments of: {2},"Valeur min : {0}, Valeur max : {1}, par incréments de : {2}"
+Minimum days between Disbursement date and first Repayment date,Nombre minimum de jours entre la date de décaissement et la première date de remboursement
+Module onboarding progress reset,Réinitialisation de la progression d'intégration du module
+Most probably your password is too long.,Votre mot de passe est probablement trop long.
+Move current and all subsequent sections to a new tab,Déplacer la section actuelle et toutes les suivantes vers un nouvel onglet
+Move the current field and the following fields to a new column,Déplacer le champ actuel et les champs suivants vers une nouvelle colonne
+Multiple Loyalty Programs found for Customer {}. Please select manually.,Plusieurs programmes de fidélité trouvés pour le client {}. Veuillez sélectionner manuellement.
+Multiple company fields available: {0}. Please select manually.,Plusieurs champs société disponibles : {0}. Veuillez sélectionner manuellement.
+Multiple items cannot be marked as finished item,Plusieurs articles ne peuvent pas être marqués comme article fini
+Name already taken, please set a new name,Nom déjà utilisé, veuillez en définir un nouveau
+Net Purchase Amount should be <b>equal</b> to purchase amount of one single Asset.,Le montant net d'achat doit être <b>égal</b> au montant d'achat d'un seul actif.
+New Balance In Account Currency,Nouveau solde dans la devise du compte
+New Journal Entry will be posted for the difference amount. The Posting Date can be modified.,Une nouvelle écriture de journal sera comptabilisée pour le montant de la différence. La date de comptabilisation peut être modifiée.
+New line separated list of scope values.,Liste de valeurs de périmètre séparées par des sauts de ligne.
+New password cannot be same as old password,Le nouveau mot de passe ne peut pas être identique à l'ancien
+New revised budget created successfully,Nouveau budget révisé créé avec succès
+New users will have to be manually registered by system managers.,Les nouveaux utilisateurs devront être enregistrés manuellement par les gestionnaires système.
+Newly created user {0} has no roles enabled.,L'utilisateur nouvellement créé {0} n'a aucun rôle activé.
+No Bank/Cash Account found for currency {0}. Please create one under company {1}.,Aucun compte bancaire/caisse trouvé pour la devise {0}. Veuillez en créer un sous la société {1}.
+No Customers found with selected options.,Aucun client trouvé avec les options sélectionnées.
+No Interview has been scheduled.,Aucun entretien n'a été planifié.
+No Items selected for transfer.,Aucun article sélectionné pour le transfert.
+No Items with Bill of Materials to Manufacture or all items already manufactured,Aucun article avec nomenclature à fabriquer ou tous les articles déjà fabriqués
+No Matching Bank Transactions Found,Aucune transaction bancaire correspondante trouvée
+No Outstanding Invoices found for this party,Aucune facture impayée trouvée pour ce tiers
+No POS Profile found. Please create a New POS Profile first,Aucun profil PDV trouvé. Veuillez d'abord créer un nouveau profil PDV
+No Purchase Orders were created,Aucun bon de commande n'a été créé
+No Salary Slip found for Employee: {0},Aucun bulletin de paie trouvé pour l'employé : {0}
+No Salary Slips with {0} found for employee {1} for payroll period {2}.,Aucun bulletin de paie avec {0} trouvé pour l'employé {1} pour la période de paie {2}.
+No Salary Structure Assignment found for employee {0} on date {1},Aucune affectation de structure salariale trouvée pour l'employé {0} à la date {1}
+No Serial / Batches are available for return,Aucun numéro de série / lot disponible pour le retour
+No Tax Withholding data found for the current posting date.,Aucune donnée de retenue fiscale trouvée pour la date de comptabilisation actuelle.
+No Unreconciled Invoices and Payments found for this party and account,Aucune facture et paiement non réconciliés trouvés pour ce tiers et ce compte
+No Unreconciled Payments found for this party,Aucun paiement non réconcilié trouvé pour ce tiers
+No additional fields available,Aucun champ supplémentaire disponible
+No attendance records found for employee {0} between {1} and {2},Aucun enregistrement de présence trouvé pour l'employé {0} entre {1} et {2}
+No available quantity to reserve for item {0} in warehouse {1},Aucune quantité disponible à réserver pour l'article {0} dans l'entrepôt {1}
+No billing email found for customer: {0},Aucun e-mail de facturation trouvé pour le client : {0}
+No data found. Seems like you uploaded a blank file,Aucune donnée trouvée. Il semble que vous ayez téléversé un fichier vide
+No excess amount pending for refund,Aucun montant excédentaire en attente de remboursement
+No items are available in sales orders {0} for production,Aucun article n'est disponible dans les commandes client {0} pour la production
+No leave allocation found for {0} for {1} on given date.,Aucune allocation de congé trouvée pour {0} pour {1} à la date donnée.
+No loans found for this applicant or branch,Aucun prêt trouvé pour ce demandeur ou cette branche
+No matches occurred via auto reconciliation,Aucune correspondance via la réconciliation automatique
+No open Material Requests found for the given criteria.,Aucune demande de matériel ouverte trouvée pour les critères donnés.
+No open POS Opening Entry found for POS Profile {0}.,Aucune écriture d'ouverture PDV ouverte trouvée pour le profil PDV {0}.
+No recipients found for campaign {0},Aucun destinataire trouvé pour la campagne {0}
+No reserved stock to unreserve.,Aucun stock réservé à annuler.
+No salary slips found for the selected employee from {0},Aucun bulletin de paie trouvé pour l'employé sélectionné depuis {0}
+No user has the role <strong>{0}</strong>,Aucun utilisateur n'a le rôle <strong>{0}</strong>
+No valid shift found for log time,Aucune équipe valide trouvée pour l'heure de pointage
+No {0} found with matching filters. Clear filters to see all {0}.,Aucun(e) {0} trouvé(e) avec les filtres correspondants. Effacez les filtres pour voir tous les {0}.
+Not allowed to create custom Virtual DocType.,Non autorisé à créer un DocType virtuel personnalisé.
+Not allowed via controller permission check,Non autorisé par la vérification des permissions du contrôleur
+Not authorized since {0} exceeds limits,Non autorisé car {0} dépasse les limites
+Note: Due Date exceeds allowed {0} credit days by {1} day(s),Note : La date d'échéance dépasse les {0} jours de crédit autorisés de {1} jour(s)
+Note: To merge the items, create a separate Stock Reconciliation for the old item {0},Note : Pour fusionner les articles, créez un rapprochement de stock séparé pour l'ancien article {0}
+Note: Your request for account deletion will be fulfilled within {0} hours.,Note : Votre demande de suppression de compte sera traitée dans les {0} heures.
+Notification: customer {0} has no Mobile number set,Notification : le client {0} n'a pas de numéro de mobile défini
+Notification: user {0} has no Mobile number set,Notification : l'utilisateur {0} n'a pas de numéro de mobile défini
+Number of days after which the document Web View link shared on email will be expired,Nombre de jours après lesquels le lien de vue web du document partagé par e-mail expirera
+OAuth has been enabled but not authorised. Please use "Authorise API Access" button to do the same.,OAuth a été activé mais pas autorisé. Veuillez utiliser le bouton "Autoriser l'accès à l'API" pour le faire.
+Offset must be a non-negative integer,Le décalage doit être un entier non négatif
+Old and new fieldnames are same.,Les noms de champs ancien et nouveau sont identiques.
+On checking this option, URL will be treated like a jinja template string,En cochant cette option, l'URL sera traitée comme une chaîne de modèle Jinja
+On save, the Excluded Fee will be converted to an Included Fee.,À l'enregistrement, les frais exclus seront convertis en frais inclus.
+Once the Work Order is Closed. It can't be resumed.,Une fois l'ordre de travail fermé, il ne peut pas être repris.
+One customer can be part of only single Loyalty Program.,Un client ne peut faire partie que d'un seul programme de fidélité.
+Only 'Payment Entries' made against this advance account are supported.,Seules les 'Écritures de paiement' effectuées contre ce compte d'avance sont prises en charge.
+Only System Managers can make this file public.,Seuls les gestionnaires système peuvent rendre ce fichier public.
+Only Value available for Payment Entry,Seule la valeur est disponible pour l'écriture de paiement
+Only Workspace Manager can edit public workspaces,Seul le gestionnaire d'espace de travail peut modifier les espaces de travail publics
+Only allow System Managers to upload public files,Autoriser uniquement les gestionnaires système à téléverser des fichiers publics
+Only allowed to export customizations in developer mode,Autorisé à exporter les personnalisations uniquement en mode développeur

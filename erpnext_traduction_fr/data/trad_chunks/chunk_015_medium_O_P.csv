@@ -1,0 +1,150 @@
+source,traduction
+Only applies for Normal Payments,S'applique uniquement aux paiements normaux
+Only draft documents can be discarded,Seuls les documents en brouillon peuvent être rejetés
+Only one {0} entry can be created against the Work Order {1},Une seule écriture {0} peut être créée contre l'ordre de travail {1}
+Only records belonging to {0} will be deleted,Seuls les enregistrements appartenant à {0} seront supprimés
+Only reports of type Report Builder can be deleted,Seuls les rapports de type Constructeur de rapport peuvent être supprimés
+Only reports of type Report Builder can be edited,Seuls les rapports de type Constructeur de rapport peuvent être modifiés
+Only submitted unpledge requests can be approved,Seules les demandes de mainlevée soumises peuvent être approuvées
+Only the Administrator can delete a standard DocType.,Seul l'administrateur peut supprimer un DocType standard.
+Only the assignee can complete this to-do.,Seul le responsable peut terminer cette tâche.
+Only {0} emailed reports are allowed per user.,Seuls {0} rapports par e-mail sont autorisés par utilisateur.
+OpenID Configuration fetched successfully!,Configuration OpenID récupérée avec succès !
+Opening Entry can not be created after Period Closing Voucher is created.,L'écriture d'ouverture ne peut pas être créée après la création du bon de clôture de période.
+Opening Number of Booked Depreciations,Nombre d'amortissements comptabilisés à l'ouverture
+Opening Purchase Invoices have been created.,Les factures d'achat d'ouverture ont été créées.
+Opening Sales Invoices have been created.,Les factures de vente d'ouverture ont été créées.
+Operating Cost Per BOM Quantity,Coût d'exploitation par quantité de nomenclature
+Operation time does not depend on quantity to produce,Le temps d'opération ne dépend pas de la quantité à produire
+Opportunity Amount (Company Currency),Montant de l'opportunité (devise de la société)
+Opportunity Summary by Sales Stage,Résumé des opportunités par étape de vente
+Options for Rating field can range from 3 to 10,Les options pour le champ Note peuvent aller de 3 à 10
+Options is required for field {0} of type {1},Les options sont requises pour le champ {0} de type {1}
+Other Charges Waiver cannot be greater than overdue charges,La renonciation aux autres frais ne peut pas être supérieure aux frais en retard
+Outstanding (Company Currency),En souffrance (devise de la société)
+Outstanding Principal & Interest Accrued,Principal en souffrance et intérêts accruals
+Over Delivery/Receipt Allowance (%),Tolérance de sur-livraison/réception (%)
+Overtime Duration for {0} is greater than Maximum Overtime Hours Allowed,La durée des heures supplémentaires pour {0} est supérieure au maximum autorisé
+Overtime Slip Creation Error for {0},Erreur de création de bulletin d'heures supplémentaires pour {0}
+Overtime Slip Submission Error for {0},Erreur de soumission de bulletin d'heures supplémentaires pour {0}
+Overtime Slip Submission Failed,Échec de la soumission du bulletin d'heures supplémentaires
+Overtime Slip created for {0} employee(s),Bulletin d'heures supplémentaires créé pour {0} employé(s)
+Overtime Slip creation is queued. It may take a few minutes,La création du bulletin d'heures supplémentaires est en file d'attente. Cela peut prendre quelques minutes
+Overtime Slip submission is queued. It may take a few minutes,La soumission du bulletin d'heures supplémentaires est en file d'attente. Cela peut prendre quelques minutes
+Overtime Slips submitted for {0} employee(s),Bulletins d'heures supplémentaires soumis pour {0} employé(s)
+POS Invoice is already consolidated,La facture PDV est déjà consolidée
+POS Invoice should have the field {0} checked.,La facture PDV doit avoir le champ {0} coché.
+POS Invoices will be consolidated in a background process,Les factures PDV seront consolidées en arrière-plan
+POS Invoices will be unconsolidated in a background process,Les factures PDV seront déconsolidées en arrière-plan
+POS Opening Entry Cancellation Error,Erreur d'annulation de l'écriture d'ouverture PDV
+POS Opening Entry cannot be cancelled as unconsolidated Invoices exists.,L'écriture d'ouverture PDV ne peut pas être annulée car des factures non consolidées existent.
+POS Opening Entry has been cancelled. Please refresh the page.,L'écriture d'ouverture PDV a été annulée. Veuillez actualiser la page.
+POS Profile is mandatory to mark this invoice as POS Transaction.,Le profil PDV est obligatoire pour marquer cette facture comme transaction PDV.
+POS Profile {0} cannot be disabled as there are ongoing POS sessions.,Le profil PDV {0} ne peut pas être désactivé car des sessions PDV sont en cours.
+POS Profile {} does not belong to company {},Le profil PDV {} n'appartient pas à la société {}
+POS has been closed at {0}. Please refresh the page.,Le PDV a été fermé à {0}. Veuillez actualiser la page.
+POS invoice {0} created successfully,Facture PDV {0} créée avec succès
+Packaging Slip From Delivery Note,Bordereau d'emballage depuis le bon de livraison
+Packed Items cannot be transferred internally,Les articles emballés ne peuvent pas être transférés en interne
+Page height and width cannot be zero,La hauteur et la largeur de la page ne peuvent pas être zéro
+Paid Amount After Tax (Company Currency),Montant payé après taxe (devise de la société)
+Parent Document Type is required to create a number card,Le type de document parent est requis pour créer une carte numérique
+Parent Item {0} must not be a Fixed Asset,L'article parent {0} ne doit pas être un actif immobilisé
+Parent Task {0} must be a Group Task,La tâche parent {0} doit être une tâche de groupe
+Party Account {0} currency ({1}) and document currency ({2}) should be same,La devise du compte tiers {0} ({1}) et la devise du document ({2}) doivent être identiques
+Party Type and Party is required for Receivable / Payable account {0},Le type de tiers et le tiers sont requis pour le compte débiteur/créditeur {0}
+Password reset instructions have been sent to {}'s email,Les instructions de réinitialisation du mot de passe ont été envoyées à l'e-mail de {}
+Payment Reconciliation Settings,Paramètres de réconciliation des paiements
+Payment Request is already created,La demande de paiement a déjà été créée
+Payment Requests cannot be created against: {0},Les demandes de paiement ne peuvent pas être créées contre : {0}
+Payment Requests made from Sales / Purchase Invoice will be put in Draft explicitly,Les demandes de paiement faites depuis une facture de vente/achat seront explicitement mises en brouillon
+Payment Terms Status for Sales Order,Statut des conditions de paiement pour la commande client
+Payment of {0} received successfully.,Paiement de {0} reçu avec succès.
+Payment term {0} not used in {1},La condition de paiement {0} n'est pas utilisée dans {1}
+Payout Unclaimed Amount in Final Payroll Cycle,Verser le montant non réclamé dans le dernier cycle de paie
+Payroll date is mandatory for non-recurring type additional salaries.,La date de paie est obligatoire pour les salaires supplémentaires de type non récurrent.
+Penalty Income Account is mandatory,Le compte de produits de pénalités est obligatoire
+Penalty Receivable Account is mandatory,Le compte de créances de pénalités est obligatoire
+Penalty Waiver cannot be greater than overdue penalty interest,La renonciation aux pénalités ne peut pas être supérieure aux intérêts pénaux en retard
+Pending principal amount for loan {0} is {1},Le montant principal en attente pour le prêt {0} est {1}
+Percentage Allocation should be equal to 100%,L'allocation en pourcentage doit être égale à 100%
+Percentage you are allowed to order beyond the Blanket Order quantity.,Pourcentage au-delà duquel vous êtes autorisé à commander par rapport à la quantité de commande globale.
+Percentage you are allowed to sell beyond the Blanket Order quantity.,Pourcentage au-delà duquel vous êtes autorisé à vendre par rapport à la quantité de commande globale.
+Period Closing Entry For Current Period,Écriture de clôture de période pour la période en cours
+Period End Date cannot be greater than Fiscal Year End Date,La date de fin de période ne peut pas être supérieure à la date de fin de l'exercice fiscal
+Period Movement (Debits - Credits),Mouvement de période (Débits - Crédits)
+Period Start Date cannot be greater than Period End Date,La date de début de période ne peut pas être supérieure à la date de fin de période
+Percentage you are allowed to order beyond the Blanket Order quantity.,Pourcentage au-delà duquel vous êtes autorisé à commander par rapport à la commande globale.
+Please Authorize OAuth for Email Account {0},Veuillez autoriser OAuth pour le compte e-mail {0}
+Please add 'Supplier' role to user {0}.,Veuillez ajouter le rôle 'Fournisseur' à l'utilisateur {0}.
+Please add Root Account for - {0},Veuillez ajouter un compte racine pour - {0}
+Please add atleast one Serial No / Batch No,Veuillez ajouter au moins un numéro de série / numéro de lot
+Please add customer refund account in Loan Product,Veuillez ajouter le compte de remboursement client dans le produit de prêt
+Please add the Bank Account column,Veuillez ajouter la colonne Compte bancaire
+Please add the account to root level Company - {0},Veuillez ajouter le compte à la société racine - {0}
+Please add {1} role to user {0}.,Veuillez ajouter le rôle {1} à l'utilisateur {0}.
+Please adjust the qty or edit {0} to proceed.,Veuillez ajuster la qté ou modifier {0} pour continuer.
+Please attach an image file to set HTML for Footer.,Veuillez joindre un fichier image pour définir le HTML du pied de page.
+Please attach an image file to set HTML for Letter Head.,Veuillez joindre un fichier image pour définir le HTML de l'en-tête de lettre.
+Please cancel and amend the Payment Entry,Veuillez annuler et modifier l'écriture de paiement
+Please cancel payment entry manually first,Veuillez d'abord annuler manuellement l'écriture de paiement
+Please cancel related transaction.,Veuillez annuler la transaction liée.
+Please capitalize this asset before submitting.,Veuillez capitaliser cet actif avant de le soumettre.
+Please click on the following link and follow the instructions on the page. {0},Veuillez cliquer sur le lien suivant et suivre les instructions sur la page. {0}
+Please contact any of the following users to extend the credit limits for {0}: {1},Veuillez contacter l'un des utilisateurs suivants pour étendre les limites de crédit pour {0} : {1}
+Please contact your administrator to extend the credit limits for {0}.,Veuillez contacter votre administrateur pour étendre les limites de crédit pour {0}.
+Please create purchase from internal sale or delivery document itself,Veuillez créer l'achat depuis le document de vente ou de livraison interne lui-même
+Please delete Product Bundle {0}, before merging {1} into {2},Veuillez supprimer le bundle de produits {0} avant de fusionner {1} dans {2}
+Please disable workflow temporarily for Journal Entry {0},Veuillez désactiver temporairement le flux de travail pour l'écriture de journal {0}
+Please enter Maintenance Details first,Veuillez d'abord saisir les détails de maintenance
+Please enter Root Type for account- {0},Veuillez saisir le type racine pour le compte- {0}
+Please enter a valid email address.,Veuillez saisir une adresse e-mail valide.
+Please enter a valid number of deliveries,Veuillez saisir un nombre de livraisons valide
+Please enter at least one delivery date and quantity,Veuillez saisir au moins une date de livraison et une quantité
+Please enter both your email and message so that we can get back to you. Thanks!,Veuillez saisir votre e-mail et votre message pour que nous puissions vous répondre. Merci !
+Please enter mobile number first.,Veuillez d'abord saisir le numéro de mobile.
+Please enter monthly repayment amount,Veuillez saisir le montant de remboursement mensuel
+Please enter quantity for item {0},Veuillez saisir la quantité pour l'article {0}
+Please enter the first delivery date,Veuillez saisir la première date de livraison
+Please enter the password for: <b>{0}</b>,Veuillez saisir le mot de passe pour : <b>{0}</b>
+Please enter your new password.,Veuillez saisir votre nouveau mot de passe.
+Please enter your old password.,Veuillez saisir votre ancien mot de passe.
+Please fill in Employee, Posting Date, and Company before fetching overtime details.,Veuillez remplir Employé, Date de comptabilisation et Société avant de récupérer les détails des heures supplémentaires.
+Please first set Full Name, Email and Phone for the user,Veuillez d'abord définir le nom complet, l'e-mail et le téléphone pour l'utilisateur
+Please fix overlapping time slots for {0},Veuillez corriger les créneaux horaires qui se chevauchent pour {0}
+Please generate To Delete list before submitting,Veuillez générer la liste À supprimer avant de soumettre
+Please import accounts against parent company or enable {} in company master.,Veuillez importer les comptes contre la société parente ou activer {} dans le maître de la société.
+Please login to post a comment.,Veuillez vous connecter pour publier un commentaire.
+Please mention 'Weight UOM' along with Weight.,Veuillez mentionner 'UDM de poids' avec le poids.
+Please mention the Current and New BOM for replacement.,Veuillez mentionner la nomenclature actuelle et la nouvelle nomenclature pour le remplacement.
+Please reduce {0} to avoid shift time overlapping with itself,Veuillez réduire {0} pour éviter le chevauchement des horaires d'équipe avec eux-mêmes
+Please remove the printer mapping in Printer Settings and try again.,Veuillez supprimer le mappage d'imprimante dans les paramètres d'imprimante et réessayer.
+Please save the Sales Order before adding a delivery schedule.,Veuillez enregistrer la commande client avant d'ajouter un calendrier de livraison.
+Please save the form before previewing the message,Veuillez enregistrer le formulaire avant de prévisualiser le message
+Please select Finished Good Item for Service Item {0},Veuillez sélectionner l'article de produit fini pour l'article de service {0}
+Please select From Date and Payroll Frequency first,Veuillez d'abord sélectionner la date de début et la fréquence de paie
+Please select Loan Disbursement for Line of Credit repayment,Veuillez sélectionner le décaissement de prêt pour le remboursement de la ligne de crédit
+Please select Loan Product for company {0},Veuillez sélectionner le produit de prêt pour la société {0}
+Please select Periodic Accounting Entry Difference Account,Veuillez sélectionner le compte de différence de l'écriture comptable périodique
+Please select Shift Type and assignment date(s).,Veuillez sélectionner le type d'équipe et la/les date(s) d'affectation.
+Please select Stock Asset Account,Veuillez sélectionner le compte d'actif de stock
+Please select a DocType in options before setting filters,Veuillez sélectionner un DocType dans les options avant de définir les filtres
+Please select a Subcontracting Purchase Order.,Veuillez sélectionner un bon de commande de sous-traitance.
+Please select a Work Order first.,Veuillez d'abord sélectionner un ordre de travail.
+Please select a customer for fetching payments.,Veuillez sélectionner un client pour récupérer les paiements.
+Please select a frequency for delivery schedule,Veuillez sélectionner une fréquence pour le calendrier de livraison
+Please select a row to create a Reposting Entry,Veuillez sélectionner une ligne pour créer une écriture de retransmission
+Please select a supplier for fetching payments.,Veuillez sélectionner un fournisseur pour récupérer les paiements.
+Please select an item code before setting the warehouse.,Veuillez sélectionner un code article avant de définir l'entrepôt.
+Please select at least one Shift Request to perform this action.,Veuillez sélectionner au moins une demande d'équipe pour effectuer cette action.
+Please select at least one employee to perform this action.,Veuillez sélectionner au moins un employé pour effectuer cette action.
+Please select at least one row to fix,Veuillez sélectionner au moins une ligne à corriger
+Please select at least one row to perform this action.,Veuillez sélectionner au moins une ligne pour effectuer cette action.
+Please select atleast one item to continue,Veuillez sélectionner au moins un article pour continuer
+Please select atleast one operation to create Job Card,Veuillez sélectionner au moins une opération pour créer une carte de travail
+Please select half day attendance status.,Veuillez sélectionner le statut de présence demi-journée.
+Please select items to reserve.,Veuillez sélectionner les articles à réserver.
+Please select items to unreserve.,Veuillez sélectionner les articles à désréserver.
+Please select only one row to create a Reposting Entry,Veuillez sélectionner une seule ligne pour créer une écriture de retransmission
+Please select rows to create Reposting Entries,Veuillez sélectionner des lignes pour créer des écritures de retransmission
+Please select the required filters,Veuillez sélectionner les filtres requis

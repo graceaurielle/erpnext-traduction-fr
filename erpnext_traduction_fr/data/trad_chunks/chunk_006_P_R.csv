@@ -1,0 +1,529 @@
+source,traduction
+P&L Closing Balance,Solde de clôture P&L
+PDF Generation in Progress,Génération PDF en cours
+PDF Name,Nom du PDF
+PDF Page Height (in mm),Hauteur de page PDF (en mm)
+PDF Page Width (in mm),Largeur de page PDF (en mm)
+Package,Paquet
+Package Import,Import de paquet
+Package Name,Nom du paquet
+Package Release,Publication du paquet
+Page Break After Each SoA,Saut de page après chaque relevé de compte
+Page HTML,HTML de la page
+Page Height (in mm),Hauteur de page (en mm)
+Page Margins,Marges de la page
+Page Number,Numéro de page
+Page Route,Route de la page
+Page Size,Taille de la page
+Page Width (in mm),Largeur de page (en mm)
+Page to show on the website,Page à afficher sur le site web
+Page {0} of {1},Page {0} sur {1}
+Paid Amount After Tax,Montant payé après taxe
+Pallets,Palettes
+Parameter Group Name,Nom du groupe de paramètres
+Parent Account Missing,Compte parent manquant
+Parent DocType,DocType parent
+Parent Document,Document parent
+Parent Document Type,Type de document parent
+Parent Element Selector,Sélecteur d'élément parent
+Parent Icon,Icône parente
+Parent Missing,Parent manquant
+Parent Row No,N° de ligne parent
+Parquet File,Fichier Parquet
+Parsing Error,Erreur d'analyse
+Partial Material Transferred,Matériau partiellement transféré
+Partial Payment Mechanism,Mécanisme de paiement partiel
+Partial Stock Reservation,Réservation de stock partielle
+Partial Success,Succès partiel
+Partially Billed,Partiellement facturé
+Partially Reconciled,Partiellement réconcilié
+Partially Sent,Partiellement envoyé
+Partially Used,Partiellement utilisé
+Partly Paid,Partiellement payé
+Partly Paid and Discounted,Partiellement payé et remisé
+Partner Base Interest Rate,Taux d'intérêt de base du partenaire
+Partner Code,Code partenaire
+Partner Collection Percentage,Pourcentage de collecte du partenaire
+Partner Interest Share,Part d'intérêt du partenaire
+Partner Loan Amount Percentage,Pourcentage du montant du prêt partenaire
+Partner Loan Share Percentage,Pourcentage de la part de prêt partenaire
+Partner Name,Nom du partenaire
+Partner Percentage,Pourcentage du partenaire
+Partner Ratio,Ratio du partenaire
+Partner Share,Part du partenaire
+Partner Share Allocated,Part du partenaire allouée
+Partnership,Partenariat
+Party Full Name,Nom complet du tiers
+Party IBAN (Bank Statement),IBAN du tiers (relevé bancaire)
+Party Item Code,Code article du tiers
+Party Link,Lien du tiers
+Party Mismatch,Incohérence du tiers
+Party Not Required,Tiers non requis
+Party can only be one of {0},Le tiers ne peut être que l'un de {0}
+Pass,Réussi
+Passport Details,Détails du passeport
+Password Email Sent,E-mail de mot de passe envoyé
+Password cannot be filtered,Le mot de passe ne peut pas être filtré
+Password is valid. 👍,Le mot de passe est valide. 👍
+Password requirements not met,Les exigences de mot de passe ne sont pas remplies
+Password set,Mot de passe défini
+Passwords do not match,Les mots de passe ne correspondent pas
+Past Cashflow Report,Rapport de flux de trésorerie passé
+Past Events,Événements passés
+Path {0} it not a valid path,Le chemin {0} n'est pas un chemin valide
+Pause Job,Mettre le travail en pause
+Pay Rate Multipliers,Multiplicateurs de taux de rémunération
+Pay Via Payment Entry,Payer via une écriture de paiement
+Payable Account is mandatory,Le compte fournisseur est obligatoire
+Payable Charges,Charges à payer
+Payload Count,Nombre de charges utiles
+Payment Ledger,Grand livre des paiements
+Payment Ledger Balance,Solde du grand livre des paiements
+Payment Limit,Limite de paiement
+Payment Request Outstanding,Demande de paiement en souffrance
+Payment Term Outstanding,Condition de paiement en souffrance
+Payment Unlink Error,Erreur de déliaison de paiement
+Payment request failed,Échec de la demande de paiement
+Payments could not be updated.,Les paiements n'ont pas pu être mis à jour.
+Payments updated.,Paiements mis à jour.
+Payout,Versement
+Payroll Based On,Paie basée sur
+Payroll Correction,Correction de paie
+Payroll Correction Child,Correction de paie enfant
+Peak Memory Usage,Utilisation mémoire maximale
+Penal Interest,Intérêts pénaux
+Penal Interest Waiver,Renonciation aux intérêts pénaux
+Penal Treatment,Traitement pénal
+Penalty Accrued Account,Compte de pénalité courus
+Penalty Capitalization,Capitalisation des pénalités
+Penalty Charges Accounts,Comptes de frais de pénalité
+Penalty Charges Rate,Taux de frais de pénalité
+Penalty Interest Rate (%),Taux d'intérêt pénal (%)
+Penalty Overdue,Pénalités en retard
+Penalty Receivable Account,Compte de pénalités à recevoir
+Penalty Suspense Account,Compte d'attente de pénalités
+Penalty Waiver Account,Compte de renonciation aux pénalités
+Pending Asset Returns,Retours d'actifs en attente
+Pending Charge Amount,Montant de charge en attente
+Pending Emails,E-mails en attente
+Pending Execution,Exécution en attente
+Pending Jobs,Travaux en attente
+Pending Principal: {0},Principal en attente : {0}
+Pending processing,Traitement en attente
+Per Unit Time in Mins,Temps par unité en minutes
+Percentage (%),Pourcentage (%)
+Period Closed,Période fermée
+Period Details,Détails de la période
+Period Start Date must be {0},La date de début de période doit être {0}
+Period To Date,Période à ce jour
+Periodic Accounting,Comptabilité périodique
+Periodic Accounting Entry,Écriture comptable périodique
+Permanently Discard {0}?,Rejeter définitivement {0} ?
+Permission Inspector,Inspecteur de permissions
+Permission Levels,Niveaux de permission
+Permission Log,Journal des permissions
+Permission Query,Requête de permission
+Permissions Error,Erreur de permissions
+Permitted Roles,Rôles autorisés
+Personal Data Deletion Step,Étape de suppression des données personnelles
+Phone Ext.,Ext. téléphone
+Pick Serial / Batch,Choisir le numéro de série / lot
+Pick Serial / Batch Based On,Choisir le numéro de série / lot selon
+Pickup,Enlèvement
+Pickup Contact Person,Personne de contact pour l'enlèvement
+Pickup Date,Date d'enlèvement
+Pickup From,Enlèvement depuis
+Pickup Type,Type d'enlèvement
+Pickup from,Enlèvement depuis
+Pickup to,Enlèvement jusqu'à
+Pink,Rose
+Pipeline By,Pipeline par
+Pivot,Tableau croisé
+Places,Lieux
+Plaid Link Failed,Échec du lien Plaid
+Plaid Link Refresh Required,Actualisation du lien Plaid requise
+Plaid Link Updated,Lien Plaid mis à jour
+Plain Text,Texte brut
+Planned Purchase Order,Bon de commande planifié
+Planned Work Order,Ordre de travail planifié
+Plans,Plans
+Plant Dashboard,Tableau de bord de l'usine
+Plant Floor,Atelier
+Please Set Priority,Veuillez définir la priorité
+Please Specify Account,Veuillez spécifier le compte
+Please add Operations first.,Veuillez d'abord ajouter des opérations.
+Please attach CSV file,Veuillez joindre un fichier CSV
+Please attach the package,Veuillez joindre le paquet
+Please enable pop-ups,Veuillez activer les fenêtres contextuelles
+Please enable {0} in the {1}.,Veuillez activer {0} dans {1}.
+Please enter Batch No,Veuillez saisir le n° de lot
+Please enter Serial No,Veuillez saisir le n° de série
+Please enter Serial Nos,Veuillez saisir les n° de série
+Please enter a valid quantity,Veuillez saisir une quantité valide
+Please enter serial nos,Veuillez saisir les n° de série
+Please rectify and try again.,Veuillez corriger et réessayer.
+Please save before proceeding.,Veuillez enregistrer avant de continuer.
+Please see attachment,Veuillez consulter la pièce jointe
+Please select As on Date.,Veuillez sélectionner la date au.
+Please select Bank Account,Veuillez sélectionner un compte bancaire
+Please select Company.,Veuillez sélectionner une société.
+Please select Filter Based On,Veuillez sélectionner le filtre basé sur
+Please select From Date.,Veuillez sélectionner la date de début.
+Please select X and Y fields,Veuillez sélectionner les champs X et Y
+Please select a Warehouse,Veuillez sélectionner un entrepôt
+Please select a country,Veuillez sélectionner un pays
+Please select a date,Veuillez sélectionner une date
+Please select a date and time,Veuillez sélectionner une date et une heure
+Please select a file first.,Veuillez d'abord sélectionner un fichier.
+Please select company.,Veuillez sélectionner une société.
+Please select {0},Veuillez sélectionner {0}
+Please set Account,Veuillez définir le compte
+Please set Root Type,Veuillez définir le type racine
+Please set VAT Accounts in {0},Veuillez définir les comptes TVA dans {0}
+Please set filters,Veuillez définir les filtres
+Please set the date range.,Veuillez définir la plage de dates.
+Please set the document name,Veuillez définir le nom du document
+Please set {0} first.,Veuillez d'abord définir {0}.
+Please specify a {0} first.,Veuillez d'abord spécifier un {0}.
+Please try again in an hour.,Veuillez réessayer dans une heure.
+Please update Repair Status.,Veuillez mettre à jour le statut de réparation.
+Pledge Requested,Gage demandé
+Pledged Applicant Count,Nombre de demandeurs gagés
+Pledged Qty,Qté gagée
+Pledged Security Summary,Résumé des garanties gagées
+Point Of Sale,Point de vente
+Polling,Sondage
+Popover Element,Élément de survol
+Popover or Modal Description,Description de survol ou modal
+Portal,Portail
+Portal User,Utilisateur du portail
+Portal Users,Utilisateurs du portail
+Portrait,Portrait
+Position & Size,Position et taille
+Postal,Postal
+Posting Date (End Date),Date de comptabilisation (date de fin)
+Posting Datetime,Date et heure de comptabilisation
+Posting Timestamp,Horodatage de comptabilisation
+Potential Sales Deal,Opportunité commerciale potentielle
+Powered by {0},Propulsé par {0}
+Pre Payment,Prépaiement
+Pre Payment Charges,Frais de prépaiement
+Pre Restructure DPD,DPD avant restructuration
+Pre Restructure Details,Détails avant restructuration
+Prefer not to say,Préfère ne pas répondre
+Prepaid Expenses,Charges payées d'avance
+Prepared Report Analytics,Analyse du rapport préparé
+Prepared report render failed,Échec du rendu du rapport préparé
+Prepayment Charges,Frais de prépaiement
+Preview Required Materials,Aperçu des matériaux requis
+Preview of generated names,Aperçu des noms générés
+Preview on {0},Aperçu sur {0}
+Preview type,Type d'aperçu
+Previous Qty,Qté précédente
+Previous Submission,Soumission précédente
+Price ({0}),Prix ({0})
+Price List Defaults,Valeurs par défaut de la liste de prix
+Price Per Unit ({0}),Prix par unité ({0})
+Price Valid Upto,Prix valide jusqu'au
+Price is not set for the item.,Le prix n'est pas défini pour l'article.
+Primary Applicant Contact Info,Coordonnées du demandeur principal
+Primary Applicant Details,Détails du demandeur principal
+Primary Key,Clé primaire
+Primary Mobile,Mobile principal
+Primary Party,Tiers principal
+Primary Role,Rôle principal
+Principal Adjusted,Principal ajusté
+Principal Adjustment,Ajustement du principal
+Principal Capitalization,Capitalisation du principal
+Principal Overdue,Principal en retard
+Print Format Builder Beta,Constructeur de format d'impression (bêta)
+Print Format Error,Erreur de format d'impression
+Print Format Field Template,Modèle de champ de format d'impression
+Print Format For,Format d'impression pour
+Print Format not found,Format d'impression introuvable
+Print document,Imprimer le document
+Print taxes with zero amount,Imprimer les taxes à montant zéro
+Printed On {0},Imprimé le {0}
+Printed on {0},Imprimé le {0}
+Printer mapping not set.,Mappage d'imprimante non défini.
+Priority is mandatory,La priorité est obligatoire
+Private Files (MB),Fichiers privés (Mo)
+Private Files Backup:,Sauvegarde des fichiers privés :
+Pro-rated calendar months,Mois calendaires au prorata
+Probability (%),Probabilité (%)
+Procedures dropped,Procédures supprimées
+Proceed,Continuer
+Process Loan Classification,Traiter la classification du prêt
+Process Loan Demand,Traiter la demande de prêt
+Process Loan Restructure Limit,Traiter la limite de restructuration du prêt
+Process Loss,Pertes de processus
+Process Loss Qty,Qté de pertes de processus
+Process Loss Quantity,Quantité de pertes de processus
+Process Loss Report,Rapport de pertes de processus
+Process Loss Value,Valeur des pertes de processus
+Process Payment Reconciliation,Traiter la réconciliation des paiements
+Process Period Closing Voucher,Traiter le bon de clôture de période
+Process Requests,Traiter les demandes
+Process Shift Requests,Traiter les demandes d'équipe
+Process Subscription,Traiter l'abonnement
+Process in Single Transaction,Traiter en une seule transaction
+Processed BOMs,Nomenclatures traitées
+Processing Date,Date de traitement
+Processing Requests,Traitement des demandes
+Processing Requests...,Traitement des demandes...
+Processing import...,Traitement de l'import...
+Produced / Received Qty,Qté produite / reçue
+Product Price ID,ID de prix de produit
+Production Plan Item Reference,Référence d'article du plan de production
+Production Plan Summary,Résumé du plan de production
+Profit and Loss Summary,Résumé des profits et pertes
+Progress (%),Progression (%)
+Project Progress:,Avancement du projet :
+Projected,Projeté
+Projected On Hand,En stock projeté
+Projected Quantity Formula,Formule de quantité projetée
+Projected Quantity as Source,Quantité projetée comme source
+Prompt Qty,Qté suggérée
+Prospect,Suspect
+Prospect Lead,Prospect
+Prospect Opportunity,Opportunité de suspect
+Prospect {0} already exists,Le suspect {0} existe déjà
+Protect Attached Files,Protéger les fichiers joints
+Protected DocType,DocType protégé
+Protected File,Fichier protégé
+Provision Rate,Taux de provision
+Provisional Account,Compte provisionnel
+Public Files (MB),Fichiers publics (Mo)
+Public Files Backup:,Sauvegarde des fichiers publics :
+Public Holiday Multiplier,Multiplicateur de jour férié public
+Publish Applications Received,Publier les candidatures reçues
+Publisher,Éditeur
+Publisher ID,ID de l'éditeur
+Publishing Dates,Dates de publication
+Pull Emails,Récupérer les e-mails
+Pulling emails...,Récupération des e-mails...
+Purchase Expense,Dépense d'achat
+Purchase Expense Account,Compte de dépense d'achat
+Purchase Expense for Item {0},Dépense d'achat pour l'article {0}
+Purchase Order {0} created,Bon de commande {0} créé
+Purchase Receipt {0} created.,Bon de réception {0} créé.
+Purchase Time,Délai d'achat
+Purchase Value,Valeur d'achat
+Purchase Voucher No,N° de pièce d'achat
+Purchase Voucher Type,Type de pièce d'achat
+Purple,Violet
+Purposes Required,Objectifs requis
+Push Notification Settings,Paramètres de notifications push
+Push to Google Contacts,Pousser vers Google Contacts
+Put on Hold,Mettre en attente
+QZ Tray Connection Active!,Connexion QZ Tray active !
+QZ Tray Failed:,Échec QZ Tray :
+Qty (Company),Qté (société)
+Qty (Warehouse),Qté (entrepôt)
+Qty (in Stock UOM),Qté (en UDM stock)
+Qty Change,Variation de qté
+Qty In Stock,Qté en stock
+Qty Per Unit,Qté par unité
+Qty To Produce,Qté à produire
+Qty Wise Chart,Graphique par quantité
+Qty and Rate,Qté et taux
+Qty as Per Stock UOM,Qté selon UDM stock
+Qty to Be Consumed,Qté à consommer
+Qty to Build,Qté à fabriquer
+Qty to Fetch,Qté à récupérer
+Qualification,Qualification
+Qualification Status,Statut de qualification
+Qualified,Qualifié
+Quantity (A - B),Quantité (A - B)
+Quantity is required,La quantité est obligatoire
+Quantity to Scan,Quantité à scanner
+Quarter Day,Quart de journée
+Quarter {0} {1},Trimestre {0} {1}
+Query Parameters,Paramètres de requête
+Query Result Limit,Limite de résultat de requête
+Queue,File d'attente
+Queue Overloaded,File d'attente surchargée
+Queue Status,Statut de la file d'attente
+Queue Type(s),Type(s) de file d'attente
+Queue in Background (BETA),Mettre en file d'attente en arrière-plan (BÊTA)
+Queue(s),File(s) d'attente
+Queued At,Mis en file d'attente le
+Queued By,Mis en file d'attente par
+Queues,Files d'attente
+Queuing {0} for Submission,Mise en file d'attente de {0} pour soumission
+Quick List Filter,Filtre de liste rapide
+Quick Lists,Listes rapides
+Quick Ratio,Ratio de liquidité immédiate
+Quot/Lead %,% Devis/Prospect
+Quotation Number,Numéro de devis
+Rate ({0}),Taux ({0})
+Rate Difference Amount,Montant de différence de taux
+Rate Of Interest,Taux d'intérêt
+Rate Of Interest (Based on Remaining Principal),Taux d'intérêt (basé sur le principal restant)
+Rate as per Pricing Rule,Taux selon la règle de tarification
+Rate does not match,Le taux ne correspond pas
+Raw Material Item,Article de matière première
+Raw Material Qty (Backflush),Qté de matière première (contre-flux)
+Raw Material Supply Cost,Coût d'approvisionnement en matières premières
+Re-order,Réapprovisionner
+Re-order Qty,Qté de réapprovisionnement
+Re-order at,Réapprovisionner à
+Re-order level,Niveau de réapprovisionnement
+Read,Lire
+Read Docs,Lire la documentation
+Read Only,Lecture seule
+Read Receipts,Accusés de lecture
+Real time,Temps réel
+Reason for Cancellation,Raison d'annulation
+Reason for Leaving,Raison du départ
+Reason for Rejection,Raison de rejet
+Reason for Transfer,Raison du transfert
+Reason type,Type de raison
+Rebuild,Reconstruire
+Rebuild Buttons,Reconstruire les boutons
+Rebuild Cache,Reconstruire le cache
+Receive,Recevoir
+Received,Reçu
+Recent Updates,Mises à jour récentes
+Reconcile,Réconcilier
+Reconcile Entries,Réconcilier les écritures
+Reconcile This Entry,Réconcilier cette écriture
+Reconcile on Save,Réconcilier à l'enregistrement
+Reconcile {0} Entries,Réconcilier {0} écritures
+Reconciled,Réconcilié
+Reconciliation Cancelled,Réconciliation annulée
+Reconciliation HTML,HTML de réconciliation
+Record Timings,Enregistrer les minutages
+Record Updated,Enregistrement mis à jour
+Records Not Deleted,Enregistrements non supprimés
+Records not found,Enregistrements introuvables
+Redirect To,Rediriger vers
+Redirect URI,URI de redirection
+Redirect URIs,URIs de redirection
+Reference Database Unavailable,Base de données de référence indisponible
+Reference Detail No,N° de détail de référence
+Reference Doctype,Doctype de référence
+Reference Exchange Rate,Taux de change de référence
+Reference No,N° de référence
+Reference Stock Item,Article de stock de référence
+References,Références
+Refresh Cache,Actualiser le cache
+Refresh Report,Actualiser le rapport
+Refresh Token,Jeton d'actualisation
+Register,S'inscrire
+Registration Confirmation,Confirmation d'inscription
+Registry,Registre
+Regular,Standard
+Rejection Note,Note de rejet
+Relink Payment,Relier le paiement
+Remaining,Restant
+Remaining Amount,Montant restant
+Remaining Loan Amount,Montant de prêt restant
+Remaining Payments,Paiements restants
+Remaining Principal,Principal restant
+Remaining Tenure,Durée restante
+Reminders,Rappels
+Remove Block,Supprimer le bloc
+Remove Column,Supprimer la colonne
+Remove DocType,Supprimer le DocType
+Remove Module,Supprimer le module
+Remove Payment,Supprimer le paiement
+Remove Row,Supprimer la ligne
+Remove Section,Supprimer la section
+Remove User from Team,Retirer l'utilisateur de l'équipe
+Remove all Tags,Supprimer toutes les balises
+Remove linked payment,Supprimer le paiement lié
+Rename To,Renommer en
+Repeat After Days,Répéter après (jours)
+Repeat Days,Jours de répétition
+Repeat End Date,Date de fin de répétition
+Repeat From Day,Répéter à partir du jour
+Repeat In Days,Répéter dans (jours)
+Repeat On,Répéter le
+Repeat On Day,Répéter le jour
+Repeat On Year,Répéter l'année
+Repeat Start Date,Date de début de répétition
+Report Filters,Filtres du rapport
+Report Name,Nom du rapport
+Report Settings,Paramètres du rapport
+Report Summary,Résumé du rapport
+Report Type,Type de rapport
+Report URL,URL du rapport
+Report index updated,Index du rapport mis à jour
+Repost Account Ledger,Retransmettre le grand livre de compte
+Repost Accounting Ledger,Retransmettre le grand livre comptable
+Repost Accounting Ledger Items,Articles de retransmission du grand livre comptable
+Repost Error,Erreur de retransmission
+Repost GL Entries,Retransmettre les écritures GL
+Repost Item Valuation,Retransmettre l'évaluation des articles
+Repost Ledger,Retransmettre le grand livre
+Repost Payment Ledger,Retransmettre le grand livre des paiements
+Repost Payment Ledger Items,Articles de retransmission du grand livre des paiements
+Repost Stock Ledger Entries,Retransmettre les écritures du grand livre de stock
+Reposting,Retransmission
+Reposting Cancelled,Retransmission annulée
+Reposting Index,Index de retransmission
+Reposting Summary,Résumé de retransmission
+Request Approvals,Demandes d'approbation
+Request for Quote,Demande de devis
+Required On,Requis le
+Required date for item {0},Date requise pour l'article {0}
+Reschedule,Replanifier
+Reserve Stock,Réserver le stock
+Reserved Stock,Stock réservé
+Reset,Réinitialiser
+Reset Defaults,Réinitialiser les valeurs par défaut
+Reset Filter,Réinitialiser le filtre
+Reset Filters,Réinitialiser les filtres
+Reset Hierarchy,Réinitialiser la hiérarchie
+Reset Filters to Default,Réinitialiser les filtres par défaut
+Reset To Default,Rétablir les valeurs par défaut
+Resize,Redimensionner
+Resolve Errors,Résoudre les erreurs
+Response,Réponse
+Response Time (Days),Délai de réponse (jours)
+Restart,Redémarrer
+Restart App,Redémarrer l'application
+Restart Bench,Redémarrer le Bench
+Restore Settings,Restaurer les paramètres
+Restrict Login,Restreindre la connexion
+Restrict Submitted Documents,Restreindre les documents soumis
+Restriction Error,Erreur de restriction
+Restructure Details,Détails de restructuration
+Restructure Limit,Limite de restructuration
+Restructure Limit Log,Journal de limite de restructuration
+Restructure Principal Amount,Montant principal de restructuration
+Retail,Commerce de détail
+Retirement Date,Date de mise à la retraite
+Return Amount,Montant du retour
+Return Amount cannot exceed Paid Amount,Le montant du retour ne peut pas dépasser le montant payé
+Return Allowed,Retour autorisé
+Return Date,Date de retour
+Return Days,Jours de retour
+Return Entry,Écriture de retour
+Return from Transport,Retour du transport
+Return Type,Type de retour
+Reverse Journal Entries,Contrepasser les écritures de journal
+Revert Customization,Annuler la personnalisation
+Role Assignments,Affectations de rôle
+Role Profiles,Profils de rôle
+Role Visibility,Visibilité du rôle
+Roles assigned successfully,Rôles affectés avec succès
+Root Company,Société racine
+Root Mode,Mode racine
+Root cannot be edited.,La racine ne peut pas être modifiée.
+Row # {0}: ,Ligne n° {0} :
+Row # {0}:,Ligne n° {0} :
+Row #{0}: ,Ligne #{0} :
+Row #{0}:,Ligne #{0} :
+Row {0}:,Ligne {0} :
+Row {0}: {1},Ligne {0} : {1}
+Rule Based Criteria,Critères basés sur des règles
+Run,Exécuter
+Run Checks On,Exécuter des contrôles sur
+Run Custom Script,Exécuter un script personnalisé
+Run Report,Exécuter le rapport
+Run SQL Query,Exécuter une requête SQL
+Running,En cours d'exécution
+Running in background.,Exécution en arrière-plan.
+Running...,Exécution en cours...

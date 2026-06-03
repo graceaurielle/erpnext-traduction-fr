@@ -1,0 +1,130 @@
+source,traduction
+Days Past Due Threshold for NPA,Seuil de jours en retard pour le statut NPA
+Days before the current subscription period,Jours avant la période d'abonnement actuelle
+Days for which Holidays are blocked for this department.,Jours pour lesquels les jours fériés sont bloqués pour ce département.
+Days to Reverse must be greater than zero.,Les jours à inverser doivent être supérieurs à zéro.
+Debit Amount in Reporting Currency,Montant du débit en devise de reporting
+Debit Amount in Transaction Currency,Montant du débit en devise de transaction
+Debit Note will update it's own outstanding amount even if 'Return Against' is specified.,La note de débit mettra à jour son propre montant en souffrance même si 'Retour contre' est spécifié.
+Default BOM not found for FG Item {0},Nomenclature par défaut introuvable pour le produit fini {0}
+Default Expense Claim Payable Account,Compte fournisseur par défaut pour les notes de frais
+Default Provisional Account (Service),Compte provisionnel par défaut (service)
+Default Service Level Agreement for {0} already exists.,Un accord de niveau de service par défaut pour {0} existe déjà.
+Default settings for your stock-related transactions,Paramètres par défaut pour vos transactions liées aux stocks
+Defines actions on states and the next step and allowed roles.,Définit les actions sur les états, l'étape suivante et les rôles autorisés.
+Defines workflow states and rules for a document.,Définit les états du flux de travail et les règles d'un document.
+Delete Accounting and Stock Ledger Entries on deletion of Transaction,Supprimer les écritures comptables et de stock lors de la suppression de la transaction
+Delete Background Exported Reports After (Hours),Supprimer les rapports exportés en arrière-plan après (heures)
+Delete Cancelled Ledger Entries,Supprimer les écritures du grand livre annulées
+Deleting {0} and all associated Common Code documents...,Suppression de {0} et de tous les documents Code commun associés...
+Deletion of this document is only permitted in developer mode.,La suppression de ce document est autorisée uniquement en mode développeur.
+Delimiter must be a single character,Le délimiteur doit être un seul caractère
+Department {0} does not belong to company: {1},Le département {0} n'appartient pas à la société : {1}
+Depreciate based on daily pro-rata,Amortir selon le prorata quotidien
+Depreciation Entry against asset {0},Écriture d'amortissement pour l'actif {0}
+Depreciation Entry against {0} worth {1},Écriture d'amortissement pour {0} d'une valeur de {1}
+Depreciation Expense Account should be an Income or Expense Account.,Le compte de charges d'amortissement doit être un compte de produits ou de charges.
+Depreciation Posting Date cannot be before Available-for-use Date,La date de comptabilisation de l'amortissement ne peut pas être antérieure à la date de disponibilité
+Depreciation cannot be calculated for fully depreciated assets,L'amortissement ne peut pas être calculé pour les actifs entièrement amortis
+Description to inform the user about any action that is going to be performed,Description pour informer l'utilisateur de l'action qui va être effectuée
+Descriptive name for your template (e.g. 'Standard P&L' 'Detailed Balance Sheet'),Nom descriptif pour votre modèle (ex. 'P&L Standard' 'Bilan détaillé')
+Different 'Source Warehouse' and 'Target Warehouse' can be set for each row.,Des entrepôts 'Source' et 'Cible' différents peuvent être définis pour chaque ligne.
+Dimension-wise Accounts Balance Report,Rapport de solde des comptes par dimension
+Direct return is not allowed for Timesheet.,Le retour direct n'est pas autorisé pour les feuilles de temps.
+Disable Change Log Notification,Désactiver la notification du journal des modifications
+Disable System Update Notification,Désactiver la notification de mise à jour système
+Disable Username/Password Login,Désactiver la connexion par identifiant/mot de passe
+Disabled Warehouse {0} cannot be used for this transaction.,L'entrepôt désactivé {0} ne peut pas être utilisé pour cette transaction.
+Disassemble Qty cannot be less than or equal to <b>0</b>.,La qté de désassemblage ne peut pas être inférieure ou égale à <b>0</b>.
+Disbursed Amount cannot be more than {0} as per loan limit or assigned security value,Le montant décaissé ne peut pas dépasser {0} selon la limite du prêt ou la valeur de la garantie
+Disbursement amount cannot be greater than available limit amount,Le montant du décaissement ne peut pas être supérieur au montant de la limite disponible
+Discard Changes and Load New Invoice,Rejeter les modifications et charger une nouvelle facture
+Discount (%) on Price List Rate with Margin,Remise (%) sur le taux de la liste de prix avec marge
+Discount cannot be greater than 100%,La remise ne peut pas être supérieure à 100%
+Discrepancy between General and Payment Ledger,Écart entre le grand livre général et le grand livre des paiements
+Disposal date {0} cannot be before {1} date {2} of the asset.,La date de cession {0} ne peut pas être antérieure à la date {1} {2} de l'actif.
+Do Not Include in Accounting Entries,Ne pas inclure dans les écritures comptables
+Do Not Update Serial / Batch on Creation of Auto Bundle,Ne pas mettre à jour la série/le lot lors de la création du lot automatique
+Do Not Use Batch-wise Valuation,Ne pas utiliser la valorisation par lot
+Do not create new user if user with email does not exist in the system,Ne pas créer de nouvel utilisateur si l'utilisateur avec cet e-mail n'existe pas dans le système
+Do you really want to close this loan,Voulez-vous vraiment clôturer ce prêt
+Do you really want to release this loan security assignment?,Voulez-vous vraiment libérer cette affectation de garantie de prêt ?
+Do you still want to enable immutable ledger?,Souhaitez-vous quand même activer le grand livre immuable ?
+Do you still want to enable negative inventory?,Souhaitez-vous quand même activer le stock négatif ?
+Do you want to change valuation method?,Voulez-vous changer la méthode de valorisation ?
+Do you want to submit the stock entry?,Voulez-vous soumettre l'écriture de stock ?
+DocType is a Table / Form in the application.,Un DocType est une table / formulaire dans l'application.
+DocType must have atleast one field,Le DocType doit avoir au moins un champ
+DocType {0} with company field '{1}' is already in the list,Le DocType {0} avec le champ société '{1}' est déjà dans la liste
+DocTypes cannot be modified, please use {0} instead,Les DocTypes ne peuvent pas être modifiés, veuillez utiliser {0} à la place
+Document Links Row #{0}: Could not find field {1} in {2} DocType,Liens du document ligne #{0} : impossible de trouver le champ {1} dans le DocType {2}
+Document Links Row #{0}: Invalid doctype or fieldname.,Liens du document ligne #{0} : doctype ou nom de champ invalide.
+Document Links Row #{0}: Parent DocType is mandatory for internal links,Liens du document ligne #{0} : le DocType parent est obligatoire pour les liens internes
+Document Links Row #{0}: Table Fieldname is mandatory for internal links,Liens du document ligne #{0} : le nom de champ de table est obligatoire pour les liens internes
+Document Name must not be empty,Le nom du document ne doit pas être vide
+Document Share Key Expiry (in Days),Expiration de la clé de partage du document (en jours)
+Document Type already used as a dimension,Le type de document est déjà utilisé comme dimension
+Document cannot be used as a filter value,Le document ne peut pas être utilisé comme valeur de filtre
+Document follow is not enabled for this user.,Le suivi des documents n'est pas activé pour cet utilisateur.
+Document is only editable by users with role,Le document n'est modifiable que par les utilisateurs ayant le rôle
+Document renaming from {0} to {1} has been queued,Le renommage du document de {0} en {1} est en file d'attente
+Don't Reserve Sales Order Qty on Sales Return,Ne pas réserver la qté de commande client lors d'un retour
+Drag & Drop a section here from another tab,Glisser-déposer une section ici depuis un autre onglet
+Drag and drop files here or upload from,Glisser-déposer des fichiers ici ou téléverser depuis
+Due to stock closing entry {0}, you cannot repost item valuation before {1},En raison de l'écriture de clôture de stock {0}, vous ne pouvez pas retransmettre l'évaluation des articles avant {1}
+Duplicate Item Under Same Parent,Article en double sous le même parent
+Duplicate customer group found in the customer group table,Groupe de clients en double trouvé dans la table des groupes de clients
+Edit your workflow visually using the Workflow Builder.,Modifiez votre flux de travail visuellement avec le Constructeur de flux de travail.
+Editing {0} is not allowed as per POS Profile settings,La modification de {0} n'est pas autorisée selon les paramètres du profil PDV
+Either 'Selling' or 'Buying' must be selected,L'un des deux 'Vente' ou 'Achat' doit être sélectionné
+Either Workstation or Workstation Type is mandatory,Soit le poste de travail soit le type de poste de travail est obligatoire
+Email Account not setup. Please create a new Email Account from Settings > Email Account,Compte e-mail non configuré. Veuillez créer un nouveau compte e-mail depuis Paramètres > Compte e-mail
+Email Address must be unique, it is already used in {0},L'adresse e-mail doit être unique, elle est déjà utilisée dans {0}
+Email Queue flushing aborted due to too many failures.,Le vidage de la file d'attente e-mail a été interrompu en raison de trop nombreux échecs.
+Email is mandatory to create User Email,L'e-mail est obligatoire pour créer un e-mail utilisateur
+Email not sent to {0} (unsubscribed / disabled),E-mail non envoyé à {0} (désabonné / désactivé)
+Email queue is currently suspended. Resume to automatically send other emails.,La file d'attente e-mail est actuellement suspendue. Reprenez pour envoyer automatiquement les autres e-mails.
+Emails are already being pulled from this account.,Les e-mails sont déjà récupérés depuis ce compte.
+Employee advance account {0} should be of type {1}.,Le compte d'avance employé {0} doit être de type {1}.
+Employee was marked Absent for other half due to missing Employee Checkins.,L'employé a été marqué absent pour l'autre moitié en raison de pointages manquants.
+Employee {0} already submitted an application {1} for the payroll period {2},L'employé {0} a déjà soumis une demande {1} pour la période de paie {2}
+Employee {0} does not belong to the company {1},L'employé {0} n'appartient pas à la société {1}
+Employee {0} relieved on {1} must be set as 'Left',L'employé {0} libéré le {1} doit être défini comme 'Parti'
+Enable Automatic Party Matching,Activer la correspondance automatique des tiers
+Enable Dynamic Client Registration,Activer l'enregistrement dynamique du client
+Enable Item-wise Inventory Account,Activer le compte d'inventaire par article
+Enable Stored Procedure Execution,Activer l'exécution des procédures stockées
+Enable developer mode to create a standard Print Template,Activer le mode développeur pour créer un modèle d'impression standard
+Enable to apply SLA on every {0},Activer pour appliquer le SLA sur chaque {0}
+Enabled only for Employee Benefit components from Salary Structure Assignment,Activé uniquement pour les composants d'avantages employés de l'affectation de structure salariale
+Enables Calendar and Gantt views.,Active les vues Calendrier et Gantt.
+Enabling the check box will fetch timesheet on select of a Project in Sales Invoice,Cocher la case récupérera la feuille de temps lors de la sélection d'un projet dans la facture de vente
+Enabling this will change the way how cancelled transactions are handled.,Activer ceci modifiera la façon dont les transactions annulées sont gérées.
+Enabling this will submit documents in background,Activer ceci soumettra les documents en arrière-plan
+Encryption key is in invalid format!,La clé de chiffrement est dans un format invalide !
+End of the current subscription period,Fin de la période d'abonnement actuelle
+Enter Code displayed in OTP App.,Saisir le code affiché dans l'application OTP.
+Enter Email Recipient(s) in the To, CC, or BCC fields,Saisir le(s) destinataire(s) dans les champs À, CC ou Cci
+Enter a name for the Operation, for example, Cutting.,Saisir un nom pour l'opération, par exemple, Découpe.
+Enter a name for this Holiday List.,Saisir un nom pour cette liste de jours fériés.
+Enter a non-zero value to adjust.,Saisir une valeur non nulle à ajuster.
+Enter each serial no in a new line,Saisir chaque numéro de série sur une nouvelle ligne
+Enter list of Options, each on a new line.,Saisir la liste des options, chacune sur une nouvelle ligne.
+Enter the Bank Guarantee Number before submitting.,Saisir le numéro de garantie bancaire avant de soumettre.
+Enter the name of the Beneficiary before submitting.,Saisir le nom du bénéficiaire avant de soumettre.
+Enter the quantity of the Item that will be manufactured from this Bill of Materials.,Saisir la quantité de l'article qui sera fabriqué à partir de cette nomenclature.
+Error during caller information update,Erreur lors de la mise à jour des informations de l'appelant
+Error in party matching for Bank Transaction {0},Erreur dans la correspondance des tiers pour la transaction bancaire {0}
+Error in print format on line {0}: {1},Erreur dans le format d'impression à la ligne {0} : {1}
+Error while posting depreciation entries,Erreur lors de la comptabilisation des écritures d'amortissement
+Error while reposting item valuation,Erreur lors de la retransmission de l'évaluation des articles
+Error: Data missing in table {0},Erreur : données manquantes dans la table {0}
+Error: {0} Row #{1}: Value missing for: {2},Erreur : {0} Ligne #{1} : valeur manquante pour : {2}
+Example: Serial No {0} reserved in {1}.,Exemple : numéro de série {0} réservé dans {1}.
+Excess amount refund cannot be more than excess amount paid,Le remboursement du montant excédentaire ne peut pas être supérieur au montant excédentaire payé
+Exchange Gain/Loss amount has been booked through {0},Le montant du gain/perte de change a été comptabilisé via {0}
+Expected End Date should be less than or equal to parent task's Expected End Date {0}.,La date de fin prévue doit être inférieure ou égale à la date de fin prévue de la tâche parent {0}.
+Exported permissions will be force-synced on every migrate overriding any other customization.,Les permissions exportées seront synchronisées de force à chaque migration en remplaçant toute autre personnalisation.
+FLDG Corporate Guarantee Percentage,Pourcentage de garantie corporative FLDG
+Failed to delete defaults for country {0}.,Échec de la suppression des valeurs par défaut pour le pays {0}.
+Failed to delete {0} documents: {1},Échec de la suppression de {0} documents : {1}

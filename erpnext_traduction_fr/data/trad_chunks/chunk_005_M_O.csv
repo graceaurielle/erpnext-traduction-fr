@@ -1,0 +1,572 @@
+source,traduction
+Machine,Machine
+Machine Type,Type de machine
+Madam,Madame
+Main Cost Center,Centre de coûts principal
+Main Item Code,Code article principal
+Maintain Asset,Maintenir l'actif
+Maintenance Details,Détails de maintenance
+Major,Majeur
+Make Asset Movement,Créer un mouvement d'actif
+Make Lead Time,Délai de fabrication
+Make Purchase / Work Order,Créer un bon de commande / ordre de travail
+Make Quotation,Créer un devis
+Make Return Entry,Créer une écriture de retour
+Make Subcontracting PO,Créer un bon de commande de sous-traitance
+Make Transfer Entry,Créer une écriture de transfert
+Make a call,Passer un appel
+Make {0} Variant,Créer la variante {0}
+Make {0} Variants,Créer les variantes {0}
+Manage 3rd party apps,Gérer les applications tierces
+Manage Billing,Gérer la facturation
+Mandatory Accounting Dimension,Dimension comptable obligatoire
+Mandatory Benefit Application,Demande d'avantage obligatoire
+Mandatory Depends On (JS),Obligatoire dépend de (JS)
+Mandatory Section,Section obligatoire
+Mandatory fields required:,Champs obligatoires requis :
+Manual Foreclosure,Saisie manuelle
+Manual Inspection,Inspection manuelle
+Manual NPA,NPA manuel
+Manual Remarks,Remarques manuelles
+Manually,Manuellement
+Manually marked as NPA,Marqué manuellement comme NPA
+Manufacturers used in Items,Fabricants utilisés dans les articles
+Manufacturing BOM,Nomenclature de fabrication
+Manufacturing Time,Temps de fabrication
+Manufacturing Type,Type de fabrication
+Map,Carte
+Map View,Vue carte
+Mapping {0} ...,Mappage {0}...
+Margin Bottom,Marge inférieure
+Margin Left,Marge gauche
+Margin Right,Marge droite
+Margin Top,Marge supérieure
+Margin View,Vue de marge
+MariaDB Variables,Variables MariaDB
+Mark As Closed,Marquer comme fermé
+Mark all as read,Tout marquer comme lu
+Mark as Failed,Marquer comme échoué
+Markdown Editor,Éditeur Markdown
+Master,Maître
+Master Production Schedule,Plan directeur de production
+Material Returned from WIP,Matériau retourné depuis WIP
+Material Transfer (In Transit),Transfert de matériau (en transit)
+Material from Customer,Matériau du client
+Maturity Date,Date d'échéance
+Max Amount Eligible For Claim,Montant max éligible à la réclamation
+Max Execution Time (Seconds),Temps d'exécution max (secondes)
+Max File Size (MB),Taille max du fichier (Mo)
+Max Height,Hauteur max
+Max Memory Usage,Utilisation mémoire max
+Max Producible Qty,Qté max productible
+Max Qty (As Per Stock UOM),Qté max (selon UDM stock)
+Max Records To Sync,Enregistrements max à synchroniser
+Max Report Rows,Lignes max du rapport
+Max attachment size,Taille max des pièces jointes
+Max auto email report per user,Rapport e-mail auto max par utilisateur
+Max signups allowed per hour,Inscriptions max autorisées par heure
+Maximum Benefit Amount,Montant max d'avantage
+Maximum Limit Amount,Montant max de la limite
+Maximum Net Rate,Taux net max
+Maximum Overtime Hours Allowed,Heures supplémentaires max autorisées
+Maximum Payment Amount,Montant max de paiement
+Maximum Value,Valeur max
+Maybe,Peut-être
+Meets Condition?,Remplit la condition ?
+Memory Limit (MB),Limite mémoire (Mo)
+Memory Usage,Utilisation mémoire
+Memory Usage in MB,Utilisation mémoire en Mo
+Merge Invoices Based On,Fusionner les factures selon
+Merge Progress,Progression de la fusion
+Merge Similar Account Heads,Fusionner les comptes similaires
+Merged,Fusionné
+Merging {0} of {1},Fusion de {0} sur {1}
+Message direct,Message direct
+Messages,Messages
+Messaging CRM Campaign,Campagne CRM de messagerie
+Meta,Méta
+Meta Description,Méta description
+Meta Image,Méta image
+Meta Tags,Méta balises
+Meta Title,Méta titre
+Meta description,Méta description
+Meta image,Méta image
+Meta title,Méta titre
+Metadata,Métadonnées
+Method Not Allowed,Méthode non autorisée
+Mid Center,Centre milieu
+Min Qty (As Per Stock UOM),Qté min (selon UDM stock)
+Minimum Net Rate,Taux net min
+Minimum Payment Amount,Montant min de paiement
+Minor,Mineur
+Minutes After,Minutes après
+Minutes Before,Minutes avant
+Minutes Offset,Décalage en minutes
+Misc,Divers
+Misconfigured,Mal configuré
+Mismatch,Incohérence
+Missing,Manquant
+Missing Advance Account,Compte d'avance manquant
+Missing Asset,Actif manquant
+Missing Cost Center,Centre de coûts manquant
+Missing Default in Company,Défaut manquant dans la société
+Missing DocType,DocType manquant
+Missing Filters,Filtres manquants
+Missing Filters Required,Filtres obligatoires manquants
+Missing Finance Book,Livre de finances manquant
+Missing Finished Good,Produit fini manquant
+Missing Formula,Formule manquante
+Missing Item,Article manquant
+Missing Mandatory Field,Champ obligatoire manquant
+Missing Opening Entries,Écritures d'ouverture manquantes
+Missing Payments App,Application Payments manquante
+Missing Permission,Permission manquante
+Missing Salary Components,Composantes de salaire manquantes
+Missing Serial No Bundle,Lot de n° de série manquant
+Missing Tax Slab,Tranche fiscale manquante
+Missing Value,Valeur manquante
+Missing Values Required,Valeurs obligatoires manquantes
+Missing required filter: {0},Filtre requis manquant : {0}
+Missing value,Valeur manquante
+Mobile: ,Mobile :
+Modal Trigger,Déclencheur modal
+Module (for Export),Module (pour export)
+Module {} not found,Module {} introuvable
+Monitor for Last 'X' days,Surveiller les 'X' derniers jours
+Monospace,Monospace
+Monthly as per cycle date,Mensuel selon la date du cycle
+Moratorium Details,Détails du moratoire
+Moratorium End Date,Date de fin du moratoire
+Moratorium Tenure,Durée du moratoire
+Moratorium Type,Type de moratoire
+More Info,Plus d'infos
+More/Less than 12 months.,Plus/moins de 12 mois.
+Move,Déplacer
+Move Stock,Déplacer le stock
+Move cursor to above row,Déplacer le curseur sur la ligne du dessus
+Move cursor to below row,Déplacer le curseur sur la ligne du dessous
+Move cursor to next column,Déplacer le curseur sur la colonne suivante
+Move cursor to previous column,Déplacer le curseur sur la colonne précédente
+Move sections to new tab,Déplacer les sections dans un nouvel onglet
+Move to Cart,Déplacer dans le panier
+Movement,Mouvement
+Moving up in tree ...,Remontée dans l'arbre...
+Multi-level BOM Creator,Créateur de nomenclature multi-niveaux
+Multiple POS Opening Entry,Plusieurs écritures d'ouverture PDV
+Multiple Warehouse Accounts,Plusieurs comptes d'entrepôt
+My Device,Mon appareil
+My Filter,Mon filtre
+NPA Type,Type de NPA
+NPA Update Status,Statut de mise à jour NPA
+NPS Date,Date NPS
+NPS Survey,Sondage NPS
+NPS Survey Response,Réponse au sondage NPS
+NPS Survey Settings,Paramètres du sondage NPS
+NPS Triggered Status,Statut déclenché NPS
+Name 1,Nom 1
+Name 2,Nom 2
+Name 3,Nom 3
+Name Field,Champ Nom
+Name Type,Type de nom
+Name field cannot be blank.,Le champ Nom ne peut pas être vide.
+Name is required,Le nom est obligatoire
+Name of the Employee,Nom de l'employé
+Name of the user,Nom de l'utilisateur
+Naming By,Nommage par
+Naming Field,Champ de nommage
+Naming Series Mandatory,Série de nommage obligatoire
+Naming Updated,Nommage mis à jour
+Narration,Narration
+National Holiday,Jour férié national
+Native,Natif
+Native Query,Requête native
+Navbar Logo,Logo de la barre de navigation
+Navbar Search,Recherche de la barre de navigation
+Navigation,Navigation
+Negative Stock Error,Erreur de stock négatif
+Negative Stock In Future,Stock négatif futur
+Net Asset Value (Average),Valeur nette d'actif (moyenne)
+Net Asset Value (FIFO),Valeur nette d'actif (FIFO)
+Net Cash Flow,Flux de trésorerie net
+Net Loss for the year,Perte nette de l'année
+Net Profit Loss,Bénéfice net / perte
+Net Profit for the year,Bénéfice net de l'année
+Net Sale,Vente nette
+Net Sales,Ventes nettes
+Net Working Capital,Fonds de roulement net
+Network Printer Settings,Paramètres d'imprimante réseau
+New Account,Nouveau compte
+New Account Currency,Devise du nouveau compte
+New Activity,Nouvelle activité
+New Asset Value,Nouvelle valeur d'actif
+New Booking Date,Nouvelle date de réservation
+New Budget,Nouveau budget
+New Customer,Nouveau client
+New Customers,Nouveaux clients
+New Drag and Drop layout,Nouvelle disposition glisser-déposer
+New Employees,Nouveaux employés
+New Issues,Nouveaux tickets
+New Layout,Nouvelle disposition
+New Leaves Allocated,Nouveaux congés alloués
+New Naming Series,Nouvelle série de nommage
+New Operation,Nouvelle opération
+New Operator,Nouvel opérateur
+New Page,Nouvelle page
+New Password,Nouveau mot de passe
+New Payment Date,Nouvelle date de paiement
+New Permission,Nouvelle permission
+New Position,Nouvelle position
+New Report,Nouveau rapport
+New Restructure Limit,Nouvelle limite de restructuration
+New Role,Nouveau rôle
+New Shortcut,Nouveau raccourci
+New Status,Nouveau statut
+New Template,Nouveau modèle
+New Theme,Nouveau thème
+New Type,Nouveau type
+New Variants,Nouvelles variantes
+New Vendor,Nouveau fournisseur
+New Workflow,Nouveau flux de travail
+New Workspace,Nouvel espace de travail
+New {0} {1} created,Nouveau {0} {1} créé
+Newly Joined,Nouvellement embauché
+News & Updates,Actualités et mises à jour
+Newsletter Lists,Listes de newsletters
+Newsletters,Newsletters
+Next 1 Month,Prochain mois
+Next 2 Weeks,Prochaines 2 semaines
+Next 3 Months,Prochains 3 mois
+Next 6 Months,Prochains 6 mois
+Next Action,Action suivante
+Next Demand Date,Prochaine date de demande
+Next Field,Champ suivant
+Next Heartbeat,Prochain battement
+Next Page,Page suivante
+Next Repayment Date,Prochaine date de remboursement
+Next Restructure Period,Prochaine période de restructuration
+Next Run At,Prochaine exécution à
+Next Run In Days,Prochaine exécution dans (jours)
+Next Run On,Prochaine exécution le
+Next Run Optionally,Prochaine exécution optionnelle
+Next page,Page suivante
+Next year,Année prochaine
+Nginx,Nginx
+No Action,Aucune action
+No Active Contract Found,Aucun contrat actif trouvé
+No Address Found,Aucune adresse trouvée
+No Allocations Found.,Aucune allocation trouvée.
+No Annual Salary Info found,Aucune info de salaire annuel trouvée
+No Attendance Record found,Aucun enregistrement de présence trouvé
+No Auto Pull Found,Aucune récupération auto trouvée
+No Backups Found,Aucune sauvegarde trouvée
+No Big Pages found,Aucune grande page trouvée
+No Contact Found,Aucun contact trouvé
+No Contacts to fetch.,Aucun contact à récupérer.
+No Coupons Found,Aucun coupon trouvé
+No Custom Fields found.,Aucun champ personnalisé trouvé.
+No Custom Forms found,Aucun formulaire personnalisé trouvé
+No Data,Aucune donnée
+No Data Found,Aucune donnée trouvée
+No Data To Show,Aucune donnée à afficher
+No Data To Update,Aucune donnée à mettre à jour
+No Data found,Aucune donnée trouvée
+No Demands Found,Aucune demande trouvée
+No Difference,Aucune différence
+No Documents tagged.,Aucun document tagué.
+No Donor Found,Aucun donateur trouvé
+No Doors,Aucune porte
+No Drilldown,Aucun zoom
+No Earnings,Aucun gain
+No Email Account,Aucun compte e-mail
+No Employee Found,Aucun employé trouvé
+No Employees for the Mentioned Designation,Aucun employé pour la désignation mentionnée
+No Family History yet,Pas encore d'historique familial
+No Filters,Aucun filtre
+No Frequent Replies found,Aucune réponse fréquente trouvée
+No Group Roll Number,Aucun numéro de rouleau de groupe
+No Grouping,Aucun groupement
+No Groups,Aucun groupe
+No Holiday List Found,Aucune liste de jours fériés trouvée
+No Inspection Required,Aucune inspection requise
+No Internal Customer Found,Aucun client interne trouvé
+No Internal Supplier Found,Aucun fournisseur interne trouvé
+No Inventory Dimensions found,Aucune dimension d'inventaire trouvée
+No Invitations Sent,Aucune invitation envoyée
+No Invoices for filters,Aucune facture pour les filtres
+No Item Found,Aucun article trouvé
+No Items Available For Transfer,Aucun article disponible au transfert
+No Items Repost Pending.,Aucun article en attente de retransmission.
+No Items found.,Aucun article trouvé.
+No Items in cart,Aucun article dans le panier
+No Items selected for transfer,Aucun article sélectionné au transfert
+No Job Card Found,Aucune carte de travail trouvée
+No Job Found,Aucun travail trouvé
+No Job opening,Aucune offre d'emploi
+No Languages set,Aucune langue définie
+No Materials Required,Aucun matériel requis
+No Modifications,Aucune modification
+No Notes Found,Aucune note trouvée
+No Notifications,Aucune notification
+No OAuth Bearer Tokens.,Aucun jeton OAuth Bearer.
+No OAuth Client App.,Aucune application client OAuth.
+No Onboarding,Aucune intégration
+No Open Loyalty Programs,Aucun programme de fidélité ouvert
+No Open Tickets,Aucun ticket ouvert
+No Operations,Aucune opération
+No Order Found,Aucune commande trouvée
+No Orders,Aucune commande
+No POS Settings found,Aucun paramètre PDV trouvé
+No Payment Methods,Aucune méthode de paiement
+No Pending Demands found,Aucune demande en attente trouvée
+No Pending Items for Picking,Aucun article en attente de prélèvement
+No Permissions Found,Aucune permission trouvée
+No Production Plan Available,Aucun plan de production disponible
+No Pull Found,Aucune récupération trouvée
+No Records Found.,Aucun enregistrement trouvé.
+No Records found,Aucun enregistrement trouvé
+No Records found in CSV,Aucun enregistrement trouvé dans le CSV
+No Records to show.,Aucun enregistrement à afficher.
+No Recovery Found,Aucune récupération trouvée
+No Records Found,Aucun enregistrement trouvé
+No Reports Created,Aucun rapport créé
+No Roles Specified,Aucun rôle spécifié
+No Salary Slip,Aucun bulletin de paie
+No Salary Withholdings Found,Aucune retenue de salaire trouvée
+No Sender Email,Aucun e-mail d'expéditeur
+No Sender provided,Aucun expéditeur fourni
+No Stock UOM is required,Aucune UDM stock n'est requise
+No Stops Found,Aucun arrêt trouvé
+No Subject,Aucun sujet
+No System Manager Roles found,Aucun rôle de gestionnaire système trouvé
+No Tasks found,Aucune tâche trouvée
+No Time logs available,Aucune feuille de temps disponible
+No Title,Aucun titre
+No Update Available,Aucune mise à jour disponible
+No User Permission Found.,Aucune permission utilisateur trouvée.
+No User Selected,Aucun utilisateur sélectionné
+No Variant Item Code,Aucun code d'article variante
+No Workflows defined,Aucun flux de travail défini
+No active jobs running.,Aucun travail actif en cours.
+No additional document templates,Aucun modèle de document supplémentaire
+No connection to {},Aucune connexion à {}
+No content,Aucun contenu
+No data is associated.,Aucune donnée associée.
+No data to show,Aucune donnée à afficher
+No data was returned for the metric,Aucune donnée renvoyée pour la métrique
+No description added,Aucune description ajoutée
+No documents,Aucun document
+No employees for the criteria,Aucun employé pour ces critères
+No global search results,Aucun résultat de recherche globale
+No items to delete,Aucun article à supprimer
+No more results,Aucun autre résultat
+No more {} forms to delete,Aucun autre formulaire {} à supprimer
+No more {} records to delete,Aucun autre enregistrement {} à supprimer
+No new feeds,Aucun nouveau flux
+No new updates available,Aucune nouvelle mise à jour disponible
+No notifications,Aucune notification
+No payslip found to cancel,Aucun bulletin de paie trouvé à annuler
+No record found,Aucun enregistrement trouvé
+No record to delete,Aucun enregistrement à supprimer
+No record to undelete,Aucun enregistrement à restaurer
+No records to upload,Aucun enregistrement à téléverser
+No results,Aucun résultat
+No results found,Aucun résultat trouvé
+No tags created,Aucune balise créée
+No tags created yet,Aucune balise créée pour le moment
+No translations found,Aucune traduction trouvée
+No unread messages,Aucun message non lu
+No update available,Aucune mise à jour disponible
+No values to delete,Aucune valeur à supprimer
+No {0} found.,Aucun {0} trouvé.
+No {} Activity,Aucune activité {}
+None,Aucun
+Normal Working Hours,Heures de travail normales
+Not Allowed,Non autorisé
+Not Allowed to Edit Field,Non autorisé à modifier le champ
+Not Allowed to Update,Non autorisé à mettre à jour
+Not Allowed to copy {0},Non autorisé à copier {0}
+Not Applicable,Non applicable
+Not Authorized,Non autorisé
+Not Available for Renewal,Non disponible au renouvellement
+Not Blocked,Non bloqué
+Not Captured,Non capturé
+Not Connected,Non connecté
+Not Created,Non créé
+Not Empty,Non vide
+Not Found,Introuvable
+Not Implemented,Non implémenté
+Not Permitted,Non autorisé
+Not Renewed,Non renouvelé
+Not Saved,Non enregistré
+Not Set,Non défini
+Not Started,Non démarré
+Not Submittable,Non soumissible
+Not Updated,Non mis à jour
+Not a Coupon Code,N'est pas un code de coupon
+Not allowed to update Tasks.,Non autorisé à mettre à jour les tâches.
+Not modifiable,Non modifiable
+Not paid,Non payé
+Not started,Non démarré
+Notes for the user,Notes pour l'utilisateur
+Notification Channel,Canal de notification
+Notification Color,Couleur de notification
+Notification Settings,Paramètres de notification
+Notification Settings View,Vue des paramètres de notification
+Notifications & Reminders,Notifications et rappels
+Notify Failure,Notifier l'échec
+Notify Frequency,Fréquence de notification
+Notify Loan Customer,Notifier le client du prêt
+Notify Pay When Earned,Notifier paiement à l'acquisition
+Notify by Email,Notifier par e-mail
+Number Format Indian Lakh,Format de nombre indien Lakh
+Number Format Indian Lakhs,Format de nombre indien Lakhs
+Number of Backups,Nombre de sauvegardes
+Number of Days,Nombre de jours
+Number of Frozen Accounts,Nombre de comptes gelés
+Number of new Comment,Nombre de nouveau commentaire
+Number of new Comments,Nombre de nouveaux commentaires
+Number of users,Nombre d'utilisateurs
+Numeric BOM Settings,Paramètres de nomenclature numérique
+Numeric Variants,Variantes numériques
+OAuth Authorization Endpoint,Point d'accès d'autorisation OAuth
+OAuth Bearer Token,Jeton OAuth Bearer
+OAuth Bearer Tokens,Jetons OAuth Bearer
+OAuth Client Profile,Profil client OAuth
+OAuth Provider Settings,Paramètres du fournisseur OAuth
+OAuth Provider URL,URL du fournisseur OAuth
+OAuth Token Endpoint,Point d'accès du jeton OAuth
+OEE Tracker,Suivi OEE
+OPP-,OPP-
+On Cash Flow,Sur le flux de trésorerie
+On Hold,En attente
+On Net Total,Sur le total net
+On Paid Amount,Sur le montant payé
+On Previous Row Amount,Sur le montant de la ligne précédente
+On Previous Row Total,Sur le total de la ligne précédente
+On Save,À l'enregistrement
+On Submit,À la soumission
+On Total Amount,Sur le montant total
+On Update,À la mise à jour
+On Value Difference,Sur la différence de valeur
+On account of {0},Au titre de {0}
+On disposal of Assets,Sur cession d'actifs
+On the Way,En route
+Once Per Day,Une fois par jour
+Once Per Week,Une fois par semaine
+One Time Charge,Frais ponctuels
+Online,En ligne
+Only Allow Edit For,Autoriser la modification uniquement pour
+Only Numbers,Uniquement des nombres
+Only allow signup from verified Email Address,Autoriser uniquement l'inscription depuis une adresse e-mail vérifiée
+Only first row will be processed.,Seule la première ligne sera traitée.
+Only one supplier allowed,Un seul fournisseur autorisé
+Open Conditional Rule,Ouvrir la règle conditionnelle
+Open Documents,Documents ouverts
+Open Files,Ouvrir les fichiers
+Open Filter,Ouvrir le filtre
+Open Form,Ouvrir le formulaire
+Open Loyalty Programs,Programmes de fidélité ouverts
+Open Notifications,Ouvrir les notifications
+Open Set Default Currency,Ouvrir Définir la devise par défaut
+Open Tickets,Tickets ouverts
+Open Workspace,Ouvrir l'espace de travail
+Open chart,Ouvrir le graphique
+Open created links,Ouvrir les liens créés
+Open in editor,Ouvrir dans l'éditeur
+Open in full page,Ouvrir en pleine page
+Open {0},Ouvrir {0}
+Opening Accounting Balance,Solde comptable d'ouverture
+Opening Balance Editor,Éditeur de solde d'ouverture
+Opening Balance is mandatory,Le solde d'ouverture est obligatoire
+Opening DR,DT d'ouverture
+Opening Demands,Demandes d'ouverture
+Opening Document Type,Type de document d'ouverture
+Opening Entry Created.,Écriture d'ouverture créée.
+Opening Inventory Items,Articles d'inventaire d'ouverture
+Opening Stock Balance,Solde de stock d'ouverture
+Opening Stock Items,Articles de stock d'ouverture
+Operating,Exploitation
+Operating Activities,Activités d'exploitation
+Operating Activity,Activité d'exploitation
+Operating System Logs,Journaux du système d'exploitation
+Operation Cost,Coût d'opération
+Operation Cost Detail,Détail du coût d'opération
+Operation Description,Description de l'opération
+Operation ID,ID d'opération
+Operation Row Number,Numéro de ligne d'opération
+Operation must be after Save,L'opération doit être après l'enregistrement
+Operations Performed,Opérations effectuées
+Optimize Storage Engine,Optimiser le moteur de stockage
+Option {0} for field {1},Option {0} pour le champ {1}
+Option {} for field {},Option {} pour le champ {}
+Optional Holiday Allowed,Jour férié optionnel autorisé
+Optional Holiday List,Liste de jours fériés optionnels
+Optional Mandatory Fields,Champs obligatoires optionnels
+Options have changed,Les options ont changé
+Or,Ou
+Or Condition,Condition Ou
+Or Conditions,Conditions Ou
+Or Group,Ou groupe
+Order Confirmed,Commande confirmée
+Order Lost Reason,Raison de perte de commande
+Order Notes,Notes de commande
+Order Type,Type de commande
+Origin Server,Serveur d'origine
+Original Loan Amount,Montant initial du prêt
+Original Login Page,Page de connexion originale
+Original Order Id,ID de commande original
+Original Request,Requête originale
+Other Charges Calculation,Calcul des autres frais
+Other Detail,Autre détail
+Other Recipients,Autres destinataires
+Other charges,Autres frais
+Other settings,Autres paramètres
+Outgoing Mail Server,Serveur de courrier sortant
+Outstanding Amount must be 0,Le montant en souffrance doit être 0
+Outstanding Cheques and Deposits,Chèques et dépôts en souffrance
+Outstanding Demand Amount,Montant de la demande en souffrance
+Outstanding Excess Amount,Montant excédentaire en souffrance
+Outstanding Interest,Intérêts en souffrance
+Outstanding Penal Interest,Intérêts pénaux en souffrance
+Outstanding Penalty,Pénalité en souffrance
+Outstanding Principal,Principal en souffrance
+Outstanding loans,Prêts en souffrance
+Over Allocation,Sur-allocation
+Over Allowance,Tolérance dépassée
+Over Billing,Sur-facturation
+Over Receipt Allowance (%),Tolérance de sur-réception (%)
+Over Transfer Allowance (%),Tolérance de sur-transfert (%)
+Over reach,Dépassement
+Overdraft Account,Compte de découvert
+Overdue Charges,Frais en retard
+Overdue Days,Jours en retard
+Overdue Demands,Demandes en retard
+Overdue Interest,Intérêts en retard
+Overdue Limit,Limite en retard
+Overdue Loans,Prêts en retard
+Overdue Penalty,Pénalité en retard
+Overlap in Attendance Records,Chevauchement dans les enregistrements de présence
+Overtime,Heures supplémentaires
+Overtime Allowance,Indemnité d'heures supplémentaires
+Overtime Approval,Approbation d'heures supplémentaires
+Overtime Approvers,Approbateurs d'heures supplémentaires
+Overtime Compensation,Compensation d'heures supplémentaires
+Overtime Date,Date d'heures supplémentaires
+Overtime Date is mandatory,La date d'heures supplémentaires est obligatoire
+Overtime Details,Détails des heures supplémentaires
+Overtime Generation,Génération d'heures supplémentaires
+Overtime Hours,Heures supplémentaires
+Overtime Pay,Paiement des heures supplémentaires
+Overtime Policy,Politique d'heures supplémentaires
+Overtime Policy Detail,Détail de la politique d'heures supplémentaires
+Overtime Process Date,Date de traitement des heures supplémentaires
+Overtime Processing,Traitement des heures supplémentaires
+Overtime Rates,Taux d'heures supplémentaires
+Overtime Settings,Paramètres d'heures supplémentaires
+Overtime Slip,Bulletin d'heures supplémentaires
+Overtime Slip Detail,Détail du bulletin d'heures supplémentaires
+Overtime Slips,Bulletins d'heures supplémentaires
+Overtime Workflow,Flux de travail des heures supplémentaires
+Overwrite for {0}: ,Écraser pour {0} :
+Owned by you,Vous appartient
+Owner,Propriétaire

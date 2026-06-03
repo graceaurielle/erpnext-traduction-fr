@@ -1,0 +1,595 @@
+source,traduction
+HR & Payroll,RH et Paie
+HR & Payroll Settings,Paramètres RH et Paie
+HTML Message,Message HTML
+HTML with jinja support,HTML avec support Jinja
+HTTP Headers,En-têtes HTTP
+Half Yearly,Semestriel
+Handle Employee Advances,Gérer les avances employés
+Handled Emails,E-mails traités
+Has Alternative Item,A un article alternatif
+Has Corrective Cost,A un coût correctif
+Has Item Scanned,A un article scanné
+Has Next Condition,A une condition suivante
+Has Operating Cost,A un coût d'exploitation
+Has Priority,A une priorité
+Has Setup Wizard,A un assistant de configuration
+Has Subcontracted,Est sous-traité
+Has Unit Price Items,A des articles avec prix unitaire
+Header Icon,Icône d'en-tête
+Header Script,Script d'en-tête
+"Header, Robots","En-tête, robots"
+Headers must be a dictionary,Les en-têtes doivent être un dictionnaire
+Health Insurance,Assurance santé
+Health Insurance No,N° d'assurance santé
+Health Insurance Provider,Fournisseur d'assurance santé
+Helpful,Utile
+Here's your tracking URL,Voici votre URL de suivi
+"Hi,","Bonjour,"
+Hidden Fields,Champs masqués
+Hide Buttons,Masquer les boutons
+Hide Descendants,Masquer les descendants
+Hide Empty Read-Only Fields,Masquer les champs vides en lecture seule
+Hide Error,Masquer l'erreur
+Hide If Zero,Masquer si zéro
+Hide Images,Masquer les images
+Hide Label,Masquer l'étiquette
+Hide Preview,Masquer l'aperçu
+Hide Recent Orders,Masquer les commandes récentes
+Hide footer,Masquer le pied de page
+Hide footer signup,Masquer l'inscription du pied de page
+Hide navbar,Masquer la barre de navigation
+Hide timesheets,Masquer les feuilles de temps
+Holiday List Assignment,Affectation de liste de jours fériés
+Holiday List End,Fin de la liste de jours fériés
+Holiday List Start,Début de la liste de jours fériés
+Horizontal Break,Saut horizontal
+Hourly Maintenance,Maintenance horaire
+Hourly Rate,Taux horaire
+Hours Spent,Heures passées
+How Pricing Rule is applied?,Comment la règle de tarification est appliquée ?
+How this line gets its data,Comment cette ligne obtient ses données
+Hrs,Hres
+ID (name),ID (nom)
+Icon Image,Image d'icône
+Icon Style,Style d'icône
+Icon Type,Type d'icône
+Ignore Account Closing Balance,Ignorer le solde de clôture du compte
+Ignore Closing Balance,Ignorer le solde de clôture
+Ignore Empty Stock,Ignorer le stock vide
+Ignore On Cancel Amount Update,Ignorer la mise à jour du montant à l'annulation
+Illegal template,Modèle illégal
+Image Height,Hauteur de l'image
+Image Width,Largeur de l'image
+Image link '{0}' is not valid,Le lien d'image '{0}' n'est pas valide
+Image optimized,Image optimisée
+Image: Corrupted Data Stream,Image : flux de données corrompu
+Images,Images
+Impairment,Dépréciation
+Impersonate,Usurper l'identité
+Impersonate as {0},Usurper l'identité de {0}
+Impersonated by {0},Identité usurpée par {0}
+Impersonating {0},Usurpation de l'identité de {0}
+Import Genericode File,Importer un fichier Genericode
+Import Job,Travail d'import
+Import MT940 Fromat,Importer le format MT940
+Import Progress,Progression de l'import
+Import Query,Importer la requête
+Import Summary,Résumé de l'import
+Import Using CSV file,Importer avec un fichier CSV
+Import job has been queued,Le travail d'import a été mis en file d'attente
+Import to Warehouse,Importer vers l'entrepôt
+Imported {0} DocTypes,DocTypes importés : {0}
+Importing Common Codes,Import des codes communs
+Importing {0} is not allowed.,L'import de {0} n'est pas autorisé.
+"Importing {0} of {1}, {2}","Import de {0} sur {1}, {2}"
+In House,En interne
+In List Filter,Dans le filtre de liste
+In Minutes,En minutes
+In Party Currency,En devise du tiers
+In Process,En cours de traitement
+In Process Limit,Limite en cours de traitement
+In Read Only Mode,En mode lecture seule
+In Transit Transfer,Transfert en transit
+In Transit Warehouse,Entrepôt en transit
+In mins,En min
+Inactive Status,Statut inactif
+Inbox View,Vue boîte de réception
+Include Account Currency,Inclure la devise du compte
+Include Closed Orders,Inclure les commandes fermées
+Include Company Descendants,Inclure les descendants de la société
+Include Default FB Assets,Inclure les actifs FB par défaut
+Include Disabled,Inclure les désactivés
+Include Expired Batches,Inclure les lots expirés
+Include Holidays,Inclure les jours fériés
+Include Name Field,Inclure le champ Nom
+Include Payment,Inclure le paiement
+Include Zero Stock Items,Inclure les articles à stock zéro
+Include filters,Inclure les filtres
+Include hidden columns,Inclure les colonnes masquées
+Include in Charts,Inclure dans les graphiques
+Included Fee,Frais inclus
+Incoming Call Settings,Paramètres d'appel entrant
+Incoming Emails (Last 7 days),E-mails entrants (7 derniers jours)
+Incoming Rate (Costing),Taux entrant (coût)
+Incompatible Setting Detected,Paramètre incompatible détecté
+Incorrect Batch Consumed,Lot consommé incorrect
+Incorrect Component Quantity,Quantité de composant incorrecte
+Incorrect Invoice,Facture incorrecte
+Incorrect Payment Type,Type de paiement incorrect
+Incorrect Stock Value Report,Rapport de valeur de stock incorrect
+Incorrect Type of Transaction,Type de transaction incorrect
+Incorrect value in row {0}:,Valeur incorrecte à la ligne {0} :
+Incorrect value:,Valeur incorrecte :
+Incoterm,Incoterm
+Increase In Asset Life(Months),Augmentation de la durée de vie de l'actif (mois)
+Indent Level,Niveau d'indentation
+Indexing authorization code,Code d'autorisation d'indexation
+Indexing refresh token,Jeton de rafraîchissement d'indexation
+Indicator color,Couleur d'indicateur
+Indirect Expense,Dépense indirecte
+Initialize Summary Table,Initialiser la table de résumé
+Initiate,Initier
+Insert Image in Markdown,Insérer une image en Markdown
+Insights Admin,Administrateur Insights
+Insights Alert,Alerte Insights
+Insights Chart,Graphique Insights
+Insights Chart v3,Graphique Insights v3
+Insights Dashboard,Tableau de bord Insights
+Insights Dashboard Chart v3,Graphique de tableau de bord Insights v3
+Insights Dashboard Item,Élément de tableau de bord Insights
+Insights Dashboard v3,Tableau de bord Insights v3
+Insights Data Source,Source de données Insights
+Insights Data Source v3,Source de données Insights v3
+Insights Folder,Dossier Insights
+Insights Notebook,Carnet Insights
+Insights Notebook Page,Page de carnet Insights
+Insights Query,Requête Insights
+Insights Query Chart,Graphique de requête Insights
+Insights Query Column,Colonne de requête Insights
+Insights Query Execution Log,Journal d'exécution de requête Insights
+Insights Query Result,Résultat de requête Insights
+Insights Query Table,Table de requête Insights
+Insights Query Transform,Transformation de requête Insights
+Insights Query Variable,Variable de requête Insights
+Insights Query v3,Requête Insights v3
+Insights Resource Permission,Permission de ressource Insights
+Insights Secret Key,Clé secrète Insights
+Insights Settings,Paramètres Insights
+Insights Table,Table Insights
+Insights Table Column,Colonne de table Insights
+Insights Table Import,Import de table Insights
+Insights Table Import Job,Travail d'import de table Insights
+Insights Table Import Log,Journal d'import de table Insights
+Insights Table Link,Lien de table Insights
+Insights Table Link v3,Lien de table Insights v3
+Insights Table v3,Table Insights v3
+Insights Team,Équipe Insights
+Insights Team Member,Membre d'équipe Insights
+Insights User,Utilisateur Insights
+Insights User Invitation,Invitation d'utilisateur Insights
+Insights Workbook,Classeur Insights
+Inspection Rejected,Inspection rejetée
+Inspection Submission,Soumission d'inspection
+Install Frappe HR,Installer Frappe HR
+Install {0} from Marketplace,Installer {0} depuis la place de marché
+Installments Overdue,Échéances en retard
+Instruction,Instruction
+Instructions Emailed,Instructions envoyées par e-mail
+Insufficient Stock for Batch,Stock insuffisant pour le lot
+Insufficient attachment limit,Limite de pièces jointes insuffisante
+Insurance,Assurance
+Integer,Entier
+Inter Company Purchase Order,Bon de commande inter-sociétés
+Inter Company Sales Order,Commande client inter-sociétés
+Interest Accounts,Comptes d'intérêts
+Interest Accrued Account,Compte d'intérêts courus
+Interest Adjustment,Ajustement d'intérêts
+Interest Amount is mandatory,Le montant des intérêts est obligatoire
+Interest Capitalization,Capitalisation des intérêts
+Interest Carry Forward,Report d'intérêts
+Interest Day-Count Convention,Convention de calcul des jours d'intérêts
+Interest Expense,Charge d'intérêts
+Interest Overdue,Intérêts en retard
+Interest Rate (%),Taux d'intérêt (%)
+Interest Treatment,Traitement des intérêts
+Interest Type,Type d'intérêts
+Interest Waiver Account,Compte de renonciation aux intérêts
+Interest Waiver Amount,Montant de renonciation aux intérêts
+Interest and/or dunning fee,Intérêts et/ou frais de relance
+Interest on Fixed Deposits,Intérêts sur dépôts à terme
+Intermediate,Intermédiaire
+Internal Foreclosure,Saisie interne
+Internal Purchase Order,Bon de commande interne
+Internal Sales Order,Commande client interne
+Internal Transfers,Transferts internes
+Interval,Intervalle
+Interview Scheduled Date,Date d'entretien planifiée
+Intro Video URL,URL de la vidéo d'introduction
+Introspection URI,URI d'introspection
+Invalid,Invalide
+Invalid Accrual Component,Composant d'accrual invalide
+Invalid Action,Action invalide
+Invalid Additional Salary,Salaire additionnel invalide
+Invalid Allocated Amount,Montant alloué invalide
+Invalid Amount,Montant invalide
+Invalid Arrear Component,Composant d'arriéré invalide
+Invalid Auto Repeat Date,Date de répétition automatique invalide
+Invalid Benefit Amounts,Montants d'avantages invalides
+Invalid Company Field,Champ Société invalide
+Invalid Condition: {},Condition invalide : {}
+Invalid Cost Center,Centre de coûts invalide
+Invalid Credentials,Identifiants invalides
+Invalid Dates,Dates invalides
+Invalid Delivery Date,Date de livraison invalide
+Invalid Discount,Remise invalide
+Invalid Discount Amount,Montant de remise invalide
+Invalid DocType,DocType invalide
+Invalid DocType: {0},DocType invalide : {0}
+Invalid Doctype,Doctype invalide
+Invalid Document,Document invalide
+Invalid Document Type,Type de document invalide
+Invalid Fieldname,Nom de champ invalide
+Invalid File URL,URL de fichier invalide
+Invalid Filter,Filtre invalide
+Invalid Formula,Formule invalide
+Invalid Group By,Group By invalide
+Invalid Item Defaults,Valeurs par défaut de l'article invalides
+Invalid LWP Days Reversed,Jours LWP inversés invalides
+Invalid Leave Ledger Entry,Écriture du grand livre des congés invalide
+Invalid Ledger Entries,Écritures du grand livre invalides
+Invalid Login. Try again.,Connexion invalide. Réessayez.
+Invalid Naming Series: {},Série de nommage invalide : {}
+Invalid Net Purchase Amount,Montant net d'achat invalide
+Invalid Operation,Opération invalide
+Invalid Override,Surcharge invalide
+Invalid Parameters.,Paramètres invalides.
+Invalid Phone Number,Numéro de téléphone invalide
+Invalid Primary Role,Rôle principal invalide
+Invalid Print Format,Format d'impression invalide
+Invalid Priority,Priorité invalide
+Invalid Purchase Invoice,Facture d'achat invalide
+Invalid Qty,Qté invalide
+Invalid Query,Requête invalide
+Invalid Return,Retour invalide
+Invalid Sales Invoices,Factures de vente invalides
+Invalid Schedule,Planning invalide
+Invalid Shift Times,Horaires d'équipe invalides
+Invalid Table Fieldname,Nom de champ de table invalide
+Invalid Transition,Transition invalide
+Invalid Values,Valeurs invalides
+Invalid Warehouse,Entrepôt invalide
+Invalid Webhook Secret,Secret webhook invalide
+Invalid aggregate function,Fonction d'agrégation invalide
+Invalid app,Application invalide
+Invalid docstatus,docstatus invalide
+Invalid field type: {0},Type de champ invalide : {0}
+Invalid file URL,URL de fichier invalide
+Invalid input,Entrée invalide
+Invalid key,Clé invalide
+Invalid request arguments,Arguments de requête invalides
+Invalid request body,Corps de requête invalide
+Invalid result key. Response:,Clé de résultat invalide. Réponse :
+Invalid role,Rôle invalide
+Invalid search query,Requête de recherche invalide
+Invalid values for fields:,Valeurs invalides pour les champs :
+Invalid wkhtmltopdf version,Version wkhtmltopdf invalide
+Invalid {0} dictionary format,Format de dictionnaire {0} invalide
+Inventory Account Currency,Devise du compte d'inventaire
+Inventory Dimension key,Clé de dimension d'inventaire
+Inventory Turnover Ratio,Ratio de rotation des stocks
+Inverse,Inverse
+Invitation already accepted,Invitation déjà acceptée
+Invitation already exists,L'invitation existe déjà
+Invitation cannot be cancelled,L'invitation ne peut pas être annulée
+Invitation is cancelled,L'invitation est annulée
+Invitation is expired,L'invitation a expiré
+Invitation not found,Invitation introuvable
+Invitation to join {0} expired,L'invitation à rejoindre {0} a expiré
+Invited By,Invité par
+Invoice ID,ID de facture
+Invoice Limit,Limite de facture
+Invoice Paid,Facture payée
+Invoice Portion (%),Portion de facture (%)
+Invoiced Amount (Excl. Tax),Montant facturé (HT)
+Invoiced Qty,Qté facturée
+Is Additional Item,Est un article supplémentaire
+Is Additional Transfer Entry,Est une écriture de transfert supplémentaire
+Is Allocated,Est alloué
+Is Alternative,Est alternatif
+Is Assisted Query,Est une requête assistée
+Is Backdated,Est antidaté
+Is Billing Contact,Est un contact de facturation
+Is Builder Query,Est une requête de constructeur
+Is Calendar and Gantt,Est calendrier et Gantt
+Is Cash or Non Trade Discount,Est une remise en espèces ou hors commerce
+Is Composite Asset,Est un actif composite
+Is Composite Component,Est un composant composite
+Is Corrective Job Card,Est une carte de travail corrective
+Is Corrective Operation,Est une opération corrective
+Is Current,Est courant
+Is Dynamic URL?,Est une URL dynamique ?
+Is Excess Amount Refund,Est un remboursement de montant excédentaire
+Is Exchange Gain / Loss?,Est un gain / une perte de change ?
+Is Expandable,Est extensible
+Is Expanded,Est étendu
+Is Expression,Est une expression
+Is Final Finished Good,Est un produit fini final
+Is Finished Item,Est un article fini
+Is Frappe Database,Est une base Frappe
+Is Fully Depreciated,Est entièrement amorti
+Is Group Warehouse,Est un entrepôt de groupe
+Is Half Day,Est une demi-journée
+Is NPA,Est un actif non performant
+Is Native Query,Est une requête native
+Is Old Subcontracting Flow,Est l'ancien flux de sous-traitance
+Is Packed,Est emballé
+Is Paused,Est en pause
+Is Phantom BOM,Est une nomenclature fantôme
+Is Phantom Item,Est un article fantôme
+Is Query Based,Est basé sur une requête
+Is Query Report,Est un rapport de requête
+Is Rejected,Est rejeté
+Is Rejected Warehouse,Est un entrepôt rejeté
+Is Remote Request?,Est une requête distante ?
+Is Salary Released,Le salaire est libéré
+Is Salary Withheld,Le salaire est retenu
+Is Saved as Table,Est enregistré comme table
+Is Script Query,Est une requête de script
+Is Security Amount Refund,Est un remboursement de montant de garantie
+Is Settlement Write Off,Est une passation en perte de règlement
+Is Setup Complete?,La configuration est-elle terminée ?
+Is Short/Long Year,Est une année courte/longue
+Is Site Database,Est la base du site
+Is Sub Assembly Item,Est un article de sous-assemblage
+Is Subcontracted Item,Est un article sous-traité
+Is Table Field,Est un champ de table
+Is Tax Withholding Account,Est un compte de retenue fiscale
+Is Virtual,Est virtuel
+Is Write Off Waiver,Est une renonciation à la passation en perte
+Is Written Off,Est passé en perte
+Is Your Company Address,Est l'adresse de votre société
+Is created using POS,Est créé à l'aide du PDV
+Is partial pre-paid interest,Est un intérêt prépayé partiel
+Is standard,Est standard
+Issue Analytics,Analyse des tickets
+Issue Summary,Résumé des tickets
+Italic Text,Texte en italique
+Item Cart,Panier d'articles
+Item Code (Final Product),Code article (produit final)
+Item Code > Item Group > Brand,Code article > Groupe d'articles > Marque
+Item Group wise Discount,Remise par groupe d'articles
+Item Information,Informations sur l'article
+Item Lead Time,Délai de l'article
+Item Out of Stock,Article en rupture de stock
+Item Reference,Référence d'article
+Item Row,Ligne d'article
+Item Wise Tax Details,Détails fiscaux par article
+Item and Warehouse,Article et entrepôt
+Item to Manufacture,Article à fabriquer
+Item {0} not found.,Article {0} introuvable.
+Item {} does not exist.,L'article {} n'existe pas.
+Items not found.,Articles introuvables.
+Items to Be Repost,Articles à retransmettre
+Items to Reserve,Articles à réserver
+JS Message,Message JS
+Jane Doe,Jane Doe
+Javascript,Javascript
+Jinja,Jinja
+Job Capacity,Capacité du travail
+Job Card and Capacity Planning,Carte de travail et planification de capacité
+Job Cards,Cartes de travail
+Job ID,ID du travail
+Job Id,ID du travail
+Job Info,Infos du travail
+Job Name,Nom du travail
+Job Opening Template,Modèle d'offre d'emploi
+Job Paused,Travail en pause
+Job Status,Statut du travail
+Job Stopped Successfully,Travail arrêté avec succès
+Job Worker,Sous-traitant
+Job Worker Address,Adresse du sous-traitant
+Job Worker Address Details,Détails de l'adresse du sous-traitant
+Job Worker Contact,Contact du sous-traitant
+Job Worker Currency,Devise du sous-traitant
+Job Worker Delivery Note,Bon de livraison du sous-traitant
+Job Worker Name,Nom du sous-traitant
+Job Worker Warehouse,Entrepôt du sous-traitant
+Job is not running.,Le travail n'est pas en cours d'exécution.
+Job stopped successfully,Travail arrêté avec succès
+Join,Rejoindre
+Join video conference with {0},Rejoindre la visioconférence avec {0}
+Joining,Embauche
+KYC Complete,KYC complété
+KYC Pending,KYC en attente
+Kanban Settings,Paramètres Kanban
+Kanban View,Vue Kanban
+Keep Closed,Garder fermé
+Keep track of all update feeds,Suivre tous les flux de mise à jour
+LDAP Auth,Authentification LDAP
+LDAP Custom Settings,Paramètres LDAP personnalisés
+LDAP Group Member attribute,Attribut membre de groupe LDAP
+LDAP Search and Paths,Recherche et chemins LDAP
+LDAP Server Settings,Paramètres du serveur LDAP
+LDAP search path for Groups,Chemin de recherche LDAP pour les groupes
+LDAP search path for Users,Chemin de recherche LDAP pour les utilisateurs
+Landed Cost Id,ID du coût rendu
+Landed Cost Report,Rapport de coût rendu
+Landed Cost Vendor Invoice,Facture fournisseur de coût rendu
+Last 10 active users,10 derniers utilisateurs actifs
+Last 14 Days,14 derniers jours
+Last 30 Days,30 derniers jours
+Last 6 Months,6 derniers mois
+Last 7 Days,7 derniers jours
+Last 90 Days,90 derniers jours
+Last Accrual Date,Date du dernier accrual
+Last Edited by You,Dernière modification par vous
+Last Edited by {0},Dernière modification par {0}
+Last Executed On,Dernière exécution le
+Last Heartbeat,Dernier battement
+Last Log,Dernier journal
+Last Modified Date,Date de dernière modification
+Last Received At,Dernière réception le
+Last Scanned Warehouse,Dernier entrepôt scanné
+Last Status,Dernier statut
+Last transacted,Dernière transaction
+Latest Price,Dernier prix
+Layout Reset,Disposition réinitialisée
+Lead -> Prospect,Prospect -> Suspect
+Learn more,En savoir plus
+Leave Adjustment,Ajustement de congé
+Leave Allocation Exists,L'allocation de congé existe
+Leave Ledger,Grand livre des congés
+Leave Type is mandatory,Le type de congé est obligatoire
+Leaves After Adjustment,Congés après ajustement
+Leaves Expired,Congés expirés
+Leaves to Adjust,Congés à ajuster
+Ledger Health,Santé du grand livre
+Ledger Health Monitor,Moniteur de santé du grand livre
+Ledger Health Monitor Company,Société du moniteur de santé du grand livre
+Ledger Merge,Fusion de grand livre
+Ledger Merge Accounts,Comptes de fusion de grand livre
+Ledger Type,Type de grand livre
+Left Bottom,En bas à gauche
+Left Center,Centre gauche
+Left Child,Enfant gauche
+Left Column,Colonne gauche
+Left Table,Table gauche
+Legacy,Hérité
+Legacy Fields,Champs hérités
+Legal,Légal
+Legend,Légende
+Lending,Prêts
+Less,Moins
+Less Than Or Equal To,Inférieur ou égal à
+Let's set up your account,Configurons votre compte
+Letter Head Scripts,Scripts d'en-tête de lettre
+Level (BOM),Niveau (nomenclature)
+Light Blue,Bleu clair
+Light Theme,Thème clair
+Liked by me,Aimé par moi
+Limit Amount,Montant limite
+Limit Applicable End,Fin de l'applicabilité de la limite
+Limit Applicable Start,Début de l'applicabilité de la limite
+Limit Percent,Pourcentage de limite
+Limit Renewal,Renouvellement de la limite
+Limits,Limites
+Limits don't apply on,Les limites ne s'appliquent pas à
+Line Reference,Référence de ligne
+Line of Credit,Ligne de crédit
+Link Count,Nombre de liens
+Link Details,Détails du lien
+Link Field Results Limit,Limite de résultats des champs de lien
+Link Fieldname,Nom de champ de lien
+Link Filters,Filtres de lien
+Link To in Row,Lien vers dans la ligne
+Link Type in Row,Type de lien dans la ligne
+Link a new bank account,Lier un nouveau compte bancaire
+Link with Customer,Lier au client
+Link with Supplier,Lier au fournisseur
+Linked Charts,Graphiques liés
+Linked Queries,Requêtes liées
+Linked with {0},Lié à {0}
+Linking Failed,Échec de la liaison
+Liquidity Ratios,Ratios de liquidité
+List / Search Settings,Paramètres de liste / recherche
+List of patches executed,Liste des correctifs exécutés
+List setting message,Message de paramètre de liste
+Lists,Listes
+Load More Communications,Charger plus de communications
+Load more,Charger plus
+Loading Filters...,Chargement des filtres...
+Loading import file...,Chargement du fichier d'import...
+Loading versions...,Chargement des versions...
+Loan Account is mandatory,Le compte de prêt est obligatoire
+Loan Accounts,Comptes de prêt
+Loan Accrual Frequency,Fréquence d'accrual du prêt
+Loan Accrual Repost,Retransmission d'accrual de prêt
+Loan Accrual Repost Detail,Détail de retransmission d'accrual de prêt
+Loan Adjustment,Ajustement de prêt
+Loan Adjustment Detail,Détail d'ajustement de prêt
+Loan Amount Details,Détails du montant du prêt
+Loan Amount Percentage,Pourcentage du montant du prêt
+Loan Application Document,Document de demande de prêt
+Loan Booking,Comptabilisation du prêt
+Loan Category Code,Code de catégorie de prêt
+Loan Category Name,Nom de catégorie de prêt
+Loan Charge Reference,Référence de frais de prêt
+Loan Classification Details,Détails de classification du prêt
+Loan Classification Ranges,Plages de classification du prêt
+Loan Closure,Clôture de prêt
+Loan Co-Applicants,Co-demandeurs du prêt
+Loan Credit Limits,Limites de crédit du prêt
+Loan Date,Date du prêt
+Loan Defaults,Défauts de prêt
+Loan Demand Details,Détails de la demande de prêt
+Loan Demand Offset Detail,Détail de compensation de demande de prêt
+Loan Demand Offset Order,Ordre de compensation de demande de prêt
+Loan Disbursement Charge,Frais de décaissement de prêt
+Loan Disbursement Charges,Frais de décaissement de prêt
+Loan Freeze Log,Journal de gel de prêt
+Loan LOS User,Utilisateur LOS de prêt
+Loan NPA Log,Journal NPA de prêt
+Loan Origination,Origination de prêt
+Loan Origination Settings,Paramètres d'origination de prêt
+Loan Outstanding Report,Rapport d'encours de prêt
+Loan Partner Address,Adresse du partenaire de prêt
+Loan Partner Details,Détails du partenaire de prêt
+Loan Partner Interest Rate,Taux d'intérêt du partenaire de prêt
+Loan Partner Payment Ratio,Ratio de paiement du partenaire de prêt
+Loan Partner Rate Of Interest,Taux d'intérêt du partenaire de prêt
+Loan Partner Share Details,Détails de part du partenaire de prêt
+Loan Partner Share Percentage,Pourcentage de part du partenaire de prêt
+Loan Partner Shareable,Partageable avec partenaire de prêt
+Loan Partners,Partenaires de prêt
+Loan Product Loan Partner,Produit de prêt Partenaire de prêt
+Loan Repayment Charges,Frais de remboursement de prêt
+Loan Repayment Entries,Écritures de remboursement de prêt
+Loan Repayment Repost,Retransmission de remboursement de prêt
+Loan Repayment Repost Detail,Détail de retransmission de remboursement de prêt
+Loan Repayment Type,Type de remboursement de prêt
+Loan Restructure Count,Nombre de restructurations du prêt
+Loan Restructure Details,Détails de restructuration du prêt
+Loan Restructure Limit Log,Journal de limite de restructuration de prêt
+Loan Security Assignment,Affectation de garantie de prêt
+Loan Security Deposit,Dépôt de garantie de prêt
+Loan Security Exposure,Exposition de garantie de prêt
+Loan Security Ledger,Grand livre des garanties de prêt
+Loan Security Release,Libération de garantie de prêt
+Loan Security Release Error,Erreur de libération de garantie de prêt
+Loan To Value ratio breach,Violation du ratio prêt/valeur
+Loan Transfer,Transfert de prêt
+Loan Transfer Detail,Détail de transfert de prêt
+Loan is a Non Performing Asset,Le prêt est un actif non performant
+Loan {0} closed,Prêt {0} clôturé
+Log API Requests,Journaliser les requêtes API
+Log DocType,Journaliser le DocType
+Log Entries,Écritures de journal
+Log In To {0},Connexion à {0}
+Log Index,Index du journal
+Log out,Déconnexion
+Login Failed,Échec de la connexion
+Login Failed please try again,Échec de la connexion. Veuillez réessayer.
+Login Methods,Méthodes de connexion
+Login Page,Page de connexion
+Login To {0},Connexion à {0}
+Login link sent to your email,Lien de connexion envoyé à votre e-mail
+Login required,Connexion requise
+Login to view,Se connecter pour voir
+Login token required,Jeton de connexion requis
+Login with Email Link,Se connecter avec un lien e-mail
+Login with Frappe Cloud,Se connecter avec Frappe Cloud
+Login with email link,Se connecter avec un lien e-mail
+Login with {0},Se connecter avec {0}
+Logo URI,URI du logo
+Logo URL,URL du logo
+Logs To Clear,Journaux à effacer
+Logs to Clear,Journaux à effacer
+Long Int,Entier long
+Long-term Provisions,Provisions à long terme
+Longitude,Longitude
+Lost Quotations %,% de devis perdus
+Lost Value,Valeur perdue
+Lost Value %,% de valeur perdue
+Monday,Lundi
+Thursday,Jeudi

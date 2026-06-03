@@ -1,0 +1,176 @@
+source,traduction
+% Of Applicant Portfolio,% du portefeuille du demandeur
+% Of Total Portfolio,% du portefeuille total
+% Produced,% produit
+% Raw Material Received,% de matières premières reçues
+% Raw Material Returned,% de matières premières retournées
+'{0}' is not a valid IBAN,'{0}' n'est pas un IBAN valide
+(none),(aucun)
+1 Report,1 rapport
+1 of 2,1 sur 2
+1 row from {0},1 ligne depuis {0}
+1 row to {0},1 ligne vers {0}
+5 days ago,il y a 5 jours
+<b>{0}</b> is not a valid URL,<b>{0}</b> n'est pas une URL valide
+<h5>Unmarked Employees</h5>,<h5>Employés non marqués</h5>
+ALM Audit Report,Rapport d'audit ALM
+About Us Settings,Paramètres À propos
+About {0} minute remaining,Environ {0} minute restante
+About {0} minutes remaining,Environ {0} minutes restantes
+About {0} seconds remaining,Environ {0} secondes restantes
+Account {0} is disabled.,Le compte {0} est désactivé.
+Additional Interest Accounts ,Comptes d'intérêts supplémentaires
+Against Customer Order {0},Contre la commande client {0}
+Against Supplier Invoice {0},Contre la facture fournisseur {0}
+Allocation,Allocation
+Allowed Public Client Origins,Origines client public autorisées
+Applicable Salary Components,Composantes de salaire applicables
+Applicant ,Demandeur
+Apps,Applications
+Are you sure you want to {0}?,Êtes-vous sûr de vouloir {0} ?
+Ask,Demander
+Asset issued to Employee {0},Actif émis à l'employé {0}
+Attribution,Attribution
+Auto Write Off Amount ,Montant de passation par pertes automatique
+BCC,Cci
+BIN Qty,Qté BIN
+BOM UOM,UDM nomenclature
+BPI Amount Difference,Différence de montant IPB
+BPI Difference Date,Date de différence IPB
+BPI Recovery Method,Méthode de recouvrement IPB
+BPI difference entry,Écriture de différence IPB
+Base Total Costing Amount,Montant total de coût de base
+Based On,Basé sur
+Basic Authentication,Authentification basique
+Basic Info,Informations de base
+Batch Qty updated to {0},Qté de lot mise à jour à {0}
+Batchwise Valuation,Valorisation par lot
+Before Discard,Avant rejet
+Before Import Script,Script avant import
+Before Print,Avant impression
+Before Rename,Avant renommage
+Before Validate,Avant validation
+Beginner,Débutant
+Benefit Amount,Montant de l'avantage
+Benefit Details,Détails de l'avantage
+Bi-Weekly,Bihebdomadaire
+BigQuery Configuration,Configuration BigQuery
+BigQuery Dataset ID,ID de jeu de données BigQuery
+BigQuery Project ID,ID de projet BigQuery
+"Billed, Received & Returned","Facturé, reçu et retourné"
+Billing Contact,Contact de facturation
+Bin Qty Recalculated,Qté bin recalculée
+Binary Logging,Journalisation binaire
+Bisect Accounting Statements,Bissecter les états comptables
+Bisect Left,Bissecter à gauche
+Bisect Nodes,Bissecter les nœuds
+Bisect Right,Bissecter à droite
+Bisecting From,Bissection depuis
+Bisecting Left ...,Bissection à gauche ...
+Bisecting Right ...,Bissection à droite ...
+Bisecting To,Bissection vers
+Biweekly,Bihebdomadaire
+Blank Line,Ligne vide
+Blanket Order Allowance (%),Tolérance de commande globale (%)
+Blue,Bleu
+Boarding Status,Statut d'intégration
+Bold Text,Texte en gras
+Bot,Robot
+Bottom Center,Bas centre
+Bottom Left,Bas gauche
+Bottom Right,Bas droite
+Branch Details,Détails de la branche
+Broken Period Interest,Intérêts de période rompue
+Broken Period Interest Days,Jours d'intérêts de période rompue
+Bucket Size,Taille du compartiment
+Budget Amount can not be {0}.,Le montant du budget ne peut pas être {0}.
+Budget Distribution,Distribution du budget
+Budget Distribution Total,Total de distribution du budget
+Budget End Date,Date de fin du budget
+Budget Limit Exceeded,Limite budgétaire dépassée
+Budget Start Date,Date de début du budget
+Buffer Time,Temps de tampon
+Buffered Cursor,Curseur tamponné
+Bufferpool Size,Taille du pool de tampons
+Build All?,Tout construire ?
+Build Tree,Construire l'arbre
+Buildable Qty,Qté constructible
+Built on {0},Construit sur {0}
+Bulk Actions,Actions en masse
+Bulk Assignments,Affectations en masse
+Bulk Enqueue,Mise en file d'attente en masse
+Bulk Enqueue Import Job,Mise en file d'attente d'import en masse
+Bulk Enqueue Progress,Progression de la mise en file d'attente en masse
+Bulk Operation Failed,Opération en masse échouée
+Bulk Operation Successful,Opération en masse réussie
+Bulk PDF Export,Export PDF en masse
+Bulk Rename Jobs,Travaux de renommage en masse
+Bulk Repayment Log,Journal de remboursement en masse
+Bulk Transaction,Transaction en masse
+Bulk Transaction Log,Journal de transaction en masse
+Bulk Transaction Log Detail,Détail du journal de transaction en masse
+Bundle Items,Articles groupés
+Button Color,Couleur du bouton
+Buyer of Goods and Services.,Acheteur de biens et services.
+Buying & Selling Settings,Paramètres d'achat et de vente
+"By ""Naming Series"" field","Par champ ""Série de nommage"""
+By fieldname,Par nom de champ
+By script,Par script
+COGS By Item Group,CMV par groupe d'articles
+COGS Debit,Débit CMV
+COLOR PICKER,SÉLECTEUR DE COULEUR
+CRM Note,Note CRM
+Cache,Cache
+Calculate Ageing With,Calculer l'antériorité avec
+Calculated Amount,Montant calculé
+Calculated Discount Mismatch,Incohérence de remise calculée
+Call Handling Schedule,Planification de gestion d'appels
+Call Receiving Device,Appareil de réception d'appels
+Call Routing,Routage d'appels
+Call Summary Saved,Résumé d'appel enregistré
+Callback,Rappel
+Campaign Item,Article de campagne
+Campaign {0} not found,Campagne {0} introuvable
+Canal,Canal
+Cancel future EMI Demands,Annuler les demandes d'échéances futures
+Cancellation Date,Date d'annulation
+Cannot Assign Cashier,Impossible d'assigner le caissier
+Cannot Create Return,Impossible de créer le retour
+Cannot Fetch Values,Impossible de récupérer les valeurs
+Cannot Modify Time,Impossible de modifier l'heure
+Cannot Update After Submit,Impossible de mettre à jour après soumission
+Cannot access file path {0},Impossible d'accéder au chemin de fichier {0}
+Cannot cancel {0}.,Impossible d'annuler {0}.
+Cannot edit Standard charts,Impossible de modifier les graphiques standards
+Cannot find file {} on disk,Impossible de trouver le fichier {} sur le disque
+Cannot submit {0}.,Impossible de soumettre {0}.
+Cannot use sub-query here.,Impossible d'utiliser une sous-requête ici.
+Cannot {0} {1}.,Impossible de {0} {1}.
+Capacity (In Days),Capacité (en jours)
+Capacity (Stock UOM),Capacité (UDM stock)
+Capital Equipment,Équipement capital
+Capitalize,Capitaliser
+Capitalize Asset,Capitaliser l'actif
+Capitalize Repair Cost,Capitaliser le coût de réparation
+Capitalized,Capitalisé
+Capture,Capturer
+Card Break,Saut de carte
+Card Links,Liens de carte
+Cardinality,Cardinalité
+Carrier Service,Service de transporteur
+Categorize by Account,Catégoriser par compte
+Categorize by Party,Catégoriser par tiers
+Categorize by Supplier,Catégoriser par fournisseur
+Categorize by Voucher,Catégoriser par pièce
+Category Details,Détails de la catégorie
+Centralized,Centralisé
+Change Date,Changer la date
+Change Image,Changer l'image
+Change Letter Head,Changer l'en-tête de lettre
+Change Print Format,Changer le format d'impression
+Change in Stock Value,Changement de la valeur de stock
+Changed at,Modifié le
+Changed by,Modifié par
+Changelog Feed,Flux du journal des modifications
+Charge,Charger
+Charge Accounts,Comptes de charges

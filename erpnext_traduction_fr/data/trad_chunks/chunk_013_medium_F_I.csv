@@ -1,0 +1,120 @@
+source,traduction
+Failed to enable scheduler: {0},Échec de l'activation du planificateur : {0}
+Failed to erase demo data, please delete the demo company manually.,Échec de l'effacement des données de démo, veuillez supprimer manuellement la société de démo.
+Failed to generate names from the series,Échec de la génération des noms depuis la série
+Failed to generate preview of series,Échec de la génération de l'aperçu de la série
+Failed to parse MT940 format. Error: {0},Échec de l'analyse du format MT940. Erreur : {0}
+Failed to post depreciation entries,Échec de la comptabilisation des écritures d'amortissement
+Failed to request login to Frappe Cloud,Échec de la demande de connexion à Frappe Cloud
+Failed to send email for campaign {0} to {1},Échec de l'envoi de l'e-mail pour la campagne {0} à {1}
+Failed to send email with subject:,Échec de l'envoi de l'e-mail avec le sujet :
+Failed to send notification email,Échec de l'envoi de l'e-mail de notification
+Failed to setup defaults for country {0}.,Échec de la configuration des valeurs par défaut pour le pays {0}.
+Failed to setup defaults for country {0}. Please contact support.,Échec de la configuration des valeurs par défaut pour le pays {0}. Veuillez contacter le support.
+Failed to update global settings,Échec de la mise à jour des paramètres globaux
+Failed to {0} {1} for employees:,Échec de {0} {1} pour les employés :
+Failure of Automatic Allocation of Earned Leaves,Échec de l'allocation automatique des congés acquis
+Fetch Timesheet in Sales Invoice,Récupérer la feuille de temps dans la facture de vente
+Fetch Valuation Rate for Internal Transaction,Récupérer le taux de valorisation pour la transaction interne
+Field '{0}' is not a valid Company link field for DocType {1},Le champ '{0}' n'est pas un champ de lien Société valide pour le DocType {1}
+Field {0} does not exist on {1},Le champ {0} n'existe pas sur {1}
+Field {0} is referring to non-existing doctype {1}.,Le champ {0} fait référence au doctype inexistant {1}.
+Field {0} must be a virtual field to support virtual doctype.,Le champ {0} doit être un champ virtuel pour prendre en charge le doctype virtuel.
+Fieldname {0} appears multiple times,Le nom de champ {0} apparaît plusieurs fois
+Fields `file_name` or `file_url` must be set for File,Les champs `file_name` ou `file_url` doivent être définis pour le fichier
+File "{0}" was skipped because of invalid file type,Le fichier "{0}" a été ignoré en raison d'un type de fichier invalide
+File "{0}" was skipped because size exceeds {1} MB,Le fichier "{0}" a été ignoré car sa taille dépasse {1} Mo
+File does not belong to this Transaction Deletion Record,Le fichier n'appartient pas à cet enregistrement de suppression de transaction
+File type of {0} is not allowed,Le type de fichier de {0} n'est pas autorisé
+Filter condition missing after operator: {0},Condition de filtre manquante après l'opérateur : {0}
+Financial Report Template {0} is disabled,Le modèle de rapport financier {0} est désactivé
+Financial Report Template {0} not found,Le modèle de rapport financier {0} est introuvable
+Finished Good Item is not specified for service item {0},L'article de produit fini n'est pas spécifié pour l'article de service {0}
+Finished Good Item {0} Qty can not be zero,La qté de l'article de produit fini {0} ne peut pas être zéro
+Finished Good Item {0} must be a sub-contracted item,L'article de produit fini {0} doit être un article sous-traité
+Finished Good {0} does not have a default BOM.,Le produit fini {0} n'a pas de nomenclature par défaut.
+Finished Good {0} must be a stock item.,Le produit fini {0} doit être un article en stock.
+Finished Good {0} must be a sub-contracted item.,Le produit fini {0} doit être un article sous-traité.
+Finished Item {0} does not match with Work Order {1},L'article fini {0} ne correspond pas à l'ordre de travail {1}
+Fiscal Year {0} is not available for Company {1}.,L'exercice fiscal {0} n'est pas disponible pour la société {1}.
+Fixed Asset item {0} cannot be used in BOMs.,L'article immobilisé {0} ne peut pas être utilisé dans les nomenclatures.
+Flat Interest Rate loans cannot have 'Repay Fixed Amount per Period' repayment method,Les prêts à taux fixe ne peuvent pas avoir la méthode de remboursement 'Montant fixe par période'
+Following Report Filters have missing values:,Les filtres de rapport suivants ont des valeurs manquantes :
+Following fields have invalid values:,Les champs suivants ont des valeurs invalides :
+Following fields have missing values,Les champs suivants ont des valeurs manquantes
+For Item {0} cannot be received more than {1} qty against the {2} {3},Pour l'article {0}, la qté reçue ne peut pas dépasser {1} contre le {2} {3}
+For item {0}, rate must be a positive number. To Allow negative rates, enable {1} in {2},Pour l'article {0}, le taux doit être un nombre positif. Pour autoriser les taux négatifs, activez {1} dans {2}
+For operation {0} at row {1}, please add raw materials or set a BOM against it.,Pour l'opération {0} à la ligne {1}, veuillez ajouter des matières premières ou définir une nomenclature.
+For operation {0}: Quantity ({1}) can not be greater than pending quantity({2}),Pour l'opération {0} : la quantité ({1}) ne peut pas être supérieure à la quantité en attente ({2})
+For quantity {0} should not be greater than allowed quantity {1},Pour la quantité {0} ne doit pas être supérieure à la quantité autorisée {1}
+For the item {0}, the consumed quantity should be {1} according to the BOM {2}.,Pour l'article {0}, la quantité consommée devrait être {1} selon la nomenclature {2}.
+Force Re-route to Default View,Forcer la redirection vers la vue par défaut
+From Date and To Date are required,La date de début et la date de fin sont requises
+From Date {0} cannot be after Payroll Period end date {1},La date de début {0} ne peut pas être après la date de fin de la période de paie {1}
+From Date {0} cannot be before Payroll Period start date {1},La date de début {0} ne peut pas être avant la date de début de la période de paie {1}
+From Date: {0} cannot be greater than To date: {1},La date de début : {0} ne peut pas être supérieure à la date de fin : {1}
+From Fiscal Year cannot be greater than To Fiscal Year,L'exercice de début ne peut pas être supérieur à l'exercice de fin
+From and To dates are required,Les dates de début et de fin sont requises
+From and to dates are mandatory for recurring type additional salaries.,Les dates de début et de fin sont obligatoires pour les salaires supplémentaires de type récurrent.
+Function {0} requires arguments but none were provided,La fonction {0} nécessite des arguments mais aucun n'a été fourni
+Further sub-groups can only be created under records marked as 'Group',Les sous-groupes ne peuvent être créés que sous des enregistrements marqués comme 'Groupe'
+General and Payment Ledger Comparison,Comparaison du grand livre général et du grand livre des paiements
+General and Payment Ledger mismatch,Incohérence entre le grand livre général et le grand livre des paiements
+Generate Demo Data for Exploration,Générer des données de démo pour l'exploration
+Generate Separate Documents For Each Assignee,Générer des documents séparés pour chaque destinataire
+Generating Master Production Schedule...,Génération du plan directeur de production...
+Geolocation is not supported by your current browser,La géolocalisation n'est pas prise en charge par votre navigateur
+Get Finished Goods for Manufacture,Récupérer les produits finis pour la fabrication
+Get Items for Purchase / Transfer,Récupérer les articles pour l'achat / le transfert
+Get Raw Materials Cost from Consumption Entry,Obtenir le coût des matières premières depuis l'écriture de consommation
+Get notified when an email is received on any of the documents assigned to you.,Être notifié lorsqu'un e-mail est reçu sur l'un des documents qui vous sont affectés.
+Give free item for every N quantity,Donner un article gratuit pour chaque quantité N
+Go to Notification Settings List,Aller à la liste des paramètres de notification
+Grand Total (Transaction Currency),Total général (devise de transaction)
+Half Day Marked Employee Header,En-tête de l'employé marqué demi-journée
+Header/Footer scripts can be used to add dynamic behaviours.,Les scripts d'en-tête/pied de page peuvent être utilisés pour ajouter des comportements dynamiques.
+Heads (or groups) against which Accounting Entries are made and balances are maintained.,Têtes (ou groupes) contre lesquels les écritures comptables sont effectuées et les soldes maintenus.
+Helps you distribute the Budget/Target across months if you have seasonality in your business.,Vous aide à distribuer le Budget/Objectif sur les mois si votre activité est saisonnière.
+Here are the error logs for the aforementioned failed depreciation entries: {0},Voici les journaux d'erreurs pour les écritures d'amortissement échouées susmentionnées : {0}
+Here are the options to proceed:,Voici les options pour continuer :
+Hidden columns include: <br> {0},Les colonnes masquées incluent : <br> {0}
+Hide this line if amount is zero,Masquer cette ligne si le montant est zéro
+Holiday Date {0} added multiple times,La date de jour férié {0} est ajoutée plusieurs fois
+How often should Project be updated of Total Purchase Cost ?,À quelle fréquence le projet doit-il être mis à jour avec le coût total d'achat ?
+IDs must contain only alphanumeric characters, not contain spaces, and should be unique.,Les IDs ne doivent contenir que des caractères alphanumériques, sans espaces, et doivent être uniques.
+IMPORTANT: Create a backup before proceeding!,IMPORTANT : Créez une sauvegarde avant de continuer !
+Icon is not correctly configured please check the workspace sidebar to it,L'icône n'est pas correctement configurée, veuillez vérifier la barre latérale de l'espace de travail
+If a Role does not have access at Level 0, then higher levels are meaningless.,Si un rôle n'a pas accès au niveau 0, les niveaux supérieurs sont inutiles.
+If an operation is divided into sub operations, they can be added here.,Si une opération est divisée en sous-opérations, elles peuvent être ajoutées ici.
+If checked, Rejected Quantity will be included while making Purchase Invoice from Purchase Receipt.,Si coché, la quantité rejetée sera incluse lors de la création d'une facture d'achat depuis un bon de réception.
+Include Shift Attendance Without Checkins,Inclure la présence aux équipes sans pointages
+Income Tax Slab is mandatory since the Salary Structure {0} has a tax component {1},La tranche d'imposition est obligatoire car la structure salariale {0} a un composant fiscal {1}
+Incoming Call Handling Schedule,Calendrier de gestion des appels entrants
+Incorrect Check in (group) Warehouse for Reorder,Entrepôt de vérification (groupe) incorrect pour le réapprovisionnement
+Incorrect Reference Document (Purchase Receipt Item),Document de référence incorrect (article du bon de réception)
+Incorrect Serial Number Consumed,Numéro de série consommé incorrect
+Incorrect Serial and Batch Bundle,Lot de série et lot incorrect
+Incorrect repayment type, please write off the loan first,Type de remboursement incorrect, veuillez d'abord passer le prêt en perte
+Index created successfully on column {0} of doctype {1},Index créé avec succès sur la colonne {0} du doctype {1}
+Individual GL Entry cannot be cancelled.,Une écriture GL individuelle ne peut pas être annulée.
+Individual Stock Ledger Entry cannot be cancelled.,Une écriture du grand livre de stock individuelle ne peut pas être annulée.
+Insufficient Permission Level for {0},Niveau de permission insuffisant pour {0}
+Insufficient Permissions for deleting Report,Permissions insuffisantes pour supprimer le rapport
+Insufficient Permissions for editing Report,Permissions insuffisantes pour modifier le rapport
+Insufficient Stock for Product Bundle Items,Stock insuffisant pour les articles du bundle de produits
+Interest Income Account is mandatory,Le compte de produits d'intérêts est obligatoire
+Interest Receivable Account is mandatory,Le compte de créances d'intérêts est obligatoire
+Interest Waiver Account is mandatory,Le compte de renonciation aux intérêts est obligatoire
+Interest Waiver Amount cannot be greater than overdue interest,Le montant de renonciation aux intérêts ne peut pas être supérieur aux intérêts en retard
+Interest accrued from {0} to {1} against loan: {2},Intérêts accruals du {0} au {1} sur le prêt : {2}
+Internal Customer for company {0} already exists,Le client interne pour la société {0} existe déjà
+Internal Supplier for company {0} already exists,Le fournisseur interne pour la société {0} existe déjà
+Internal transfers can only be done in company's default currency,Les transferts internes ne peuvent être effectués qu'en devise par défaut de la société
+Invalid Credentials for Email Account: {0},Identifiants invalides pour le compte e-mail : {0}
+Invalid Loan Disbursement linked for payment,Décaissement de prêt invalide lié au paiement
+Invalid Outgoing Mail Server or Port: {0},Serveur de courrier sortant ou port invalide : {0}
+Invalid Process Loss Configuration,Configuration de pertes de processus invalide
+Invalid Serial and Batch Bundle,Lot de série et lot invalide
+Invalid Source and Target Warehouse,Entrepôts source et cible invalides
+Invalid amount in accounting entries of {} {} for Account {}: {},Montant invalide dans les écritures comptables de {} {} pour le compte {} : {}
+Invalid filter formula. Please check the syntax.,Formule de filtre invalide. Veuillez vérifier la syntaxe.

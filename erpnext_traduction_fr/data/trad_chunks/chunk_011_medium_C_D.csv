@@ -1,0 +1,102 @@
+source,traduction
+Can not close Work Order. Since {0} Job Cards are in Work In Progress state.,Impossible de fermer l'ordre de travail. {0} cartes de travail sont en cours d'exécution.
+Can not filter based on Child Account if grouped by Account,Impossible de filtrer par compte enfant si groupé par compte
+Cannot Change Inventory Account Setting,Impossible de modifier le paramètre de compte d'inventaire
+Cannot Download Report due to insufficient permissions,Impossible de télécharger le rapport en raison de permissions insuffisantes
+Cannot allocate more leaves due to maximum leave allocation limit of {0} in leave policy assignment,Impossible d'allouer plus de congés car la limite d'allocation de {0} est atteinte dans la politique de congés
+Cannot amend {0} {1}, please create a new one instead.,Impossible de modifier {0} {1}, veuillez en créer un nouveau.
+Cannot apply TDS against multiple parties in one entry,Impossible d'appliquer le TDS contre plusieurs tiers dans une seule écriture
+Cannot break shift after end date,Impossible de couper l'équipe après la date de fin
+Cannot break shift before start date,Impossible de couper l'équipe avant la date de début
+Cannot cancel POS Closing Entry,Impossible d'annuler l'écriture de clôture PDV
+Cannot cancel as processing of cancelled documents is pending.,Impossible d'annuler car le traitement des documents annulés est en attente.
+Cannot change Reference Document Type.,Impossible de modifier le type de document de référence.
+Cannot close loan as there is an outstanding of {0},Impossible de clôturer le prêt car il y a un solde de {0}
+Cannot close this loan until full repayment,Impossible de clôturer ce prêt avant remboursement complet
+Cannot create Stock Reservation Entries for future dated Purchase Receipts.,Impossible de créer des écritures de réservation de stock pour les bons de réception futurs.
+Cannot create accounting entries against disabled accounts: {0},Impossible de créer des écritures comptables sur des comptes désactivés : {0}
+Cannot create private workspace of other users,Impossible de créer un espace de travail privé pour d'autres utilisateurs
+Cannot create return for consolidated invoice {0}.,Impossible de créer un retour pour la facture consolidée {0}.
+Cannot delete Desktop Icon '{0}' as it is restricted,Impossible de supprimer l'icône bureau '{0}' car elle est restreinte
+Cannot delete Exchange Gain/Loss row,Impossible de supprimer la ligne de gain/perte de change
+Cannot delete an item which has been ordered,Impossible de supprimer un article qui a été commandé
+Cannot delete protected core DocType: {0},Impossible de supprimer le DocType noyau protégé : {0}
+Cannot delete standard document state.,Impossible de supprimer l'état de document standard.
+Cannot delete virtual DocType: {0}. Virtual DocTypes do not have database tables.,Impossible de supprimer le DocType virtuel : {0}. Les DocTypes virtuels n'ont pas de tables de base de données.
+Cannot disassemble more than produced quantity.,Impossible de désassembler plus que la quantité produite.
+Cannot edit Standard Dashboards,Impossible de modifier les tableaux de bord standard
+Cannot edit filters for standard number cards,Impossible de modifier les filtres des cartes numériques standard
+Cannot enable {0} for a non-submittable doctype,Impossible d'activer {0} pour un doctype non soumissible
+Cannot find Item or Warehouse with this Barcode,Impossible de trouver l'article ou l'entrepôt avec ce code-barres
+Cannot get file contents of a Folder,Impossible d'obtenir le contenu d'un dossier
+Cannot import table with more than 5000 rows.,Impossible d'importer une table avec plus de 5000 lignes.
+Cannot produce more Item {0} than Sales Order quantity {1} {2},Impossible de produire plus d'article {0} que la quantité de la commande client {1} {2}
+Cannot receive from customer against negative outstanding,Impossible de recevoir du client avec un solde négatif
+Cannot reduce quantity than ordered or purchased quantity,Impossible de réduire la quantité en dessous de la quantité commandée ou achetée
+Cannot set 'Report' permission if 'Only If Creator' permission is set,Impossible de définir la permission 'Rapport' si la permission 'Uniquement si créateur' est activée
+Capitalize this asset before submitting.,Capitalisez cet actif avant de le soumettre.
+Cashier is currently assigned to another POS.,Le caissier est actuellement affecté à un autre PDV.
+Categorize by Voucher (Consolidated),Classer par pièce (consolidé)
+Caution: This might alter frozen accounts.,Attention : cela pourrait modifier les comptes gelés.
+Changed customer name to '{}' as '{}' already exists.,Nom du client changé en '{}' car '{}' existe déjà.
+Changing any setting will reflect on all the email accounts associated with this domain.,Toute modification de paramètre affectera tous les comptes e-mail associés à ce domaine.
+Charge of type 'Actual' in row {0} cannot be included in Item Rate or Paid Amount,Les frais de type 'Réel' à la ligne {0} ne peuvent pas être inclus dans le taux de l'article ou le montant payé
+Check Availability in Warehouse,Vérifier la disponibilité en entrepôt
+Check row {0} for account {1}: Party Type is only allowed for Receivable or Payable accounts,Vérifier la ligne {0} pour le compte {1} : le type de tiers est autorisé uniquement pour les comptes débiteurs ou créditeurs
+Check row {0} for account {1}: Party is only allowed if Party Type is set,Vérifier la ligne {0} pour le compte {1} : le tiers est autorisé uniquement si le type de tiers est défini
+Checking this will round off the tax amount to the nearest integer,Cocher cette case arrondira le montant de la taxe à l'entier le plus proche
+Child Table {0} for field {1} must be virtual,La table enfant {0} pour le champ {1} doit être virtuelle
+Choose the date on which you want to create these components as arrears.,Choisissez la date à laquelle vous souhaitez créer ces composants comme arriérés.
+Claimed amount of employee {0} exceeds maximum amount eligible for claim {1},Le montant réclamé par l'employé {0} dépasse le montant maximum éligible {1}
+Claimed amount of employee {0} should be greater than 0,Le montant réclamé par l'employé {0} doit être supérieur à 0
+Classification of Customers by region,Classification des clients par région
+Clear the email message and add the template,Effacer le message e-mail et ajouter le modèle
+Click On Customize to add your first widget,Cliquez sur Personnaliser pour ajouter votre premier widget
+Click on the button to log in to {0},Cliquez sur le bouton pour vous connecter à {0}
+Closed Work Order can not be stopped or Re-opened,Un ordre de travail fermé ne peut pas être arrêté ou rouvert
+Closing Balance as per Bank Statement,Solde de clôture selon le relevé bancaire
+Code to reference this line in formulas (e.g., REV100, EXP200, ASSET100),Code pour référencer cette ligne dans les formules (ex. REV100, EXP200, ASSET100)
+Combined invoice portion must equal 100%,La portion totale des factures doit être égale à 100%
+Company and Posting Date is mandatory,La société et la date de comptabilisation sont obligatoires
+Company is mandatory for company account,La société est obligatoire pour le compte de société
+Company is mandatory for generating an invoice. Please set a default company in Global Defaults.,La société est obligatoire pour générer une facture. Veuillez définir une société par défaut dans les paramètres globaux.
+Company {0} added multiple times,La société {0} est ajoutée plusieurs fois
+Company {0} is added more than once,La société {0} est ajoutée plus d'une fois
+Completed On cannot be greater than Today,La date de completion ne peut pas être supérieure à aujourd'hui
+Configure various aspects of how document naming works like naming series, current counter.,Configurer les aspects du nommage des documents comme les séries de nommage et le compteur courant.
+Confirm before resetting posting date,Confirmer avant de réinitialiser la date de comptabilisation
+Consider Projected Qty in Calculation,Prendre en compte la qté projetée dans le calcul
+Console Logs can not be deleted,Les journaux de console ne peuvent pas être supprimés
+Consumed Qty cannot be greater than Reserved Qty for item {0},La qté consommée ne peut pas être supérieure à la qté réservée pour l'article {0}
+Consumed quantity of item {0} exceeds transferred quantity.,La quantité consommée de l'article {0} dépasse la quantité transférée.
+Control Action for Cumulative Expense,Action de contrôle pour les dépenses cumulatives
+Conversion factor for item {0} has been reset to 1.0 as the uom {1} is same as stock uom {2}.,Le facteur de conversion pour l'article {0} a été réinitialisé à 1.0 car l'UDM {1} est identique à l'UDM stock {2}.
+Conversion rate is 1.00, but document currency is different from company currency,Le taux de conversion est 1.00, mais la devise du document est différente de la devise de la société
+Conversion rate must be 1.00 if document currency is same as company currency,Le taux de conversion doit être 1.00 si la devise du document est identique à celle de la société
+Cost Center Allocation Percentage,Pourcentage d'allocation de centre de coûts
+Cost Center for Item rows has been updated to {0},Le centre de coûts pour les lignes d'article a été mis à jour en {0}
+Cost Center is a part of Cost Center Allocation, hence cannot be converted to a group,Le centre de coûts fait partie d'une allocation de centre de coûts et ne peut pas être converti en groupe
+Cost Center {} doesn't belong to Company {},Le centre de coûts {} n'appartient pas à la société {}
+Cost center is mandatory for loans having rate of interest greater than 0,Le centre de coûts est obligatoire pour les prêts avec un taux d'intérêt supérieur à 0
+Costing and Billing fields has been updated,Les champs de coût et de facturation ont été mis à jour
+Could not find a suitable shift to match the difference: {0},Impossible de trouver une équipe appropriée pour correspondre à la différence : {0}
+Could not start Chromium. Check logs for details.,Impossible de démarrer Chromium. Vérifiez les journaux pour plus de détails.
+Create Job Card based on Batch Size,Créer une carte de travail selon la taille du lot
+Create Payment Entry for Consolidated POS Invoices.,Créer une écriture de paiement pour les factures PDV consolidées.
+Created {0} scorecards for {1} between:,Créé {0} fiches de notation pour {1} entre :
+Credit Amount in Reporting Currency,Montant du crédit en devise de reporting
+Credit Amount in Transaction Currency,Montant du crédit en devise de transaction
+Credit Note will update it's own outstanding amount even if 'Return Against' is specified.,L'avoir mettra à jour son propre montant en souffrance même si 'Retour contre' est spécifié.
+Criteria weights must add up to 100%,Les pondérations des critères doivent totaliser 100%
+Cron Interval should be between 1 and 59 Min,L'intervalle Cron doit être compris entre 1 et 59 minutes
+Custom Document Types (Select Permission),Types de documents personnalisés (permission de sélection)
+Custom field renamed to {0} successfully.,Champ personnalisé renommé en {0} avec succès.
+Customer Group: {0} does not exist,Groupe de clients : {0} n'existe pas
+Customer Refund Account is mandatory,Le compte de remboursement client est obligatoire
+Customer Warehouse {0} does not belong to Customer {1}.,L'entrepôt client {0} n'appartient pas au client {1}.
+Data Import is not allowed for {0}. Enable 'Allow Import' in DocType settings.,L'import de données n'est pas autorisé pour {0}. Activez 'Autoriser l'import' dans les paramètres du DocType.
+Database Storage Usage By Tables,Utilisation du stockage de la base de données par table
+Date must be between {0} and {1},La date doit être comprise entre {0} et {1}
+Date {0} is repeated in Overtime Details,La date {0} est répétée dans les détails des heures supplémentaires
+Day of every month on which the repayment date is considered,Jour de chaque mois à partir duquel la date de remboursement est prise en compte
+Days Past Due Threshold For Auto Write Off,Seuil de jours en retard pour la passation automatique en perte

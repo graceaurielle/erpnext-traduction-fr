@@ -1,0 +1,401 @@
+source,traduction
+Edit Letter Head,Modifier l'en-tête de lettre
+Edit Letter Head Footer,Modifier le pied de l'en-tête de lettre
+Edit Links,Modifier les liens
+Edit Number Card,Modifier la carte numérique
+Edit Onboarding,Modifier l'intégration
+Edit Print Format,Modifier le format d'impression
+Edit Quick List,Modifier la liste rapide
+Edit Shortcut,Modifier le raccourci
+Edit Tax Withholding Entries,Modifier les écritures de retenue fiscale
+Edit mode,Mode édition
+Edit the {0} Doctype,Modifier le Doctype {0}
+Edit your response,Modifier votre réponse
+Editing Row,Modification de la ligne
+Editing {0},Modification de {0}
+Element Selector,Sélecteur d'élément
+Email Account Disabled.,Compte e-mail désactivé.
+Email Account {0} Disabled,Compte e-mail {0} désactivé
+Email Campaign Error,Erreur de campagne e-mail
+Email Campaign Send Error,Erreur d'envoi de campagne e-mail
+Email Digest: {0},Synthèse e-mail : {0}
+Email Header,En-tête d'e-mail
+Email Id,ID e-mail
+Email Queue records.,Enregistrements de file d'attente e-mail.
+Email Receipt,Reçu e-mail
+Email Retry Limit,Limite de nouvelles tentatives e-mail
+Email Sent At,E-mail envoyé le
+Email verification failed.,Échec de la vérification de l'e-mail.
+Emails,E-mails
+Emails Pulled,E-mails récupérés
+Embed code copied,Code d'intégration copié
+Employee Advance Balance,Solde de l'avance employé
+Employee Benefit Detail,Détail de l'avantage employé
+Employee Benefit Ledger,Grand livre des avantages employés
+Employee Benefits Obligation,Obligation d'avantages employés
+Employee Company,Société de l'employé
+Employee Exit,Départ de l'employé
+Employee Loan,Prêt employé
+Employee Loans,Prêts employés
+Employee Referrals,Recommandations d'employés
+Employee User Id,ID utilisateur de l'employé
+Employee {0} : {1},Employé {0} : {1}
+Employees on Half Day HTML,HTML des employés en demi-journée
+Empty To Delete List,Vider la liste à supprimer
+Empty alias is not allowed,L'alias vide n'est pas autorisé
+Empty column,Colonne vide
+Enable Action Confirmation,Activer la confirmation d'action
+Enable Address Autocompletion,Activer l'autocomplétion d'adresse
+Enable Data Store,Activer le magasin de données
+Enable Fuzzy Matching,Activer la correspondance floue
+Enable Google indexing,Activer l'indexation Google
+Enable Health Monitor,Activer le moniteur de santé
+Enable Immutable Ledger,Activer le grand livre immuable
+Enable Loan Accounting,Activer la comptabilité de prêt
+Enable Parallel Reposting,Activer la retransmission parallèle
+Enable Partner Accounting,Activer la comptabilité partenaire
+Enable Permissions,Activer les permissions
+Enable Prepared Report,Activer le rapport préparé
+Enable Push Notification Relay,Activer le relais de notifications push
+Enable Rate Limit,Activer la limite de débit
+Enable Stock Reservation,Activer la réservation de stock
+Enable in-app website tracking,Activer le suivi du site dans l'application
+Enabled Scheduler,Planificateur activé
+Encrypt Backups,Chiffrer les sauvegardes
+End Date cannot be today.,La date de fin ne peut pas être aujourd'hui.
+End Transit,Fin du transit
+End of the current month,Fin du mois en cours
+Ended At,Terminé le
+Endpoints,Points d'accès
+Enforce Time Logs,Imposer les feuilles de temps
+Enqueue,Mettre en file d'attente
+Enqueued By,Mis en file d'attente par
+Enqueued creation of indexes,Création d'index mise en file d'attente
+Enter Company Details,Saisir les détails de la société
+Enter Interview Round,Saisir le tour d'entretien
+Enter Manually,Saisir manuellement
+Enter Serial Nos,Saisir les n° de série
+Enter Visit Details,Saisir les détails de la visite
+Enter a name for Routing.,Saisir un nom pour le routage.
+Enter a name for this {0},Saisir un nom pour ce {0}
+Enter date to scrap asset,Saisir la date pour mettre l'actif au rebut
+Enter the opening stock units.,Saisir les unités de stock d'ouverture.
+Enter yearly benefit amounts,Saisir les montants annuels d'avantages
+Entity Type,Type d'entité
+Entries To Cancel,Écritures à annuler
+Entries To Repost,Écritures à retransmettre
+Error connecting via SMTP: {e},Erreur de connexion via SMTP : {e}
+Error downloading PDF,Erreur de téléchargement du PDF
+Error in Client Script,Erreur dans le script client
+Error in Client Script.,Erreur dans le script client.
+Error in Header/Footer Script,Erreur dans le script d'en-tête/pied de page
+Error in some rows,Erreur dans certaines lignes
+Error in {0}.get_list: {1},Erreur dans {0}.get_list : {1}
+Error {0}: {1},Erreur {0} : {1}
+Errors,Erreurs
+Errors Notification,Notification d'erreurs
+Evaluate as Expression,Évaluer comme expression
+Event Frequency,Fréquence d'événement
+Event Notifications,Notifications d'événement
+Event Reminders,Rappels d'événement
+Every 2 Weeks,Toutes les 2 semaines
+Every 3 Weeks,Toutes les 3 semaines
+Every 4 Weeks,Toutes les 4 semaines
+Exact Copies,Copies exactes
+Example URL,URL d'exemple
+Excess Amount,Montant excédentaire
+Excess Amount Acceptance Limit,Limite d'acceptation du montant excédentaire
+Excess Amount Paid,Montant excédentaire payé
+Excess Materials Consumed,Matériaux excédentaires consommés
+Excess Transfer,Transfert excédentaire
+Exchange Gain / Loss,Gain / Perte de change
+Exchange Gain Or Loss,Gain ou perte de change
+Exclude Zero Balance Parties,Exclure les tiers avec solde nul
+Excluded DocTypes,DocTypes exclus
+Excluded Fee,Frais exclus
+Executing Code,Exécution du code
+Executing...,Exécution en cours...
+Execution Failed,Échec de l'exécution
+Execution Successful,Exécution réussie
+Execution Time (seconds),Temps d'exécution (secondes)
+Exempt Supplies,Fournitures exonérées
+Exempted Role,Rôle exonéré
+Existing Record,Enregistrement existant
+Existing Role,Rôle existant
+Existing Shift Assignments,Affectations d'équipes existantes
+Exit Details,Détails de sortie
+Expected Balance Qty,Qté de solde attendue
+Expected Stock Value,Valeur de stock attendue
+Expense Claim Summary,Résumé de la note de frais
+Expenses Settings,Paramètres des dépenses
+Experimental,Expérimental
+Expert,Expert
+Expire Leaves,Faire expirer les congés
+Expires in a week or less,Expire dans une semaine ou moins
+Export Errored Rows,Exporter les lignes en erreur
+Export Import Log,Journal d'export d'import
+Export Report: {0},Exporter le rapport : {0}
+Export all matching rows?,Exporter toutes les lignes correspondantes ?
+Export all {0} rows?,Exporter toutes les {0} lignes ?
+Export as zip,Exporter en zip
+Export in Background,Exporter en arrière-plan
+Export without main header,Exporter sans l'en-tête principal
+Expression,Expression
+Expression (old style),Expression (ancien style)
+Extended Bank Statement,Relevé bancaire étendu
+Extra Consumed Qty,Qté consommée supplémentaire
+Extra Job Card Quantity,Quantité de carte de travail supplémentaire
+Extra Material Transfer,Transfert de matériaux supplémentaire
+Extra Parameters,Paramètres supplémentaires
+FG / Semi FG Item,Article PF / Semi-PF
+FIFO Queue,File FIFO
+"FIFO Stock Queue (qty, rate)","File de stock FIFO (qté, taux)"
+FIFO/LIFO Queue,File FIFO/LIFO
+FLDG Account,Compte FLDG
+FLDG Fixed Deposit Percentage,Pourcentage de dépôt à terme FLDG
+FLDG Trigger DPD,Déclencheur DPD FLDG
+FLDG Trigger Date,Date de déclenchement FLDG
+FLDG Triggered,FLDG déclenché
+Fail,Échec
+Failed Emails,E-mails échoués
+Failed Entries,Écritures échouées
+Failed Jobs,Travaux échoués
+Failed Logins (Last 30 days),Connexions échouées (30 derniers jours)
+Failed Repayment,Remboursement échoué
+Failed to decrypt key {0},Échec du déchiffrement de la clé {0}
+Failed to download PDF: {0},Échec du téléchargement du PDF : {0}
+Failed to get site info,Échec de la récupération des infos du site
+Failed to optimize image: {0},Échec de l'optimisation de l'image : {0}
+Failed to render message: {},Échec du rendu du message : {}
+Failed to render subject: {},Échec du rendu du sujet : {}
+Failed while calling API {0},Échec lors de l'appel de l'API {0}
+Failure,Échec
+Failure Description,Description de l'échec
+Failure Rate,Taux d'échec
+Failure Reason,Raison de l'échec
+Failure: {0},Échec : {0}
+FavIcon,FavIcon
+Feedback Summary,Résumé du retour
+Fetch Geolocation,Récupérer la géolocalisation
+Fetch Latest Exchange Rate,Récupérer le dernier taux de change
+Fetch Overdue Payments,Récupérer les paiements en retard
+Fetch Overtime Details,Récupérer les détails des heures supplémentaires
+Fetch Shift,Récupérer l'équipe
+Fetch Shifts,Récupérer les équipes
+Fetch Value From,Récupérer la valeur depuis
+Fetch on Save if Empty,Récupérer à l'enregistrement si vide
+Fetching Error,Erreur de récupération
+Fetching Material Requests...,Récupération des demandes de matériel...
+Fetching Sales Orders...,Récupération des commandes client...
+Fetching Shift,Récupération de l'équipe
+Fetching exchange rates ...,Récupération des taux de change...
+Fetching fields from {0}...,Récupération des champs depuis {0}...
+Fetching your geolocation,Récupération de votre géolocalisation
+Fetching...,Récupération...
+Field Missing,Champ manquant
+Field Orientation (Left-Right),Orientation du champ (gauche-droite)
+Field Orientation (Top-Down),Orientation du champ (haut-bas)
+Field Template,Modèle de champ
+Field not permitted in query,Champ non autorisé dans la requête
+File Preview,Aperçu du fichier
+File Storage,Stockage de fichiers
+File not found,Fichier introuvable
+File not found on server,Fichier introuvable sur le serveur
+File upload failed.,Échec de l'envoi du fichier.
+Filter Area,Zone de filtre
+Filter List,Liste de filtres
+Filter by Reference Date,Filtrer par date de référence
+Filter by Shift,Filtrer par équipe
+Filter on Invoice,Filtrer sur la facture
+Filter on Payment,Filtrer sur le paiement
+Filter...,Filtrer...
+Filtered By,Filtré par
+Filtered by: {0}.,Filtré par : {0}.
+Filters Editor,Éditeur de filtres
+Filters for Material Requests,Filtres pour les demandes de matériel
+Filters for Sales Orders,Filtres pour les commandes client
+Filters missing,Filtres manquants
+Filters {0},Filtres {0}
+Filters:,Filtres :
+Final BOM,Nomenclature finale
+Final Product,Produit final
+Final Score Formula,Formule de score final
+Financial Ratios,Ratios financiers
+Financial Report Row,Ligne de rapport financier
+Financial Report Template,Modèle de rapport financier
+Financial Year Begins On,L'année fiscale commence le
+Find '{0}' in ...,Rechercher '{0}' dans ...
+Finished At,Terminé le
+Finished Good BOM,Nomenclature du produit fini
+Finished Good Item,Article de produit fini
+Finished Good Item Qty,Qté d'article de produit fini
+Finished Good Item Quantity,Quantité d'article de produit fini
+Finished Good Qty,Qté de produit fini
+Finished Good Quantity ,Quantité de produit fini
+Finished Good Serial / Batch,Série/lot de produit fini
+Finished Good UOM,UDM de produit fini
+Finished Good {0} is disabled.,Le produit fini {0} est désactivé.
+Finished Goods Item,Article de produit fini
+Finished Goods Reference,Référence de produit fini
+Finished Goods Return,Retour de produit fini
+Finished Goods Value,Valeur des produits finis
+First Delivery Date,Première date de livraison
+First Response Due,Première réponse due
+Fiscal Year Start,Début de l'année fiscale
+Fit,Adapter
+Fix SABB Entry,Corriger l'écriture SABB
+Fixed Amount,Montant fixe
+Fixed Asset Defaults,Valeurs par défaut des immobilisations
+Fixed Asset Turnover Ratio,Ratio de rotation des immobilisations
+Fixed Deposit Only,Dépôt à terme uniquement
+Fixed Hourly Rate,Taux horaire fixe
+Fixed Outgoing Email Account,Compte e-mail sortant fixe
+Fixed Time,Heure fixe
+Flat Interest Rate,Taux d'intérêt fixe
+Flexible Benefit,Avantage flexible
+Flexible Component,Composant flexible
+Floor,Étage
+Floor Name,Nom de l'étage
+Folio,Folio
+Followed by,Suivi par
+Following document {0},Document suivant {0}
+"Footer ""Powered By""","Pied de page ""Propulsé par"""
+Footer Based On,Pied de page basé sur
+Footer Details,Détails du pied de page
+Footer Image,Image du pied de page
+Footer Script,Script du pied de page
+For All Stock Asset Accounts,Pour tous les comptes d'actifs de stock
+For DocType,Pour le DocType
+For Job Card,Pour la carte de travail
+For Operation,Pour l'opération
+For Raw Materials,Pour les matières premières
+For Work Order,Pour l'ordre de travail
+Force Approval,Approbation forcée
+Force Cancel,Annulation forcée
+Force Cancel Sales Invoices,Annuler de force les factures de vente
+Force Reload,Rechargement forcé
+Forecast,Prévision
+Forecasted Qty,Qté prévue
+Forecasted Quantity,Quantité prévue
+Forgot Password?,Mot de passe oublié ?
+Format Date,Formater la date
+Format Field,Formater le champ
+Format Of,Format de
+Format Picker,Sélecteur de format
+Format Time,Formater l'heure
+Format error in glossary file,Erreur de format dans le fichier glossaire
+Format error on line {0}: {1},Erreur de format à la ligne {0} : {1}
+Format option Conditions,Conditions des options de format
+Found {0} Asset Movement,Trouvé {0} mouvement d'actif
+Found {0} Asset Movements,Trouvé {0} mouvements d'actif
+Found {0} {1},Trouvé {0} {1}
+Foundation,Fondation
+Fraction Units,Unités fractionnaires
+Free Item Data,Données d'article gratuit
+Free Item Discount,Remise sur article gratuit
+Freeze Accounts till Date,Geler les comptes jusqu'à la date
+Frequency Type,Type de fréquence
+Friday,Vendredi
+From - Email Address,Adresse e-mail de l'expéditeur
+From Account Type,Type de compte source
+From Amount,Montant de
+From Asset Account,Compte d'actif source
+From Branch,Branche source
+From Customer Number,Numéro client source
+From Default Currency,Devise par défaut source
+From Demand No,N° de demande source
+From Discount Percentage,Pourcentage de remise source
+From Document,Document source
+From Employee Loan,Prêt employé source
+From Mark Attendance,Depuis Marquer présence
+From Notes,Depuis Notes
+From Reservation,Depuis Réservation
+From Style,Depuis Style
+From Subscription Plan,Depuis Plan d'abonnement
+From Transaction Date,Date de transaction source
+From Voucher No,N° de pièce source
+From Voucher Type,Type de pièce source
+From Webform,Depuis Webform
+From Workspace,Depuis Espace de travail
+From the Bench,Depuis le Bench
+Full,Plein
+Full Page,Pleine page
+Full Path,Chemin complet
+Full Sync,Synchronisation complète
+Full backups storage,Stockage des sauvegardes complètes
+Fully Refunded,Entièrement remboursé
+Fully reconciled,Entièrement réconcilié
+Function Definitions,Définitions de fonction
+G - Z,G - Z
+GL Entry No.,N° d'écriture GL
+GL Entry Processing Status,Statut de traitement des écritures GL
+GL Entry Reposting,Retransmission des écritures GL
+GMT,GMT
+GP Compatible,Compatible GP
+GST Hub Settings,Paramètres du hub GST
+GST Settings,Paramètres GST
+Gain on disposal of Assets,Gain sur cession d'actifs
+Gateway Currency,Devise de la passerelle
+Gender Pay Gap Average,Écart salarial moyen par genre
+Gender Pay Gap Per Department,Écart salarial par genre par service
+General Ledger Filters,Filtres du grand livre
+General Ledgers,Grands livres
+Generate Schema,Générer le schéma
+Generate from Document,Générer depuis le document
+Generated From,Généré depuis
+Generated Stock Ledger Entries,Écritures du grand livre de stock générées
+Generated Successfully,Généré avec succès
+Generator,Générateur
+Geolocation Data,Données de géolocalisation
+Get All,Tout récupérer
+Get Code,Récupérer le code
+Get Coordinates,Récupérer les coordonnées
+Get Customers Group,Récupérer le groupe de clients
+Get Demands,Récupérer les demandes
+Get Geolocation,Récupérer la géolocalisation
+Get Help,Obtenir de l'aide
+Get Items From,Récupérer les articles depuis
+Get Items from BOM,Récupérer les articles de la nomenclature
+Get Job Cards,Récupérer les cartes de travail
+Get Operating Cost,Récupérer le coût d'exploitation
+Get Outstanding Documents,Récupérer les documents impayés
+Get Outstanding Invoices,Récupérer les factures impayées
+Get Outstanding Vouchers,Récupérer les pièces impayées
+Get Plan Members,Récupérer les membres du plan
+Get Stock and Rate,Récupérer le stock et le taux
+Get Suppliers,Récupérer les fournisseurs
+Get System Manager Roles,Récupérer les rôles de gestionnaire système
+Get Tax Template,Récupérer le modèle fiscal
+Get from {0},Récupérer depuis {0}
+Get latest updates and tips.,Recevoir les dernières mises à jour et conseils.
+GitHub,GitHub
+Global Defaults,Valeurs par défaut globales
+Global Search DocType,DocType de recherche globale
+Go Back,Retour
+Go Back to Home Page,Retour à la page d'accueil
+Go Live Date,Date de mise en service
+Go to Mass Payroll Entries,Aller aux écritures de paie en masse
+Go to Salary Slips,Aller aux bulletins de paie
+Go to Workspace,Aller à l'espace de travail
+Gold,Or
+Goods Receipt Note,Bon de réception de marchandises
+Google Settings,Paramètres Google
+Got it,Compris
+Grand Total ({0}),Total général ({0})
+Grant Limits,Limites de subvention
+Grant Type,Type de subvention
+Granted,Accordé
+Gray,Gris
+Green,Vert
+Group Bin Entries,Grouper les écritures bin
+Group Entries by Voucher,Grouper les écritures par pièce
+Group ID,ID de groupe
+Group Same Items,Grouper les mêmes articles
+Group by Customer,Grouper par client
+Group by Project,Grouper par projet
+Group by Supplier,Grouper par fournisseur
+Group by Voucher,Grouper par pièce
+Grouped By,Groupé par
+Guaranteed,Garanti
+Guarantor Detail,Détail du garant
+Guidance Note,Note d'orientation

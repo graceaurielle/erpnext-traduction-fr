@@ -1,0 +1,454 @@
+source,traduction
+Changing '{0}' to {1}.,Modification de '{0}' en {1}.
+Charge Based On,Frais basés sur
+Charge Code,Code de frais
+Charge Payment,Paiement de frais
+Charge Type,Type de frais
+Charges Capitalization,Capitalisation des frais
+Charges Overdue,Frais en retard
+Charges Treatment,Traitement des frais
+Charges Waiver,Renonciation aux frais
+Checked On,Vérifié le
+Checkin Radius,Rayon de pointage
+Checkout,Validation
+Child DocTypes,Types de document enfants
+Child DocTypes are not allowed,Les types de document enfants ne sont pas autorisés
+Child Item,Article enfant
+Child Row Reference,Référence de ligne enfant
+Child Table Not Allowed,Table enfant non autorisée
+Claim an Expense,Réclamer une dépense
+Classification Code,Code de classification
+Classification Name,Nom de classification
+Clear & Add Template,Effacer et ajouter le modèle
+Clear & Add template,Effacer et ajouter le modèle
+Clear Demo Data,Effacer les données de démo
+Clear Last Scanned Warehouse,Effacer le dernier entrepôt scanné
+Clear Link,Effacer le lien
+Clear Logs After (days),Effacer les journaux après (jours)
+Clearing Demo Data...,Effacement des données de démo...
+Click below to get started:,Cliquez ci-dessous pour commencer :
+Click on a file to select it.,Cliquez sur un fichier pour le sélectionner.
+Click to Set Dynamic Filters,Cliquer pour définir les filtres dynamiques
+Click to Set Filters,Cliquer pour définir les filtres
+Click to add email / phone,Cliquer pour ajouter e-mail / téléphone
+Click to sort by {0},Cliquer pour trier par {0}
+Client Id,ID client
+Client Metadata,Métadonnées du client
+Client URI,URI du client
+Client script,Script client
+Closing Balance as per ERP,Solde de clôture selon ERP
+Closing [Opening + Total] ,Clôture [Ouverture + Total]
+Closure Date,Date de clôture
+Cmd+Enter to add comment,Cmd+Entrée pour ajouter un commentaire
+Co Lender Schedule,Calendrier du co-prêteur
+Co Lending,Co-prêt
+Co-Lender Schedule,Calendrier du co-prêteur
+Code Challenge,Défi de code
+Code Editor Type,Type d'éditeur de code
+Code challenge method,Méthode de défi de code
+Collapse All,Tout réduire
+Collapsible Depends On (JS),Réduction dépend de (JS)
+Collect Outstanding Amount,Encaisser le montant impayé
+Collection Offset Sequence,Séquence de décalage de collecte
+Collection Percentage,Pourcentage de collecte
+Coltom Chat Channel,Canal de discussion Coltom
+Coltom Chat Channel Member,Membre du canal de discussion Coltom
+Coltom Chat Message,Message de discussion Coltom
+Column 1,Colonne 1
+Column 2,Colonne 2
+Column width cannot be zero.,La largeur de colonne ne peut pas être zéro.
+Column {0},Colonne {0}
+Commercial,Commercial
+Commercial Rounding,Arrondi commercial
+Committed,Validé
+Common Code,Code commun
+Communication secret not set,Secret de communication non défini
+Company Account is mandatory,Le compte de société est obligatoire
+Company Address Display,Affichage de l'adresse de la société
+Company Collection Percentage,Pourcentage de collecte de la société
+Company Contact Person,Personne de contact de la société
+Company Field,Champ Société
+Compare Versions,Comparer les versions
+Compilation warning,Avertissement de compilation
+Complete KYC,Compléter le KYC
+Complete Order,Finaliser la commande
+Complete Setup,Terminer la configuration
+Completed By Role,Terminé par le rôle
+Completed By User,Terminé par l'utilisateur
+Completed Tenure,Durée terminée
+Completed Time,Temps terminé
+Component,Composant
+Component Expense Account,Compte de dépense du composant
+Compressed,Compressé
+Condition JSON,JSON de condition
+Condition Type,Type de condition
+Condition description,Description de la condition
+Conditional Rule,Règle conditionnelle
+Conditional Rule Examples,Exemples de règle conditionnelle
+Config,Configuration
+Configure Product Assembly,Configurer l'assemblage de produit
+Configure Recorder,Configurer l'enregistreur
+Configure columns for {0},Configurer les colonnes pour {0}
+Confirm Access,Confirmer l'accès
+Confirm Deletion of Account,Confirmer la suppression du compte
+Connect to {},Connexion à {}
+Connected App,Application connectée
+Connected User,Utilisateur connecté
+Connection Lost,Connexion perdue
+Connection String,Chaîne de connexion
+Consider Minimum Order Qty,Considérer la qté de commande minimum
+Consider Process Loss,Considérer les pertes de processus
+Consider Rejected Warehouses,Considérer les entrepôts rejetés
+Consider for Tax Withholding,Considérer pour la retenue fiscale
+Consider for Tax Withholding ,Considérer pour la retenue fiscale
+Considered In Paid Amount,Considéré dans le montant payé
+Consolidate Sub Assembly Items,Consolider les sous-assemblages
+Consolidated Trial Balance,Balance générale consolidée
+Constraints,Contraintes
+Consumed Asset Total Value,Valeur totale des actifs consommés
+Consumed Assets,Actifs consommés
+Consumed Items Cost,Coût des articles consommés
+Consumed Stock Items,Articles de stock consommés
+Consumed Stock Total Value,Valeur totale du stock consommé
+Consumption Rate,Taux de consommation
+Contact Us,Nous contacter
+Contact Us Settings,Paramètres Nous contacter
+Contains {0} security fix,Contient {0} correctif de sécurité
+Contains {0} security fixes,Contient {0} correctifs de sécurité
+Content data shoud be a list,Les données de contenu doivent être une liste
+Contract Template Help,Aide du modèle de contrat
+Contribution (%),Contribution (%)
+Contribution Qty,Qté de contribution
+Conversion rate cannot be 0,Le taux de conversion ne peut pas être 0
+Convert to Ledger,Convertir en grand livre
+Copied {0} {1} to clipboard,Copié {0} {1} dans le presse-papiers
+Core,Noyau
+Corporate Guarantee Only,Garantie corporative uniquement
+Correct version :,Version correcte :
+Cost Center Allocation,Allocation de centre de coûts
+Cost of Poor Quality Report,Rapport de coût de mauvaise qualité
+Cost to Company (CTC),Coût pour l'entreprise (CTC)
+Could not find path for ,Impossible de trouver le chemin pour
+Could not parse field: {0},Impossible d'analyser le champ : {0}
+Could not start up:,Impossible de démarrer :
+Count of linked documents,Nombre de documents liés
+Country Setup failed,Échec de la configuration du pays
+Create Depreciation Entry,Créer une écriture d'amortissement
+Create Employee records.,Créer des fiches d'employés.
+Create Grouped Asset,Créer un actif groupé
+Create Journal Entries,Créer des écritures de journal
+Create Link,Créer un lien
+Create MPS,Créer MPS
+Create Multi-level BOM,Créer une nomenclature multi-niveaux
+Create Overtime Slips,Créer des bulletins d'heures supplémentaires
+Create Reposting Entries,Créer des écritures de retransmission
+Create Reposting Entry,Créer une écriture de retransmission
+Create Shifts After,Créer des équipes après
+Create or Edit Workflow,Créer ou modifier le flux de travail
+Create {0} {1} ?,Créer {0} {1} ?
+Created At,Créé le
+Created By Migration,Créé par migration
+Created By You,Créé par vous
+Created By {0},Créé par {0}
+Creating Delivery Note ...,Création du bon de livraison...
+Creating Delivery Schedule...,Création du calendrier de livraison...
+Creating Journal Entries...,Création des écritures de journal...
+Creating Packing Slip ...,Création du bordereau d'emballage...
+Creation Date,Date de création
+Credit Account is mandatory,Le compte de crédit est obligatoire
+Credit Adjustment,Ajustement de crédit
+Credit Adjustment Amount,Montant d'ajustement de crédit
+Credit Limit Crossed,Limite de crédit dépassée
+Creditor Turnover Ratio,Ratio de rotation des créanciers
+Crop,Recadrer
+Ctrl + Down,Ctrl + Bas
+Ctrl + Up,Ctrl + Haut
+CumulativeSum,SommeCumulative
+Current Asset,Actif courant
+Current Disbursed Amount,Montant décaissé courant
+Current Index,Index courant
+Current Job ID,ID du travail courant
+Current Level,Niveau courant
+Current Liability,Passif courant
+Current Node,Nœud courant
+Current Payroll Period,Période de paie courante
+Current Principal Amount,Montant principal courant
+Current Ratio,Ratio courant
+Current Restructure Count,Nombre de restructurations courantes
+Current Serial / Batch Bundle,Lot série/lot courant
+Current status,Statut actuel
+Custom API,API personnalisée
+Custom Block Name,Nom de bloc personnalisé
+Custom Blocks,Blocs personnalisés
+Custom Condition,Condition personnalisée
+Custom Delimiters,Délimiteurs personnalisés
+Custom Financial Statement,État financier personnalisé
+Custom Group Search,Recherche de groupe personnalisée
+Custom HTML Block,Bloc HTML personnalisé
+Custom Headers,En-têtes personnalisés
+Custom Label,Étiquette personnalisée
+Custom delimiters,Délimiteurs personnalisés
+Customer / Item / Item Group,Client / Article / Groupe d'articles
+Customer Advances,Avances clients
+Customer Number At Supplier,Numéro client chez le fournisseur
+Customer Numbers,Numéros clients
+Customer Portal Users,Utilisateurs du portail client
+Customer Provided Item Cost,Coût de l'article fourni par le client
+Customer Refund Account,Compte de remboursement client
+Customer Warehouse,Entrepôt du client
+Customer: ,Client :
+Customizations Discarded,Personnalisations rejetées
+Customize Child Table,Personnaliser la table enfant
+Customize Dashboard,Personnaliser le tableau de bord
+Customize Form - {0},Personnaliser le formulaire - {0}
+Customize Quick Filters,Personnaliser les filtres rapides
+Cyan,Cyan
+Cycles,Cycles
+Cyclic Day Of the Month,Jour cyclique du mois
+D - E,D - E
+Daily Long,Quotidien long
+Daily Maintenance,Maintenance quotidienne
+Daily Time to send,Heure quotidienne d'envoi
+Daily Yield (%),Rendement quotidien (%)
+Danger,Danger
+Dark Theme,Thème sombre
+Dashboard View,Vue tableau de bord
+Data Backup,Sauvegarde des données
+Data Based On,Données basées sur
+Data Clipped,Données tronquées
+Data Fetch Method,Méthode de récupération de données
+Data Query,Requête de données
+Database Processes,Processus de base de données
+Database Row Size Utilization,Utilisation de la taille de ligne de la BD
+Database Table Row Size Limit,Limite de taille de ligne de table BD
+Database Version,Version de la base de données
+Date ,Date
+Date Range Exceeded,Plage de dates dépassée
+Date: {0} to {1},Date : {0} à {1}
+Dates,Dates
+Dates to Process,Dates à traiter
+Days Past Due Log,Journal des jours en retard
+Days Past Due Threshold,Seuil de jours en retard
+Days to Reverse,Jours pour annuler
+DeLinked,Délié
+Deadlock Occurred,Interblocage survenu
+"Dear System Manager,","Cher gestionnaire système,"
+Debit Adjustment,Ajustement de débit
+Debit Adjustment Amount,Montant d'ajustement de débit
+Debit-Credit Mismatch,Incohérence débit-crédit
+Debit-Credit mismatch,Incohérence débit-crédit
+Debt Equity Ratio,Ratio dettes-capitaux propres
+Debtor Turnover Ratio,Ratio de rotation des débiteurs
+Debtor/Creditor,Débiteur/Créancier
+Debtor/Creditor Advance,Avance débiteur/créancier
+Debug Log,Journal de débogage
+Decentralized,Décentralisé
+Deduct Tax On Basis,Déduire la taxe sur la base
+Deducted From,Déduit de
+Deduction Arrears,Arriérés de déduction
+Default App,Application par défaut
+Default COGS Account,Compte CMV par défaut
+Default Common Code,Code commun par défaut
+Default Email Template,Modèle d'e-mail par défaut
+Default In-Transit Warehouse,Entrepôt en transit par défaut
+Default Operating Cost Account,Compte de coût d'exploitation par défaut
+Default Sales Contact,Contact commercial par défaut
+Default Shift,Équipe par défaut
+Default Stock Valuation Method,Méthode de valorisation du stock par défaut
+Default Suspense Account,Compte d'attente par défaut
+Default Template For Field,Modèle par défaut pour le champ
+Default User Role,Rôle utilisateur par défaut
+Default User Type,Type d'utilisateur par défaut
+Default Waiver Account,Compte de renonciation par défaut
+Defaults Updated,Valeurs par défaut mises à jour
+Deferred Revenue and Expense,Revenus et dépenses différés
+Delayed,Retardé
+Delayed Tasks Summary,Résumé des tâches retardées
+Delete Attachment,Supprimer la pièce jointe
+Delete Bins,Supprimer les bins
+Delete Column,Supprimer la colonne
+Delete Dimension,Supprimer la dimension
+Delete GL Entries,Supprimer les écritures GL
+Delete Kanban Board,Supprimer le tableau Kanban
+Delete Leads and Addresses,Supprimer les prospects et adresses
+Delete Section,Supprimer la section
+Delete Tab,Supprimer l'onglet
+Delete all,Tout supprimer
+Delete all {0} rows,Supprimer toutes les {0} lignes
+Delete and Generate New,Supprimer et générer un nouveau
+Delete column,Supprimer la colonne
+Delete entire tab with fields,Supprimer l'onglet entier avec les champs
+Delete row,Supprimer la ligne
+Delete section,Supprimer la section
+Delete tab,Supprimer l'onglet
+Delete {0} item permanently?,Supprimer définitivement l'article {0} ?
+Delete {0} items permanently?,Supprimer définitivement les articles {0} ?
+Delete {0} rows,Supprimer {0} lignes
+Deleting {0} records...,Suppression de {0} enregistrements...
+Deleting {0}...,Suppression de {0}...
+Deletion Steps,Étapes de suppression
+Deletion process restarted,Processus de suppression redémarré
+Delimiter Options,Options de délimiteur
+Delinked,Délié
+Delinquent Available Limit,Limite disponible en défaut
+Delinquent In Process Limit,Limite en cours de traitement en défaut
+Delinquent Limit,Limite en défaut
+Delinquent Limit Amount,Montant de la limite en défaut
+Delinquent Limit Percent,Pourcentage de la limite en défaut
+Delinquent Utilized Limit,Limite utilisée en défaut
+Deliver Scrap Items,Livrer les articles de rebut
+Delivered Qty (in Stock UOM),Qté livrée (en UDM stock)
+Delivery From Date,Date de début de livraison
+Delivery Note Packed Item,Article emballé du bon de livraison
+Delivery Schedule,Calendrier de livraison
+Delivery Schedule Item,Article du calendrier de livraison
+Delivery To Date,Date de fin de livraison
+Demand,Demande
+Demand Amount,Montant de la demande
+Demand Date,Date de la demande
+Demand Generated,Demande générée
+Demand Qty,Qté de la demande
+Demand Subtype,Sous-type de demande
+Demand Type,Type de demande
+Demand vs Supply,Demande vs Offre
+Demo Bank Account,Compte bancaire de démo
+Deny,Refuser
+Dependencies,Dépendances
+Dependencies & Licenses,Dépendances et licences
+Depends On Payment Days,Dépend des jours de paiement
+Deposit,Dépôt
+Deposit Amount,Montant du dépôt
+Deposit Date,Date du dépôt
+Depreciate based on shifts,Amortir selon les équipes
+Depreciation Details,Détails d'amortissement
+Descendants Of (inclusive),Descendants de (inclus)
+Description of a Job Opening,Description d'une offre d'emploi
+Desk,Bureau
+Desk Theme,Thème du bureau
+Desk User,Utilisateur du bureau
+Desktop,Bureau
+Desktop Layout,Disposition du bureau
+Desktop Settings,Paramètres du bureau
+Detect CSV type,Détecter le type CSV
+Diesel,Diesel
+Difference In,Différence en
+Difference Posting Date,Date de comptabilisation de la différence
+Difference Qty,Qté de différence
+Dimension Filter Help,Aide du filtre de dimension
+Dimensions,Dimensions
+Dinars,Dinars
+Direct,Direct
+Direct Expense,Dépense directe
+Directory Server,Serveur de répertoire
+Disable Comment Count,Désactiver le nombre de commentaires
+Disable Cumulative Threshold,Désactiver le seuil cumulatif
+Disable Product Suggestion,Désactiver la suggestion de produit
+Disable Scrolling,Désactiver le défilement
+Disable Transaction Threshold,Désactiver le seuil de transaction
+Disable signups,Désactiver les inscriptions
+Disabled Account Selected,Compte désactivé sélectionné
+Disbursed Amount: {0},Montant décaissé : {0}
+Disbursement,Décaissement
+Disbursement References,Références de décaissement
+Disbursement against loan:,Décaissement contre le prêt :
+Discard {0},Rejeter {0}
+Discard?,Rejeter ?
+Discarded,Rejeté
+Discount Amount in Transaction,Montant de remise dans la transaction
+Discount Validity Based On,Validité de la remise basée sur
+Discretionary Reason,Raison discrétionnaire
+Discussion Reply,Réponse à la discussion
+Discussion Topic,Sujet de discussion
+Dispatch Address Details,Détails de l'adresse d'expédition
+Dispatch Address Template,Modèle d'adresse d'expédition
+Display Depends On (JS),Affichage dépend de (JS)
+Distance UOM,UDM de distance
+Distinct Item and Warehouse,Article et entrepôt distincts
+Distinct unit of an Item,Unité distincte d'un article
+Distribute Equally,Distribuer équitablement
+Distribute Manually,Distribuer manuellement
+Distributed Discount Amount,Montant de remise distribué
+Distribution Frequency,Fréquence de distribution
+Divider,Séparateur
+Do Not Create New User,Ne pas créer de nouvel utilisateur
+Do not warn me again about {0},Ne plus m'avertir au sujet de {0}
+Do you still want to proceed?,Voulez-vous toujours continuer ?
+DocType Layout,Disposition du DocType
+DocType Layout Field,Champ de disposition du DocType
+DocType Missing,DocType manquant
+DocType required,DocType requis
+DocType {0} does not exist,Le DocType {0} n'existe pas
+DocType {0} does not exist.,Le DocType {0} n'existe pas.
+DocType {} not found,DocType {} introuvable
+DocTypes To Delete,DocTypes à supprimer
+DocTypes with a company field:,DocTypes avec un champ Société :
+Doctype,Doctype
+Document Count,Nombre de documents
+Document Name,Nom du document
+Document No,N° de document
+Document Saved,Document enregistré
+Document Share Key,Clé de partage du document
+Document Types and Permissions,Types de documents et permissions
+Document Unlocked,Document déverrouillé
+Document not Relinked,Document non reconnecté
+Documents,Documents
+Don't Create Loyalty Points,Ne pas créer de points de fidélité
+Don't Enforce Free Item Qty,Ne pas imposer la qté d'article gratuit
+Don't Recompute Tax,Ne pas recalculer la taxe
+Double click to edit label,Double-cliquer pour modifier l'étiquette
+Download CSV Template,Télécharger le modèle CSV
+Download PDF,Télécharger le PDF
+Download PDF for Supplier,Télécharger le PDF pour le fournisseur
+Download Required Materials,Télécharger les matériaux requis
+Download Template,Télécharger le modèle
+Download as CSV,Télécharger en CSV
+Download vCard,Télécharger vCard
+Download vCards,Télécharger les vCards
+Dr/Cr,D/C
+Drag,Glisser
+Drag to add state,Glisser pour ajouter un état
+Drop Procedures,Supprimer les procédures
+Drop files here,Déposer les fichiers ici
+Due Date cannot be after {0},La date d'échéance ne peut pas être après {0}
+Due Date cannot be before {0},La date d'échéance ne peut pas être avant {0}
+Dunning Level,Niveau de relance
+Duplicate Assignment,Affectation en double
+Duplicate Claim Detected,Réclamation en double détectée
+Duplicate Customer Group,Groupe de clients en double
+Duplicate DocType,DocType en double
+Duplicate Entry,Entrée en double
+Duplicate Finance Book,Livre de finances en double
+Duplicate Item Group,Groupe d'articles en double
+Duplicate Leave Adjustment,Ajustement de congé en double
+Duplicate POS Fields,Champs POS en double
+Duplicate POS Invoices found,Factures POS en double trouvées
+Duplicate Salary Withholding,Retenue de salaire en double
+Duplicate Sales Invoices found,Factures de vente en double trouvées
+Duplicate Serial Number Error,Erreur de numéro de série en double
+Duplicate Stock Closing Entry,Écriture de clôture de stock en double
+Duplicate current row,Dupliquer la ligne courante
+Duplicate entry: {0}{1},Entrée en double : {0}{1}
+Duplicate field,Champ en double
+Duplicate row,Dupliquer la ligne
+Duplicate rows,Dupliquer les lignes
+Duplicate {0} rows,Dupliquer {0} lignes
+Duration (Seconds),Durée (secondes)
+EMI (PMT) based,Basé sur l'échéance (PMT)
+EMI (Principal + Interest),Échéance (Principal + Intérêts)
+EMIs Paid,Échéances payées
+EMIs Raised,Échéances émises
+ERPNext Integrations,Intégrations ERPNext
+ERROR({0}): {1},ERREUR({0}) : {1}
+Earned Leave Schedule,Calendrier des congés acquis
+Earning Arrears,Arriérés de gains
+Edit Address in Form,Modifier l'adresse dans le formulaire
+Edit BOM,Modifier la nomenclature
+Edit Capacity,Modifier la capacité
+Edit Cart,Modifier le panier
+Edit Chart,Modifier le graphique
+Edit Custom Block,Modifier le bloc personnalisé
+Edit Existing,Modifier l'existant
+Edit Filters,Modifier les filtres
+Edit Footer,Modifier le pied de page
+Edit Full Form,Modifier le formulaire complet
+Edit HTML,Modifier le HTML

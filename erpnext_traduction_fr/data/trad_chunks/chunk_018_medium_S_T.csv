@@ -1,0 +1,146 @@
+source,traduction
+Show Currency Symbol on Right Side,Afficher le symbole de devise à droite
+Show Fieldname (click to copy on clipboard),Afficher le nom du champ (cliquer pour copier dans le presse-papiers)
+Show Opening and Closing Balance,Afficher le solde d'ouverture et de clôture
+Show Pay Button in Purchase Order Portal,Afficher le bouton Payer dans le portail des bons de commande
+Show Social Login Key as Authorization Server,Afficher la clé de connexion sociale comme serveur d'autorisation
+Show account deletion link in My Account page,Afficher le lien de suppression de compte dans la page Mon compte
+Show negative values as positive (for expenses in P&L),Afficher les valeurs négatives comme positives (pour les dépenses dans le P&L)
+Show net values in opening and closing columns,Afficher les valeurs nettes dans les colonnes d'ouverture et de clôture
+Showing only first {0} rows out of {1},Affichage des {0} premières lignes sur {1}
+Simple Python Expression, Example: <code class="language-python">status == "Invalid"</code>,Expression Python simple, Exemple : <code class="language-python">status == "Invalide"</code>
+Simple Python Expression, Example: doc.status == 'Open' and doc.issue_type == 'Bug',Expression Python simple, Exemple : doc.status == 'Ouvert' and doc.issue_type == 'Bug'
+Size exceeds the maximum allowed file size.,La taille dépasse la taille de fichier maximale autorisée.
+Source Warehouse is mandatory for the Item {0}.,L'entrepôt source est obligatoire pour l'article {0}.
+Source and target shifts cannot be the same,Les équipes source et cible ne peuvent pas être les mêmes
+Specify Exchange Rate to convert one currency into another,Spécifier le taux de change pour convertir une devise en une autre
+Specify conditions to calculate shipping amount,Spécifier les conditions pour calculer le montant de la livraison
+Split Early Payment Discount Loss into Income and Tax Loss,Diviser la perte d'escompte de paiement anticipé en perte de revenu et perte fiscale
+Split Quantity must be less than Asset Quantity,La quantité de division doit être inférieure à la quantité de l'actif
+Splitting {0} {1} into {2} rows as per Payment Terms,Division de {0} {1} en {2} lignes selon les conditions de paiement
+Standard DocType can not be deleted.,Le DocType standard ne peut pas être supprimé.
+Standard Reports cannot be deleted,Les rapports standard ne peuvent pas être supprimés
+Standard Reports cannot be edited,Les rapports standard ne peuvent pas être modifiés
+Standard Web Forms can not be modified, duplicate the Web Form instead.,Les formulaires web standard ne peuvent pas être modifiés, dupliquez le formulaire web à la place.
+Start Date should be lower than End Date,La date de début doit être inférieure à la date de fin
+Start date cannot be greater than end date.,La date de début ne peut pas être supérieure à la date de fin.
+Start time and end time cannot be same.,L'heure de début et l'heure de fin ne peuvent pas être identiques.
+Status Updated. The email will be picked up in the next scheduled run.,Statut mis à jour. L'e-mail sera traité lors de la prochaine exécution planifiée.
+Status set to rejected as there are one or more rejected readings.,Statut défini comme rejeté car il y a une ou plusieurs lectures rejetées.
+Stock Closing Entry {0} already exists for the selected date range,L'écriture de clôture de stock {0} existe déjà pour la plage de dates sélectionnée
+Stock Closing Entry {0} has been queued for processing, system will take sometime to complete it.,L'écriture de clôture de stock {0} a été mise en file d'attente de traitement, le système prendra un certain temps pour la compléter.
+Stock Entries already created for Work Order {0}: {1},Des écritures de stock ont déjà été créées pour l'ordre de travail {0} : {1}
+Stock Ledgers won't be reposted.,Les grands livres de stock ne seront pas retransmis.
+Stock Reservation Entries Cancelled,Écritures de réservation de stock annulées
+Stock Reservation Entries Created,Écritures de réservation de stock créées
+Stock Reservation Entry cannot be updated as it has been delivered.,L'écriture de réservation de stock ne peut pas être mise à jour car elle a été livrée.
+Stock cannot be updated against the following Delivery Notes: {0},Le stock ne peut pas être mis à jour contre les bons de livraison suivants : {0}
+Stock not available for Item {0} in Warehouse {1}.,Stock non disponible pour l'article {0} dans l'entrepôt {1}.
+Store the API secret securely. It won't be displayed again.,Stocker le secret API en sécurité. Il ne sera plus affiché.
+Strip EXIF tags from uploaded images,Supprimer les balises EXIF des images téléversées
+Sub assembly item references are missing. Please fetch the sub assemblies and raw materials again.,Les références des articles de sous-assemblage sont manquantes. Veuillez récupérer à nouveau les sous-assemblages et les matières premières.
+Subcontracting Order (Draft) will be auto-created on submission of Purchase Order.,L'ordre de sous-traitance (brouillon) sera créé automatiquement lors de la soumission du bon de commande.
+Submission of {0} before {1} is not allowed,La soumission de {0} avant {1} n'est pas autorisée
+Submit this Leave Application to confirm.,Soumettez cette demande de congé pour confirmer.
+Subscription for Future dates cannot be processed.,L'abonnement pour des dates futures ne peut pas être traité.
+Successfully changed Stock UOM, please redefine conversion factors for new UOM.,UDM de stock changée avec succès, veuillez redéfinir les facteurs de conversion pour la nouvelle UDM.
+Successfully created {0} for employees:,Créé avec succès {0} pour les employés :
+Successfully imported {0} out of {1} records.,Importé avec succès {0} sur {1} enregistrements.
+Successfully imported {0} record.,Importé avec succès {0} enregistrement.
+Successfully imported {0} records.,Importé avec succès {0} enregistrements.
+Successfully linked to Customer,Lié au client avec succès
+Successfully linked to Supplier,Lié au fournisseur avec succès
+Successfully merged {0} out of {1}.,Fusionné avec succès {0} sur {1}.
+Successfully updated {0} out of {1} records.,Mis à jour avec succès {0} sur {1} enregistrements.
+Sum of benefit amounts {0} exceeds maximum limit of {1},La somme des montants d'avantages {0} dépasse la limite maximale de {1}
+Supplier is required for all selected Items,Le fournisseur est requis pour tous les articles sélectionnés
+Sync events from Google as public,Synchroniser les événements Google comme publics
+System Manager privileges required.,Privilèges de gestionnaire système requis.
+System will not check over billing since amount for Item {0} in {1} is zero,Le système ne vérifiera pas la surfacturation car le montant pour l'article {0} dans {1} est zéro
+Table MultiSelect requires a table with at least one Link field, but none was found in {0},Table MultiSelect nécessite une table avec au moins un champ Lien, mais aucun n'a été trouvé dans {0}
+Target Asset {0} cannot be cancelled,L'actif cible {0} ne peut pas être annulé
+Target Asset {0} cannot be submitted,L'actif cible {0} ne peut pas être soumis
+Target Asset {0} does not belong to company {1},L'actif cible {0} n'appartient pas à la société {1}
+Target Asset {0} needs to be composite asset,L'actif cible {0} doit être un actif composite
+Target Location is required for transferring Asset {0},L'emplacement cible est requis pour transférer l'actif {0}
+Target Qty must be a positive number,La qté cible doit être un nombre positif
+Target Warehouse is required before Submit,L'entrepôt cible est requis avant la soumission
+Target Warehouse is set for some items but the customer is not an internal customer.,L'entrepôt cible est défini pour certains articles mais le client n'est pas un client interne.
+Task {0} depends on Task {1}. Please add Task {1} to the Tasks list.,La tâche {0} dépend de la tâche {1}. Veuillez ajouter la tâche {1} à la liste des tâches.
+Tax Amount will be rounded on a row(items) level,Le montant de la taxe sera arrondi au niveau de la ligne (articles)
+Taxable Income Relief Threshold Limit,Limite de seuil d'allègement du revenu imposable
+Text displayed on the financial statement (e.g. 'Total Revenue' 'Cash and Cash Equivalents'),Texte affiché sur l'état financier (ex. 'Chiffre d'affaires total' 'Trésorerie et équivalents')
+The Document Type {0} must have a Status field to configure Service Level Agreement,Le type de document {0} doit avoir un champ Statut pour configurer l'accord de niveau de service
+The GL Entries and closing balances will be processed in the background, it can take a few minutes.,Les écritures GL et les soldes de clôture seront traités en arrière-plan, cela peut prendre quelques minutes.
+The GL Entries will be cancelled in the background, it can take a few minutes.,Les écritures GL seront annulées en arrière-plan, cela peut prendre quelques minutes.
+The Payment Request {0} is already paid, cannot process payment twice,La demande de paiement {0} est déjà payée, impossible de traiter le paiement deux fois
+The Push Relay Server URL key (`push_relay_server_url`) is missing in your site config,La clé d'URL du serveur relais push (`push_relay_server_url`) est manquante dans votre configuration de site
+The Sales Person is linked with {0},Le commercial est lié à {0}
+The allocated amount is greater than the outstanding amount of Payment Request {0},Le montant alloué est supérieur au montant impayé de la demande de paiement {0}
+The application name will be used in the Login page.,Le nom de l'application sera utilisé dans la page de connexion.
+The changes have been reverted.,Les modifications ont été annulées.
+The default BOM for that item will be fetched by the system. You can also change the BOM.,La nomenclature par défaut pour cet article sera récupérée par le système. Vous pouvez également la modifier.
+The document type selected is a child table, so the parent document type is required.,Le type de document sélectionné est une table enfant, donc le type de document parent est requis.
+The field {0} in row {1} is not set,Le champ {0} à la ligne {1} n'est pas défini
+The field {0} in {1} does not allow ignoring user permissions,Le champ {0} dans {1} n'autorise pas l'ignorance des permissions utilisateur
+The field {0} in {1} links to {2} and not {3},Le champ {0} dans {1} est lié à {2} et non à {3}
+The first Approver in the list will be set as the default Approver.,Le premier approbateur de la liste sera défini comme approbateur par défaut.
+The following Purchase Invoices are not submitted:,Les factures d'achat suivantes ne sont pas soumises :
+The following assets have failed to automatically post depreciation entries: {0},Les actifs suivants n'ont pas réussi à comptabiliser automatiquement les écritures d'amortissement : {0}
+The following batches are expired, please restock them: <br> {0},Les lots suivants sont expirés, veuillez les réapprovisionner : <br> {0}
+The following invalid Pricing Rules are deleted:,Les règles de tarification invalides suivantes sont supprimées :
+The following rows are duplicates:,Les lignes suivantes sont des doublons :
+The items {0} and {1} are present in the following {2} :,Les articles {0} et {1} sont présents dans le {2} suivant :
+The job card {0} is in {1} state and you cannot complete.,La carte de travail {0} est en état {1} et vous ne pouvez pas la compléter.
+The job card {0} is in {1} state and you cannot start it again.,La carte de travail {0} est en état {1} et vous ne pouvez pas la redémarrer.
+The last scanned warehouse has been cleared and won't be set in the subsequently scanned items,Le dernier entrepôt scanné a été effacé et ne sera pas défini dans les articles scannés suivants
+The link will expire in {0} minutes,Le lien expirera dans {0} minutes
+The link you trying to login is invalid or expired.,Le lien que vous essayez d'utiliser pour vous connecter est invalide ou expiré.
+The next tour will start from where the user left off.,La prochaine visite guidée commencera là où l'utilisateur s'était arrêté.
+The operation {0} can not add multiple times,L'opération {0} ne peut pas être ajoutée plusieurs fois
+The operation {0} can not be the sub operation,L'opération {0} ne peut pas être la sous-opération
+The original invoice should be consolidated before or along with the return invoice.,La facture originale doit être consolidée avant ou avec la facture de retour.
+The reset password link has been expired,Le lien de réinitialisation du mot de passe a expiré
+The reset password link has either been used before or is invalid,Le lien de réinitialisation du mot de passe a déjà été utilisé ou est invalide
+The role {0} should be a custom role.,Le rôle {0} doit être un rôle personnalisé.
+The selected document {0} is not a {1}.,Le document sélectionné {0} n'est pas un {1}.
+The serial and batch bundle {0} not linked to {1} {2},Le lot de série et lot {0} n'est pas lié à {1} {2}
+The sync has started in the background, please check the {0} list for new records.,La synchronisation a démarré en arrière-plan, veuillez vérifier la liste {0} pour les nouveaux enregistrements.
+The system provides many pre-defined roles. You can add new roles to set finer permissions.,Le système propose de nombreux rôles prédéfinis. Vous pouvez ajouter de nouveaux rôles pour définir des permissions plus fines.
+The uploaded file does not appear to be in valid MT940 format.,Le fichier téléversé ne semble pas être au format MT940 valide.
+The uploaded file does not match the selected Code List.,Le fichier téléversé ne correspond pas à la liste de codes sélectionnée.
+The user can create a new Item but cannot edit existing items.,L'utilisateur peut créer un nouvel article mais ne peut pas modifier les articles existants.
+The user can delete Draft / Cancelled documents.,L'utilisateur peut supprimer les documents en brouillon / annulés.
+The user can export report data.,L'utilisateur peut exporter les données du rapport.
+The user can select a Customer in Sales Order but cannot open the Customer master.,L'utilisateur peut sélectionner un client dans la commande client mais ne peut pas ouvrir le maître client.
+The user can share document access with another user.,L'utilisateur peut partager l'accès au document avec un autre utilisateur.
+The user can view Sales Invoices but cannot modify any field values in them.,L'utilisateur peut voir les factures de vente mais ne peut pas modifier les valeurs des champs.
+The user cannot submit the Serial and Batch Bundle manually,L'utilisateur ne peut pas soumettre le lot de série et lot manuellement
+The warehouse where you store finished Items before they are shipped.,L'entrepôt où vous stockez les articles finis avant leur expédition.
+The {0} {1} created successfully,Le {0} {1} créé avec succès
+There are no Failed transactions,Il n'y a pas de transactions échouées
+There are no upcoming events for you.,Vous n'avez pas d'événements à venir.
+There are overlapping accruals here {},Il y a des accruals qui se chevauchent ici {}
+There are {0} with the same filters already in the queue:,Il y a {0} avec les mêmes filtres déjà dans la file d'attente :
+There aren't any item variants for the selected item,Il n'y a pas de variantes d'article pour l'article sélectionné
+There can be only 9 Page Break fields in a Web Form,Il ne peut y avoir que 9 champs de saut de page dans un formulaire web
+There is already an active Subcontracting BOM {0} for the Finished Good {1}.,Il y a déjà une nomenclature de sous-traitance active {0} pour le produit fini {1}.
+There is no Salary Structure assigned to {0}. First assign a Salary Structure.,Aucune structure salariale n'est affectée à {0}. Affectez d'abord une structure salariale.
+There must be atleast 1 Finished Good in this Stock Entry,Il doit y avoir au moins 1 produit fini dans cette écriture de stock
+There was an error creating Bank Account while linking with Plaid.,Une erreur s'est produite lors de la création du compte bancaire lors de la liaison avec Plaid.
+There was an error updating Bank Account {} while linking with Plaid.,Une erreur s'est produite lors de la mise à jour du compte bancaire {} lors de la liaison avec Plaid.
+There were errors while sending email. Please try again.,Des erreurs se sont produites lors de l'envoi de l'e-mail. Veuillez réessayer.
+These announcements will appear inside a dismissible alert below the Navbar.,Ces annonces apparaîtront dans une alerte fermable sous la barre de navigation.
+This PDF cannot be uploaded as it contains unsafe content.,Ce PDF ne peut pas être téléversé car il contient du contenu non sécurisé.
+This Purchase Order has been fully subcontracted.,Ce bon de commande a été entièrement sous-traité.
+This Sales Order has been fully subcontracted.,Cette commande client a été entièrement sous-traitée.
+This action is irreversible. Do you wish to continue?,Cette action est irréversible. Souhaitez-vous continuer ?
+This doctype has no orphan fields to trim,Ce doctype n'a pas de champs orphelins à supprimer
+This document has already been queued for submission.,Ce document a déjà été mis en file d'attente pour soumission.
+This document is currently locked and queued for execution. Please try again after some time.,Ce document est actuellement verrouillé et en file d'attente d'exécution. Veuillez réessayer après quelque temps.
+This feature is brand new and still experimental,Cette fonctionnalité est toute nouvelle et encore expérimentale
+This field is used to set the 'Customer'.,Ce champ est utilisé pour définir le 'Client'.
+This file is attached to a protected document and cannot be deleted.,Ce fichier est joint à un document protégé et ne peut pas être supprimé.
+This file is public. It can be accessed without authentication.,Ce fichier est public. Il peut être consulté sans authentification.
+This filter will be applied to Journal Entry.,Ce filtre sera appliqué à l'écriture de journal.
+This form is not editable due to a Workflow.,Ce formulaire n'est pas modifiable en raison d'un flux de travail.
