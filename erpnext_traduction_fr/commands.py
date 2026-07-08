@@ -311,7 +311,7 @@ def build_fr_translations(ctx, app, auto, assemble):
                 wl = _read_csv(_worklist_path())
                 for row in wl[1:]:
                     if len(row) >= 2 and row[0] and row[1]:
-                        src, tr = row[0].strip(), row[1].strip()
+                        src, tr = row[0], row[1]
                         if (src, "") not in merged:
                             merged[(src, "")] = tr
 
